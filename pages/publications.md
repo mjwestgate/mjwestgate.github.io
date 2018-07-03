@@ -183,7 +183,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">
     https://doi.org/10.1111/j.1600-0706.2011.19863.x
   </a>
-  <p style="margin-left: 2.5em">
+  <span style="margin-left: 2.5em">
     <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" target="_blank" title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
     </a>
