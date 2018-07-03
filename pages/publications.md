@@ -6,9 +6,24 @@ title: Publications
 This page lists all of the peer-reviewed journal articles that I have authored or coauthored.
 
 <em><strong>2018</strong></em>
-<p style="margin-left: .35in; text-indent: -.3in;">29. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> <a href="https://doi.org/10.1093/biosci/biy080" target="_blank" rel="noopener">https://doi.org/10.1093/biosci/biy080</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">28. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <strong>MJ Westgate</strong> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223:668-674. <a href="https://doi.org/10.1016/j.jenvman.2018.06.084" target="_blank" rel="noopener">https://doi.org/10.1016/j.jenvman.2018.06.084</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">27. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221. <a href="https://doi.org/10.1016/j.biocon.2018.04.007" target="_blank" rel="noopener">https://doi.org/10.1016/j.biocon.2018.04.007</a></p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  29. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> 
+    <a href="https://doi.org/10.1093/biosci/biy080" target="_blank" rel="noopener">
+      https://doi.org/10.1093/biosci/biy080
+    </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  28. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <strong>MJ Westgate</strong> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
+  <a href="https://doi.org/10.1016/j.jenvman.2018.06.084" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.jenvman.2018.06.084
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  27. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221. 
+  <a href="https://doi.org/10.1016/j.biocon.2018.04.007" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.biocon.2018.04.007
+  </a>
+</p>
 <p style="margin-left: .35in; text-indent: -.3in;">26. <strong>MJ Westgate</strong>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer (2018) Software support for environmental evidence synthesis. <em>Nature Ecology and Evolution</em> 2: 588–590. <a href="https://doi.org/10.1038/s41559-018-0502-x" target="_blank" rel="noopener">https://doi.org/10.1038/s41559-018-0502-x</a></p>
 <p style="margin-left: .35in; text-indent: -.3in;">25. <strong>MJ Westgate</strong> (2018) revtools: bibliographic data visualization for evidence synthesis in R. <em>biorxiv</em>. <a href="https://doi.org/10.1101/262881" target="_blank" rel="noopener">https://doi.org/10.1101/262881</a></p>
 <p style="margin-left: .35in; text-indent: -.3in;">24. <strong>MJ Westgate</strong>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer (2018) Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients. <em>Diversity & Distributions</em> 24(1): 82-91. <a href="https://doi.org/10.1111/ddi.12659" target="_blank" rel="noopener">https://doi.org/10.1111/ddi.12659</a></p>
@@ -38,5 +53,5 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 <em><strong>≤2013</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">4. <strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2013) Adaptive management of biological systems: A review. <em>Biological Conservation</em> 158: 128-139. <a href="https://doi.org/10.1016/j.biocon.2012.08.016" target="_blank" rel="noopener">https://doi.org/10.1016/j.biocon.2012.08.016</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/westgate-et-al-2013-biolcons-adaptive-management.pdf" target="_blank" rel="noopener">PDF</a>]</p>
 <p style="margin-left: .35in; text-indent: -.3in;">3. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species. <em>Biological Conservation</em> 153: 169-176. <a href="https://doi.org/10.1016/j.biocon.2012.04.030" target="_blank" rel="noopener">https://doi.org/10.1016/j.biocon.2012.04.030</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/westgate-et-al-2012-biolcons.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524. <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">https://doi.org/10.1111/j.1600-0706.2011.19863.x</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/westgate-et-al-2012-oikos.pdf" target="_blank" rel="noopener">PDF</a>]</p>
+<p style="margin-left: .35in; text-indent: -.3in;">2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524. <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">https://doi.org/10.1111/j.1600-0706.2011.19863.x</a></p>
 <p style="margin-left: .35in; text-indent: -.3in;">1. A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio,<strong> MJ Westgate</strong> & M Worthy (2009) Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature. <em>Biodiversity and Conservation</em> 18:2243-2253.  <a href="https://doi.org/10.1007/s10531-009-9652-0" target="_blank" rel="noopener">https://doi.org/10.1007/s10531-009-9652-0</a></p>
