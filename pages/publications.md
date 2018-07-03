@@ -24,34 +24,163 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.biocon.2018.04.007
   </a>
 </p>
-<p style="margin-left: .35in; text-indent: -.3in;">26. <strong>MJ Westgate</strong>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer (2018) Software support for environmental evidence synthesis. <em>Nature Ecology and Evolution</em> 2: 588–590. <a href="https://doi.org/10.1038/s41559-018-0502-x" target="_blank" rel="noopener">https://doi.org/10.1038/s41559-018-0502-x</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">25. <strong>MJ Westgate</strong> (2018) revtools: bibliographic data visualization for evidence synthesis in R. <em>biorxiv</em>. <a href="https://doi.org/10.1101/262881" target="_blank" rel="noopener">https://doi.org/10.1101/262881</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">24. <strong>MJ Westgate</strong>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer (2018) Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients. <em>Diversity & Distributions</em> 24(1): 82-91. <a href="https://doi.org/10.1111/ddi.12659" target="_blank" rel="noopener">https://doi.org/10.1111/ddi.12659</a></p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  26. <strong>MJ Westgate</strong>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer (2018) Software support for environmental evidence synthesis. <em>Nature Ecology and Evolution</em> 2: 588–590.
+  <a href="https://doi.org/10.1038/s41559-018-0502-x" target="_blank" rel="noopener">
+    https://doi.org/10.1038/s41559-018-0502-x
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  25. <strong>MJ Westgate</strong> (2018) revtools: bibliographic data visualization for evidence synthesis in R. <em>biorxiv</em>.
+  <a href="https://doi.org/10.1101/262881" target="_blank" rel="noopener">
+    https://doi.org/10.1101/262881
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  24. <strong>MJ Westgate</strong>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer (2018) Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients. <em>Diversity & Distributions</em> 24(1): 82-91.
+  <a href="https://doi.org/10.1111/ddi.12659" target="_blank" rel="noopener">
+    https://doi.org/10.1111/ddi.12659
+  </a>
+</p>
 <em><strong>2017</strong></em>
-<p style="margin-left: .35in; text-indent: -.3in;">23. <strong>MJ Westgate</strong> & DB Lindenmayer (2017) The difficulties of systematic reviews. <em>Conservation Biology</em> 31(5): 1002-1007. <a href="https://doi.org/10.1111/cobi.12890" target="_blank" rel="noopener">https://doi.org/10.1111/cobi.12890</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">22. <strong>MJ Westgate</strong>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548. <a href="https://doi.org/10.1111/ecog.02318" target="_blank" rel="noopener">https://doi.org/10.1111/ecog.02318</a> [<a href="https://martinwestgate.files.wordpress.com/2016/03/westgate_etal_ecography_aaf.pdf" target="_blank" rel="noopener">PDF (author's version)</a>]</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  23. <strong>MJ Westgate</strong> & DB Lindenmayer (2017) The difficulties of systematic reviews. <em>Conservation Biology</em> 31(5): 1002-1007.
+  <a href="https://doi.org/10.1111/cobi.12890" target="_blank" rel="noopener">
+    https://doi.org/10.1111/cobi.12890
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  22. <strong>MJ Westgate</strong>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548. <a href="https://doi.org/10.1111/ecog.02318" target="_blank" rel="noopener">
+    https://doi.org/10.1111/ecog.02318
+  </a>
+</p>
 <em><strong>2016</strong></em>
-<p style="margin-left: .35in; text-indent: -.3in;">21. DB Lindenmayer, C MacGregor, J Wood, <strong>MJ Westgate</strong>, K Ikin, C Foster, F Ford & R Zentelis (2016) Bombs, fire and biodiversity: vertebrate fauna occurrence in areas subject to military training. <em>Biological Conservation</em> 204(B) 276-283. <a href="https://dx.doi.org/10.1016/j.biocon.2016.10.030" target="_blank" rel="noopener">https://dx.doi.org/10.1016/j.biocon.2016.10.030</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">20. DB Lindenmayer, SG Candy, SC Banks, <strong>MJ Westgate</strong>, K Ikin, JC Pierson, AIT Tulloch & PS Barton (2016) Do temporal changes in vegetation structure predict changes in bird occupancy additional to time since fire? <em>Ecological Applications</em> 26(7) 2267-2279. <a href="https://doi.org/10.1002/eap.1367" target="_blank" rel="noopener">https://doi.org/10.1002/eap.1367</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">19. AIT Tulloch, I Chadés, Y Dujardin, <strong>MJ Westgate</strong>, PW Lane & DB Lindenmayer (2016) Dynamic species co-occurrence networks require dynamic biodiversity surrogates. <em>Ecography</em> 39(12) 1185-1196. <a href="https://doi.org/10.1111/ecog.02143" target="_blank" rel="noopener">https://doi.org/10.1111/ecog.02143</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">18. M Hunter Jr., <strong>M Westgate</strong>, P Barton, A Calhoun, J Pierson, A Tulloch, M Beger, C Branquino, T Caro, J Gross, J Heino, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo & D Lindenmayer (2016) Two roles for ecological surrogacy: indicator surrogates and management surrogates. <em>Ecological Indicators </em>63: 121-125.  <a href="https://doi.org/10.1016/j.ecolind.2015.11.049" target="_blank" rel="noopener">https://doi.org/10.1016/j.ecolind.2015.11.049</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;"><em><strong>2015</strong></em></p>
-<p style="margin-left: .35in; text-indent: -.3in;">17. <strong>MJ Westgate</strong>, PS Barton, JC Pierson & DB Lindenmayer (2015) Text analysis tools for identification of emerging topics and research gaps in conservation science. <em>Conservation Biology</em> 29(6): 1606-1614. <a href="https://doi.org/10.1111/cobi.12605" target="_blank" rel="noopener">https://doi.org/10.1111/cobi.12605</a> [<a href="https://martinwestgate.files.wordpress.com/2016/03/westgate_etal_2015_consbiol_aav.pdf" target="_blank" rel="noopener">PDF (author's version)</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">16. <strong>MJ Westgate</strong>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner & DA Driscoll (2015) Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines. <em>PLoS ONE</em> 10(11): e0140973. <a href="https://doi.org/10.1371/journal.pone.0140973" target="_blank" rel="noopener">https://doi.org/10.1371/journal.pone.0140973</a> [<a href="https://martinwestgate.files.wordpress.com/2016/03/westgate_etal_2015_plosone.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">15. D Lindenmayer, J Pierson, P Barton, M Beger, C Branquinho, A Calhoun, T Caro, H Greig, J Gross, J Heino, M Hunter, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo, A Tulloch & <strong>M Westgate</strong> (2015) A new framework for selecting environmental surrogates. <em>Science of the Total Environment</em> 538: 1029-1038.  <a href="https://doi.org/10.1016/j.scitotenv.2015.08.056" target="_blank" rel="noopener">https://doi.org/10.1016/j.scitotenv.2015.08.056</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">14. D Stojanovic, A Terauds, <strong>MJ Westgate</strong>, MH Webb & R Heinsohn (2015) Exploiting the richest patch has a fitness pay-off for the migratory swift parrot. <em>Journal of Animal Ecology</em> 84(5): 1194-1201. <a href="https://doi.org/10.1111/1365-2656.12375" target="_blank" rel="noopener">https://doi.org/10.1111/1365-2656.12375</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">13. A Mortelliti, <strong>MJ Westgate</strong>, J Stein, J Wood & DB Lindenmayer (2015) Ecological and spatial drivers of population synchrony in bird assemblages. <em>Basic and Applied Ecology</em> 16(3): 269-278. <a href="https://doi.org/10.1016/j.baae.2015.01.008" target="_blank" rel="noopener">https://doi.org/10.1016/j.baae.2015.01.008</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">12. PS Barton, JC Pierson, <strong>MJ Westgate</strong>, PW Lane & DB Lindenmayer (2015) Learning from clinical medicine to improve the use of surrogates in ecology. <em>Oikos</em> 124: 391-398. <a href="https://doi.org/10.1111/oik.02007" target="_blank" rel="noopener">https://doi.org/10.1111/oik.02007</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;"><em><strong>2014</strong></em></p>
-<p style="margin-left: .35in; text-indent: -.3in;">11. DB Lindenmayer, PW Lane, <strong>MJ Westgate</strong>, M Crane, D Michael, S Okada & PS Barton (2014) An empirical assessment of the focal species hypothesis. <em>Conservation Biology</em> 28(6): 1594-1603. <a href="https://doi.org/10.1111/cobi.12330" target="_blank" rel="noopener">https://doi.org/10.1111/cobi.12330</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">10. PS Barton, <strong>MJ Westgate</strong>, PW Lane, C MacGregor & DB Lindenmayer (2014) Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time. <em>Journal of Applied Ecology</em> 51(5): 1434-1443. <a href="https://doi.org/10.1111/1365-2664.12290" target="_blank" rel="noopener">https://doi.org/10.1111/1365-2664.12290</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">9. A Mortelliti, <strong>MJ Westgate</strong>, & DB Lindenmayer (2014) Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations. <em>Journal of Applied Ecology</em> 51(5): 1179-1187. <a href="https://doi.org/10.1111/1365-2664.12313" target="_blank" rel="noopener">https://doi.org/10.1111/1365-2664.12313</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">8. PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <strong>MJ Westgate</strong> (2014) Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages. <em>Ecology and Evolution.</em> <a href="https://doi.org/10.1002/ece3.1182" target="_blank" rel="noopener">https://doi.org/10.1002/ece3.1182</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/lane-et-al-2014-ecolevol.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">7. <strong>MJ Westgate</strong>, PS Barton, PW Lane & DB Lindenmayer (2014) Global meta-analysis reveals low consistency of biodiversity congruence relationships. <em>Nature Communications</em> 5:3899. <a href="https://doi.org/10.1038/ncomms4899" target="_blank" rel="noopener">https://doi.org/10.1038/ncomms4899</a> [<a href="https://martinwestgate.files.wordpress.com/2016/03/westgate-et-al-2014-natcomm.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">6. DA Driscoll, SC Banks, PS Barton, K Ikin, P Lentini, DB Lindenmayer, AL Smith, LE Berry, EL Burns, A Edworthy, MJ Evans, R Gibson, R Heinsohn, B Howland, G Kay, N Munro, BC Scheele, I Stirnemann, D Stojanovic, N Sweaney, NR Villasenor, & <strong>MJ Westgate</strong> (2014) The trajectory of dispersal research in conservation biology. Systematic review. <i>PLoS ONE</i> 9(4): e95053. <a href="https://doi.org/10.1371/journal.pone.0095053" target="_blank" rel="noopener">https://doi.org/10.1371/journal.pone.0095053</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/driscoll-et-al-2014-plosone.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">5. DB Lindenmayer, PS Barton, PW Lane, <b>MJ</b> <b>Westgate</b>, L McBurney, D Blair, P Gibbons & GE Likens (2014) An empirical assessment and comparison of species-based and habitat-based surrogates: a case study of forest vertebrates and large old trees. <i>PLoS ONE</i> 9(2): e89807. <a href="https://doi.org/10.1371/journal.pone.0089807" target="_blank" rel="noopener">https://doi.org/10.1371/journal.pone.0089807</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/lindenmayer-et-al-2014-plos-one.pdf" target="_blank" rel="noopener">PDF</a>]</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  21. DB Lindenmayer, C MacGregor, J Wood, <strong>MJ Westgate</strong>, K Ikin, C Foster, F Ford & R Zentelis (2016) Bombs, fire and biodiversity: vertebrate fauna occurrence in areas subject to military training. <em>Biological Conservation</em> 204(B) 276-283.
+  <a href="https://dx.doi.org/10.1016/j.biocon.2016.10.030" target="_blank" rel="noopener">
+    https://dx.doi.org/10.1016/j.biocon.2016.10.030
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  20. DB Lindenmayer, SG Candy, SC Banks, <strong>MJ Westgate</strong>, K Ikin, JC Pierson, AIT Tulloch & PS Barton (2016) Do temporal changes in vegetation structure predict changes in bird occupancy additional to time since fire? <em>Ecological Applications</em> 26(7) 2267-2279.
+  <a href="https://doi.org/10.1002/eap.1367" target="_blank" rel="noopener">
+    https://doi.org/10.1002/eap.1367
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  19. AIT Tulloch, I Chadés, Y Dujardin, <strong>MJ Westgate</strong>, PW Lane & DB Lindenmayer (2016) Dynamic species co-occurrence networks require dynamic biodiversity surrogates. <em>Ecography</em> 39(12) 1185-1196. 
+  <a href="https://doi.org/10.1111/ecog.02143" target="_blank" rel="noopener">
+    https://doi.org/10.1111/ecog.02143
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  18. M Hunter Jr., <strong>M Westgate</strong>, P Barton, A Calhoun, J Pierson, A Tulloch, M Beger, C Branquino, T Caro, J Gross, J Heino, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo & D Lindenmayer (2016) Two roles for ecological surrogacy: indicator surrogates and management surrogates. <em>Ecological Indicators </em>63: 121-125. 
+  <a href="https://doi.org/10.1016/j.ecolind.2015.11.049" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.ecolind.2015.11.049
+  </a>
+</p>
+<em><strong>2015</strong></em>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  17. <strong>MJ Westgate</strong>, PS Barton, JC Pierson & DB Lindenmayer (2015) Text analysis tools for identification of emerging topics and research gaps in conservation science. <em>Conservation Biology</em> 29(6): 1606-1614.
+  <a href="https://doi.org/10.1111/cobi.12605" target="_blank" rel="noopener">
+    https://doi.org/10.1111/cobi.12605
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  16. <strong>MJ Westgate</strong>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner & DA Driscoll (2015) Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines. <em>PLoS ONE</em> 10(11): e0140973. 
+  <a href="https://doi.org/10.1371/journal.pone.0140973" target="_blank" rel="noopener">
+    https://doi.org/10.1371/journal.pone.0140973
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  15. D Lindenmayer, J Pierson, P Barton, M Beger, C Branquinho, A Calhoun, T Caro, H Greig, J Gross, J Heino, M Hunter, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo, A Tulloch & <strong>M Westgate</strong> (2015) A new framework for selecting environmental surrogates. <em>Science of the Total Environment</em> 538: 1029-1038.
+  <a href="https://doi.org/10.1016/j.scitotenv.2015.08.056" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.scitotenv.2015.08.056
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  14. D Stojanovic, A Terauds, <strong>MJ Westgate</strong>, MH Webb & R Heinsohn (2015) Exploiting the richest patch has a fitness pay-off for the migratory swift parrot. <em>Journal of Animal Ecology</em> 84(5): 1194-1201. 
+  <a href="https://doi.org/10.1111/1365-2656.12375" target="_blank" rel="noopener">
+    https://doi.org/10.1111/1365-2656.12375
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  13. A Mortelliti, <strong>MJ Westgate</strong>, J Stein, J Wood & DB Lindenmayer (2015) Ecological and spatial drivers of population synchrony in bird assemblages. <em>Basic and Applied Ecology</em> 16(3): 269-278.
+  <a href="https://doi.org/10.1016/j.baae.2015.01.008" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.baae.2015.01.008
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  12. PS Barton, JC Pierson, <strong>MJ Westgate</strong>, PW Lane & DB Lindenmayer (2015) Learning from clinical medicine to improve the use of surrogates in ecology. <em>Oikos</em> 124: 391-398.
+  <a href="https://doi.org/10.1111/oik.02007" target="_blank" rel="noopener">
+    https://doi.org/10.1111/oik.02007
+  </a>
+</p>
+<em><strong>2014</strong></em>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  11. DB Lindenmayer, PW Lane, <strong>MJ Westgate</strong>, M Crane, D Michael, S Okada & PS Barton (2014) An empirical assessment of the focal species hypothesis. <em>Conservation Biology</em> 28(6): 1594-1603. 
+  <a href="https://doi.org/10.1111/cobi.12330" target="_blank" rel="noopener">
+    https://doi.org/10.1111/cobi.12330
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  10. PS Barton, <strong>MJ Westgate</strong>, PW Lane, C MacGregor & DB Lindenmayer (2014) Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time. <em>Journal of Applied Ecology</em> 51(5): 1434-1443.
+  <a href="https://doi.org/10.1111/1365-2664.12290" target="_blank" rel="noopener">
+    https://doi.org/10.1111/1365-2664.12290
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  9. A Mortelliti, <strong>MJ Westgate</strong>, & DB Lindenmayer (2014) Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations. <em>Journal of Applied Ecology</em> 51(5): 1179-1187.
+  <a href="https://doi.org/10.1111/1365-2664.12313" target="_blank" rel="noopener">
+    https://doi.org/10.1111/1365-2664.12313
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  8. PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <strong>MJ Westgate</strong> (2014) Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages. <em>Ecology and Evolution.</em> 
+  <a href="https://doi.org/10.1002/ece3.1182" target="_blank" rel="noopener">
+    https://doi.org/10.1002/ece3.1182
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  7. <strong>MJ Westgate</strong>, PS Barton, PW Lane & DB Lindenmayer (2014) Global meta-analysis reveals low consistency of biodiversity congruence relationships. <em>Nature Communications</em> 5:3899.
+  <a href="https://doi.org/10.1038/ncomms4899" target="_blank" rel="noopener">
+    https://doi.org/10.1038/ncomms4899
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  6. DA Driscoll, SC Banks, PS Barton, K Ikin, P Lentini, DB Lindenmayer, AL Smith, LE Berry, EL Burns, A Edworthy, MJ Evans, R Gibson, R Heinsohn, B Howland, G Kay, N Munro, BC Scheele, I Stirnemann, D Stojanovic, N Sweaney, NR Villasenor, & <strong>MJ Westgate</strong> (2014) The trajectory of dispersal research in conservation biology. Systematic review. <i>PLoS ONE</i> 9(4): e95053.
+  <a href="https://doi.org/10.1371/journal.pone.0095053" target="_blank" rel="noopener">
+    https://doi.org/10.1371/journal.pone.0095053
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  5. DB Lindenmayer, PS Barton, PW Lane, <b>MJ</b> <b>Westgate</b>, L McBurney, D Blair, P Gibbons & GE Likens (2014) An empirical assessment and comparison of species-based and habitat-based surrogates: a case study of forest vertebrates and large old trees. <i>PLoS ONE</i> 9(2): e89807. 
+  <a href="https://doi.org/10.1371/journal.pone.0089807" target="_blank" rel="noopener">
+    https://doi.org/10.1371/journal.pone.0089807
+  </a>
+</p>
 <em><strong>≤2013</strong></em>
-<p style="margin-left: .35in; text-indent: -.3in;">4. <strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2013) Adaptive management of biological systems: A review. <em>Biological Conservation</em> 158: 128-139. <a href="https://doi.org/10.1016/j.biocon.2012.08.016" target="_blank" rel="noopener">https://doi.org/10.1016/j.biocon.2012.08.016</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/westgate-et-al-2013-biolcons-adaptive-management.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">3. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species. <em>Biological Conservation</em> 153: 169-176. <a href="https://doi.org/10.1016/j.biocon.2012.04.030" target="_blank" rel="noopener">https://doi.org/10.1016/j.biocon.2012.04.030</a> [<a href="https://martinwestgate.files.wordpress.com/2015/08/westgate-et-al-2012-biolcons.pdf" target="_blank" rel="noopener">PDF</a>]</p>
-<p style="margin-left: .35in; text-indent: -.3in;">2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524. <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">https://doi.org/10.1111/j.1600-0706.2011.19863.x</a></p>
-<p style="margin-left: .35in; text-indent: -.3in;">1. A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio,<strong> MJ Westgate</strong> & M Worthy (2009) Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature. <em>Biodiversity and Conservation</em> 18:2243-2253.  <a href="https://doi.org/10.1007/s10531-009-9652-0" target="_blank" rel="noopener">https://doi.org/10.1007/s10531-009-9652-0</a></p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  4. <strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2013) Adaptive management of biological systems: A review. <em>Biological Conservation</em> 158: 128-139.
+  <a href="https://doi.org/10.1016/j.biocon.2012.08.016" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.biocon.2012.08.016
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  3. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species. <em>Biological Conservation</em> 153: 169-176.
+  <a href="https://doi.org/10.1016/j.biocon.2012.04.030" target="_blank" rel="noopener">
+    https://doi.org/10.1016/j.biocon.2012.04.030
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524.
+  <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">
+    https://doi.org/10.1111/j.1600-0706.2011.19863.x
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  1. A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio,<strong> MJ Westgate</strong> & M Worthy (2009) Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature. <em>Biodiversity and Conservation</em> 18:2243-2253.
+  <a href="https://doi.org/10.1007/s10531-009-9652-0" target="_blank" rel="noopener">
+    https://doi.org/10.1007/s10531-009-9652-0
+  </a>
+</p>
