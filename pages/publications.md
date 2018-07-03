@@ -164,26 +164,35 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   4. <strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2013) Adaptive management of biological systems: A review. <em>Biological Conservation</em> 158: 128-139.
   <a href="https://doi.org/10.1016/j.biocon.2012.08.016" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.biocon.2012.08.016
+  </a> &nbsp;
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2013_BiolCons.pdf" title="PDF">
+    <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   3. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species. <em>Biological Conservation</em> 153: 169-176.
   <a href="https://doi.org/10.1016/j.biocon.2012.04.030" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.biocon.2012.04.030
+  </a> &nbsp;
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_BiolCons.pdf" title="PDF">
+    <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524.
   <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">
     https://doi.org/10.1111/j.1600-0706.2011.19863.x
-  </a>  
-  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" title="Westgate et al. 2012 PDF">
-    <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
+  </a> &nbsp;
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" title="PDF">
+    <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   1. A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio,<strong> MJ Westgate</strong> & M Worthy (2009) Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature. <em>Biodiversity and Conservation</em> 18:2243-2253.
   <a href="https://doi.org/10.1007/s10531-009-9652-0" target="_blank" rel="noopener">
     https://doi.org/10.1007/s10531-009-9652-0
+  </a> &nbsp;
+  <a href="https://mjwestgate.github.io/assets/docs/Felton_2009_BiodivCons.pdf" title="Westgate et al. 2012 PDF">
+    <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
