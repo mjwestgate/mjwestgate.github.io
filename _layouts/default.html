@@ -24,31 +24,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
-        <p><a href="https://openes.github.io/pages/publications.html">People</a></p>
+        <p><a href="https://openes.github.io/pages/publications.html">Publications</a></p>
         <br>
-        <div id="contact-list" style="text-align:left">
-          <a href="mailto:martin.westgate@anu.edu.au" title="Email">
-            <i class="fa fa-envelope fa-3x" style="color:#727272"></i>
-          </a>
-          <a href="http://scholar.google.com.au/citations?user=gsyXAPMAAAAJ" title="Google Scholar">
-            <i class="ai ai-google-scholar ai-3x" style="color:#727272"></i>
-          </a>
-          <a href="https://orcid.org/0000-0003-0854-2034" title="Orcid">
-            <i class="ai ai-orcid ai-3x" style="color:#727272"></i>
-          </a>
-          <a href="https://publons.com/a/1261211/" title="Publons">
-            <i class="ai ai-publons ai-3x" style="color:#727272"></i>
-          </a>
-          <a href="https://anu-au.academia.edu/MartinWestgate" title="Academia.edu">
-            <i class="ai ai-academia ai-3x" style="color:#727272"></i>
-          </a>
-          <a href="{{ site.github.owner_url }}" title="GitHub">
-            <i class="fa fa-github fa-3x" style="color:#727272"></i>
-          </a>
-          <a href="https://twitter.com/westgatecology", title="Twitter">
-            <i class="fa fa-twitter fa-3x" style="color:#727272"></i>
-          </a>
-        </div>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -64,10 +41,31 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p><small>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <div id="contact-list" style="text-align:left">
+          <a href="mailto:martin.westgate@anu.edu.au" title="Email">
+            <i class="fa fa-envelope fa-2x" style="color:#727272"></i>
+          </a>
+          <a href="http://scholar.google.com.au/citations?user=gsyXAPMAAAAJ" title="Google Scholar">
+            <i class="ai ai-google-scholar ai-2x" style="color:#727272"></i>
+          </a>
+          <a href="https://orcid.org/0000-0003-0854-2034" title="Orcid">
+            <i class="ai ai-orcid ai-2x" style="color:#727272"></i>
+          </a>
+          <a href="https://publons.com/a/1261211/" title="Publons">
+            <i class="ai ai-publons ai-2x" style="color:#727272"></i>
+          </a>
+          <a href="https://anu-au.academia.edu/MartinWestgate" title="Academia.edu">
+            <i class="ai ai-academia ai-2x" style="color:#727272"></i>
+          </a>
+          <a href="{{ site.github.owner_url }}" title="GitHub">
+            <i class="fa fa-github fa-2x" style="color:#727272"></i>
+          </a>
+          <a href="https://twitter.com/westgatecology", title="Twitter">
+            <i class="fa fa-twitter fa-2x" style="color:#727272"></i>
+          </a>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
