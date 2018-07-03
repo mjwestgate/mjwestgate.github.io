@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Martin Westgate
-description: Research in Ecology & Evidence Synthesis
+description: Research Fellow<br>Ecology & Evidence Synthesis<br>Fenner School of Environment & Society<br>Australian National University
 ---
 I am an ecologist and conservation biologist. I study how scientific information can be used to mitigate human impacts on the environment, using two complementary approaches:
 

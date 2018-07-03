@@ -1,3 +1,3 @@
-## Centre for Open Evidence Synthesis
+## Research website
 
-This is the GitHub repo for [https://openes.github.io](https://openes.github.io). It is under active development.
+This is the GitHub repo for [https://mjwestgate.github.io](https://mjwestgate.github.io). It is under active development.
