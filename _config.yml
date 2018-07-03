@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+exclude: ["README.md"]
+
+# theme info
+title: Martin Westgate
+description: Research in Ecology & Evidence Synthesis
+logo: assets/img/MWestgate_image.jpg
