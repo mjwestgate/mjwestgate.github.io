@@ -165,7 +165,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   <a href="https://doi.org/10.1016/j.biocon.2012.08.016" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.biocon.2012.08.016
   </a> &nbsp;
-  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2013_BiolCons.pdf" title="PDF">
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2013_BiolCons.pdf" target="_blank" title="PDF">
     <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
@@ -174,7 +174,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   <a href="https://doi.org/10.1016/j.biocon.2012.04.030" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.biocon.2012.04.030
   </a> &nbsp;
-  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_BiolCons.pdf" title="PDF">
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_BiolCons.pdf" target="_blank" title="PDF">
     <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
@@ -183,7 +183,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">
     https://doi.org/10.1111/j.1600-0706.2011.19863.x
   </a> &nbsp;
-  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" title="PDF">
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" target="_blank" title="PDF">
     <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
 </p>
@@ -191,8 +191,12 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   1. A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio,<strong> MJ Westgate</strong> & M Worthy (2009) Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature. <em>Biodiversity and Conservation</em> 18:2243-2253.
   <a href="https://doi.org/10.1007/s10531-009-9652-0" target="_blank" rel="noopener">
     https://doi.org/10.1007/s10531-009-9652-0
-  </a> &nbsp;
-  <a href="https://mjwestgate.github.io/assets/docs/Felton_2009_BiodivCons.pdf" title="Westgate et al. 2012 PDF">
-    <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
   </a>
+  <div style="text-align:right">
+    <a href="https://mjwestgate.github.io/assets/docs/Felton_2009_BiodivCons.pdf"
+      target="_blank"
+      title="Westgate et al. 2012 PDF">
+        <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
+    </a>
+  </div>
 </p>
