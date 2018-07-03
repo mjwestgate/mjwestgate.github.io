@@ -176,8 +176,8 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   2. <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2012) Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire? <em>Oikos</em> 121: 1516-1524.
   <a href="https://doi.org/10.1111/j.1600-0706.2011.19863.x" target="_blank" rel="noopener">
     https://doi.org/10.1111/j.1600-0706.2011.19863.x
-  </a>
-  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos" title="Westgate et al. 2012 PDF">
+  </a>  
+  <a href="https://mjwestgate.github.io/assets/docs/Westgate_2012_Oikos.pdf" title="Westgate et al. 2012 PDF">
     <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
   </a>
 </p>
