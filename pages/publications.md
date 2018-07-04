@@ -69,6 +69,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
     </a>
     <div
+      style="display: inline"
       data-badge-popover="right"
       data-badge-type="4"
       class='altmetric-embed'
