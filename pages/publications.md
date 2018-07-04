@@ -5,6 +5,8 @@ title: Publications
 # Publications
 This page lists all of the peer-reviewed journal articles that I have authored or coauthored.
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <em><strong>2018</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   29. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> 
@@ -66,6 +68,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
     </a>
+    <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/ecog.02318"></div>
   </span>
 </p>
 <em><strong>2016</strong></em>
