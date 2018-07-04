@@ -99,7 +99,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/ecog.02318
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2017_Westgate_Ecography.pdf"
+    <a href="/assets/docs/pubs/2017_Westgate_Ecography.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -120,7 +120,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://dx.doi.org/10.1016/j.biocon.2016.10.030
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2016_Lindenmayer_BiolCons.pdf"
+    <a href="/assets/docs/pubs/2016_Lindenmayer_BiolCons.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -140,7 +140,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1002/eap.1367
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2016_Lindenmayer_EcolApp.pdf"
+    <a href="/assets/docs/pubs/2016_Lindenmayer_EcolApp.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -160,7 +160,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/ecog.02143
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2016_Tulloch_Ecography.pdf"
+    <a href="/assets/docs/pubs/2016_Tulloch_Ecography.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -180,7 +180,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.ecolind.2015.11.049
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2016_Hunter_EcolInd.pdf"
+    <a href="/assets/docs/pubs/2016_Hunter_EcolInd.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -201,7 +201,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/cobi.12605
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Westgate_ConsBiol.pdf"
+    <a href="/assets/docs/pubs/2015_Westgate_ConsBiol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -221,7 +221,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1371/journal.pone.0140973
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Westgate_PLOSone.pdf"
+    <a href="/assets/docs/pubs/2015_Westgate_PLOSone.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -241,7 +241,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.scitotenv.2015.08.056
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Lindenmayer_STotEn.pdf"
+    <a href="/assets/docs/pubs/2015_Lindenmayer_STotEn.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -261,7 +261,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/1365-2656.12375
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Stojanovic_JAniEcol.pdf"
+    <a href="/assets/docs/pubs/2015_Stojanovic_JAniEcol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -281,7 +281,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.baae.2015.01.008
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Mortelliti_BasicAppEcol.pdf"
+    <a href="/assets/docs/pubs/2015_Mortelliti_BasicAppEcol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -301,7 +301,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/oik.02007
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2015_Barton_JAppEcol.pdf"
+    <a href="/assets/docs/pubs/2015_Barton_JAppEcol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -322,7 +322,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/cobi.12330
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Lindenmayer_ConsBiol.pdf"
+    <a href="/assets/docs/pubs/2014_Lindenmayer_ConsBiol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -342,7 +342,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/1365-2664.12290
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/Barton_2014_JAppEcol.pdf"
+    <a href="/assets/docs/pubs/Barton_2014_JAppEcol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -362,7 +362,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/1365-2664.12313
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Mortelliti_JAppEcol.pdf"
+    <a href="/assets/docs/pubs/2014_Mortelliti_JAppEcol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -382,7 +382,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1002/ece3.1182
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Lane_EcolEvol.pdf"
+    <a href="/assets/docs/pubs/2014_Lane_EcolEvol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -402,7 +402,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1038/ncomms4899
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Westgate_NatComm.pdf"
+    <a href="/assets/docs/pubs/2014_Westgate_NatComm.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -422,7 +422,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1371/journal.pone.0095053
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Driscoll_PLOSone.pdf"
+    <a href="/assets/docs/pubs/2014_Driscoll_PLOSone.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -442,7 +442,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1371/journal.pone.0089807
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2014_Lindenmayer_PLOSone.pdf"
+    <a href="/assets/docs/pubs/2014_Lindenmayer_PLOSone.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -463,7 +463,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.biocon.2012.08.016
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2013_Westgate_BiolCons.pdf"
+    <a href="/assets/docs/pubs/2013_Westgate_BiolCons.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -483,7 +483,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1016/j.biocon.2012.04.030
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2012_Westgate_BiolCons.pdf"
+    <a href="/assets/docs/pubs/2012_Westgate_BiolCons.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -505,7 +505,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/j.1600-0706.2011.19863.x
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2012_Westgate_Oikos.pdf"
+    <a href="/assets/docs/pubs/2012_Westgate_Oikos.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
@@ -525,7 +525,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1007/s10531-009-9652-0
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2009_Felton_BiodivCons.pdf"
+    <a href="/assets/docs/pubs/2009_Felton_BiodivCons.pdf"
       target="_blank"
       title="Westgate et al. 2012 PDF">
         <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
