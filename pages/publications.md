@@ -68,13 +68,13 @@ This page lists all of the peer-reviewed journal articles that I have authored o
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
     </a>
-    <span
-      style="display: inline"
-      data-badge-popover="right"
-      data-badge-type="4"
-      class='altmetric-embed'
-      data-doi="10.1111/ecog.02318">
-    </span>
+  </span>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/ecog.02318">
   </span>
 </p>
 <em><strong>2016</strong></em>
