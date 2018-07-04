@@ -80,7 +80,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     https://doi.org/10.1111/cobi.12890
   </a>
   <span style="margin-left: 2.5em">
-    <a href="https://mjwestgate.github.io/assets/docs/pubs/2017_Westgate_ConsBiol.pdf"
+    <a href="./assets/docs/pubs/2017_Westgate_ConsBiol.pdf"
       target="_blank"
       title="PDF">
       <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
