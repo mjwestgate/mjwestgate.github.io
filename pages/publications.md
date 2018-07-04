@@ -9,34 +9,56 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 
 <em><strong>2018</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  29. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> 
+  28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> 
     <a href="https://doi.org/10.1093/biosci/biy080" target="_blank" rel="noopener">
       https://doi.org/10.1093/biosci/biy080
     </a>
+    <span
+      style="margin-left: 2.5em"
+      data-badge-popover="right"
+      data-badge-type="4"
+      class='altmetric-embed'
+      data-doi="10.1093/biosci/biy080">
+    </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  28. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <strong>MJ Westgate</strong> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
+  27. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <strong>MJ Westgate</strong> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
   <a href="https://doi.org/10.1016/j.jenvman.2018.06.084" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.jenvman.2018.06.084
   </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1016/j.jenvman.2018.06.084">
+  </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  27. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221. 
+  26. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221. 
   <a href="https://doi.org/10.1016/j.biocon.2018.04.007" target="_blank" rel="noopener">
     https://doi.org/10.1016/j.biocon.2018.04.007
   </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1016/10.1016/j.biocon.2018.04.007">
+  </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  26. <strong>MJ Westgate</strong>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer (2018) Software support for environmental evidence synthesis. <em>Nature Ecology and Evolution</em> 2: 588–590.
+  25. <strong>MJ Westgate</strong>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer (2018) Software support for environmental evidence synthesis. <em>Nature Ecology and Evolution</em> 2: 588–590.
   <a href="https://doi.org/10.1038/s41559-018-0502-x" target="_blank" rel="noopener">
     https://doi.org/10.1038/s41559-018-0502-x
   </a>
-</p>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  25. <strong>MJ Westgate</strong> (2018) revtools: bibliographic data visualization for evidence synthesis in R. <em>biorxiv</em>.
-  <a href="https://doi.org/10.1101/262881" target="_blank" rel="noopener">
-    https://doi.org/10.1101/262881
-  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1038/s41559-018-0502-x">
+  </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   24. <strong>MJ Westgate</strong>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer (2018) Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients. <em>Diversity & Distributions</em> 24(1): 82-91.
@@ -70,7 +92,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     </a>
   </span>
   <span
-    style="margin-left: 2.5em"
+    style="margin-left: 1.5em"
     data-badge-popover="right"
     data-badge-type="4"
     class='altmetric-embed'
