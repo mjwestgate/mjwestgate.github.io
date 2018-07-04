@@ -3,6 +3,18 @@ layout: default
 title: Martin Westgate
 description: Research Fellow<br>Fenner School of Environment & Society<br>Australian National University
 ---
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-121833450-1');
+  </script>
+</head>
+
 I am a research fellow at the Australian National University. I study how scientific information can be used to understand human impacts on the environment, and to find ways to mitigate those impacts. I have a particular interest in ways to conserve biodiversity, and to make science more accessible outside of academia. My work is currently focussed on two related research fields:
 
 ## Applied ecology
