@@ -20,22 +20,26 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 
 <em><strong>2018</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em> 
-    <a href="https://doi.org/10.1093/biosci/biy080" target="_blank" rel="noopener">
-      https://doi.org/10.1093/biosci/biy080
-    </a>
-    <span
-      style="margin-left: 2.5em"
-      data-badge-popover="right"
-      data-badge-type="4"
-      class='altmetric-embed'
-      data-doi="10.1093/biosci/biy080">
-    </span>
+  28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em>.
+  <a href="https://doi.org/10.1093/biosci/biy080"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1093/biosci/biy080
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1093/biosci/biy080">
+  </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   27. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <strong>MJ Westgate</strong> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
-  <a href="https://doi.org/10.1016/j.jenvman.2018.06.084" target="_blank" rel="noopener">
-    https://doi.org/10.1016/j.jenvman.2018.06.084
+  <a href="https://doi.org/10.1016/j.jenvman.2018.06.084"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1016/j.jenvman.2018.06.084
   </a>
   <span
     style="margin-left: 2.5em"
@@ -46,9 +50,11 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  26. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221. 
-  <a href="https://doi.org/10.1016/j.biocon.2018.04.007" target="_blank" rel="noopener">
-    https://doi.org/10.1016/j.biocon.2018.04.007
+  26. DB Lindenmayer, P Lane, <strong>MJ Westgate</strong>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson (2018) Tests of predictions associated with temporal changes in Australian bird populations. <em>Biological Conservation</em> 222: 212-221.
+  <a href="https://doi.org/10.1016/j.biocon.2018.04.007"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1016/j.biocon.2018.04.007
   </a>
   <span
     style="margin-left: 2.5em"

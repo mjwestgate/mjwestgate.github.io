@@ -76,7 +76,7 @@ A Shiny app to plot outcomes from systematic maps. This project was developed at
 
 ## Ecology
 **circleplot**<br>
-An R package for circular network diagrams. It is designed to draw simple, pretty plots of association and correlation networks, and was inspired by the circlize package (though circleplot much simpler). My rationale was that using curves rather than straight lines, and careful use of colours, can improve the interpretability of these diagrams. This is a useful package for some visualisation tasks, but it's not well integrated with other network packages and is written with base (i.e. not ggplot2), so it probably won't go on CRAN anytime soon.<br>
+An R package for circular network diagrams, inspired by the circlize package (though circleplot is much simpler). My rationale was that using curves rather than straight lines, and careful use of colours, can improve the interpretability of network diagrams. This is a useful package for some visualisation tasks, but it's not well integrated with other network packages and is written with base (i.e. not ggplot2), so it probably won't go on CRAN anytime soon.<br>
 <a href="https://github.com/mjwestgate/circleplot"
   title="GitHub"
   target="_blank"
@@ -84,7 +84,7 @@ An R package for circular network diagrams. It is designed to draw simple, prett
   <i class="fa fa-github fa-2x" style="color:#727272"></i>
 </a>
 
-**sppairs**
+**sppairs**<br>
 An R package to implement pairwise 'apply' functions. It was built to calculate pairwise association metrics based on odds ratios (see <a href="https://doi.org/10.1002/ece3.1182" target="_blank" rel="noopener">Lane et al. 2014</a>), but includes options for a number of possible model types.<br>
 <a href="https://github.com/mjwestgate/sppairs"
   title="GitHub"
@@ -99,7 +99,7 @@ An R package to implement pairwise 'apply' functions. It was built to calculate 
 </a>
 
 **biodiversity surrogates**<br>
-A Shiny app to visualise groups of taxa to select for optimal biodiversity assessment, as presented in <a href="https://doi.org/10.1111/ecog.02318" target="_blank" rel="noopener">Westgate et al. 2017</a>.
+A Shiny app to visualise groups of taxa to select for optimal biodiversity assessment, as presented in <a href="https://doi.org/10.1111/ecog.02318" target="_blank" rel="noopener">Westgate et al. 2017</a>.<br>
 <a href="https://github.com/mjwestgate/biodiversity_surrogates"
   title="GitHub"
   target="_blank"
