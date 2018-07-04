@@ -95,7 +95,7 @@ An R package to implement pairwise 'apply' functions. It was built to calculate 
 <a href="/assets/docs/pubs/2014_Lane_EcolEvol.pdf"
   target="_blank"
   title="PDF">
-  <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
+  <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
 </a>
 
 **biodiversity surrogates**<br>
@@ -109,5 +109,5 @@ A Shiny app to visualise groups of taxa to select for optimal biodiversity asses
 <a href="/assets/docs/pubs/2017_Westgate_Ecography.pdf"
   target="_blank"
   title="PDF">
-  <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
+  <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
 </a>
