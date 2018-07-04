@@ -72,7 +72,6 @@ This page lists all of the peer-reviewed journal articles that I have authored o
       data-badge-popover="right"
       data-badge-type="4"
       class='altmetric-embed'
-      data-badge-type='donut'
       data-doi="10.1111/ecog.02318">
     </div>
   </span>
