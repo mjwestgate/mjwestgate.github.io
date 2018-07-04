@@ -11,10 +11,10 @@ I use [R](https://cran.r-project.org) for all my analysis and software developme
 ###revtools
 This package provides functions to import bibliographic data, screen for and remove duplicates, and investigate patterns in document similarity using a combination of topic models and correspondence analysis.
 <br>
-<a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools>
+<a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
   <img src="http://www.r-pkg.org/badges/version-last-release/revtools">
 </a>
-<a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools>
+<a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
   <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools">
 </a>
 <a href="https://revtools.net" title="Homepage">
