@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Martin Westgate
-description: Research Fellow<br>Fenner School of Environment & Society<br>Australian National University
+description: Research Fellow <br>Fenner School of Environment & Society <br>Australian National University
 ---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -25,4 +25,4 @@ I'm working to develop and test a set of tools to locate, interpret and synthesi
 ## Applied ecology
 Broadly speaking, ecology is the study of how plants and animals interact with one another. That sounds very simple until you realise that we all depend on ecosystems for some really important things; like fresh food, air, and water. Applied ecology is a very broad discipline, but I focus on how humans interact with ecosystems, and what the implications are of those interactions for preserving species that are at risk of extinction.
 
-In my research, I use data from field studies of plants, birds and frogs to study how biodiversity is affected by changes in habitat quality or availability. My PhD investigated the effects of fire on frogs in Booderee National Park (NSW, Australia). More recently, I have studied way to improve biodiversity monitoring and assessment, with the aim of making better recommendations for conservation.
+In my research, I use data from field studies of plants, birds and frogs to study how biodiversity is affected by changes in habitat quality or availability. My PhD investigated the effects of fire on frogs in Booderee National Park (NSW, Australia). More recently, I have studied ways to improve biodiversity monitoring and assessment, with the aim of making better recommendations for conservation.
