@@ -20,7 +20,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 
 <em><strong>2018</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practise. <em>BioScience</em>.
+  28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practice. <em>BioScience</em>.
   <a href="https://doi.org/10.1093/biosci/biy080"
     target="_blank"
     rel="noopener"

@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Martin Westgate
-description: Research Fellow <br>Fenner School of Environment & Society <br>Australian National University
+description: Research Fellow | ANU
 logo: assets/img/MWestgate_image.jpg
 google_analytics: true
 exclude: ["README.md"]
