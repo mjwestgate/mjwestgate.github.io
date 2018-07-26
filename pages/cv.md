@@ -21,18 +21,30 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 
 ## Qualifications and Awards
 <p style="margin-left: .35in; text-indent: -.3in;">
-2017: Next Generation Ecologist Award, Ecological Society of Australia<br>
-2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (19th July)<br>
-2006: Bachelor of Science (Honours), Flinders University<br>
-2005: Bachelor of Environmental Management, Flinders University
+  2017: Next Generation Ecologist Award, Ecological Society of Australia
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (19th July)
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2006: Bachelor of Science (Honours), Flinders University<br>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2005: Bachelor of Environmental Management, Flinders University
 </p>
 
 ## Employment History
 <p style="margin-left: .35in; text-indent: -.3in;">
-2018 - Present: Research Fellow, Fenner School, ANU<br>
-2013 - 2017: Postdoctoral Fellow, Fenner School, ANU<br>
-2011 - 2012: Course convenor for “Biodiversity Conservation in Modified Landscapes”, 3rd year and masters-level course at the Fenner School, ANU<br>
-2010 - 2011: Research Assistant, Fenner School, ANU
+  2018 - Present: Research Fellow, Fenner School, ANU
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2013 - 2017: Postdoctoral Fellow, Fenner School, ANU
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2011 - 2012: Course convenor for “Biodiversity Conservation in Modified Landscapes”, 3rd year and masters-level course at the Fenner School, ANU
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  2010 - 2011: Research Assistant, Fenner School, ANU
 </p>
 
 ## Publications
