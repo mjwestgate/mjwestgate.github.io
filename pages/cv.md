@@ -24,7 +24,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
   2017: Next Generation Ecologist Award, Ecological Society of Australia
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (19th July)
+  2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (awarded 19th July 2013)
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   2006: Bachelor of Science (Honours), Flinders University<br>
@@ -666,7 +666,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 
 ## Data and Software
 <p style="margin-left: .35in; text-indent: -.3in;">
-  <strong>MJ Westgate</strong> (2018) revtools: Tools to support evidence synthesis. R package version 0.2.1 <a href="https://cran.r-project.org/package=revtools"
+  <strong>MJ Westgate</strong> (2018) revtools: Tools to support evidence synthesis. R package version 0.2.2 <a href="https://cran.r-project.org/package=revtools"
       target="_blank"
       rel="noopener"
       >https://cran.r-project.org/package=revtools
