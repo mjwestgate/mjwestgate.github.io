@@ -21,17 +21,17 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 
 ## Qualifications and Awards
 <p style="margin-left: .35in; text-indent: -.3in;">
-2017: Next Generation Ecologist Award, Ecological Society of Australia
-2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (19th July)
-2006: Bachelor of Science (Honours), Flinders University
+2017: Next Generation Ecologist Award, Ecological Society of Australia<br>
+2013: Doctor of Philosophy in Conservation Biology & Landscape Ecology, ANU (19th July)<br>
+2006: Bachelor of Science (Honours), Flinders University<br>
 2005: Bachelor of Environmental Management, Flinders University
 </p>
 
 ## Employment History
 <p style="margin-left: .35in; text-indent: -.3in;">
-2018 - Present: Research Fellow, Fenner School, ANU
-2013 - 2017: Postdoctoral Fellow, Fenner School, ANU
-2011 - 2012: Course convenor for “Biodiversity Conservation in Modified Landscapes”, 3rd year and masters-level course at the Fenner School, ANU
+2018 - Present: Research Fellow, Fenner School, ANU<br>
+2013 - 2017: Postdoctoral Fellow, Fenner School, ANU<br>
+2011 - 2012: Course convenor for “Biodiversity Conservation in Modified Landscapes”, 3rd year and masters-level course at the Fenner School, ANU<br>
 2010 - 2011: Research Assistant, Fenner School, ANU
 </p>
 
@@ -620,22 +620,22 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 
 ### Book Chapters
 <p style="margin-left: .35in; text-indent: -.3in;">
-<strong>MJ Westgate</strong> (2015) Surrogates for the distribution and trajectory of biodiversity. Chapter 2 in DB Lindenmayer, PS Barton & JC Pierson (eds) <em>Indicators and Surrogates of Biodiversity and Environmental Change</em>. CSIRO Publishing.
+<strong>MJ Westgate</strong> (2015) Surrogates for the distribution and trajectory of biodiversity. Chapter 2 in DB Lindenmayer, PS Barton & JC Pierson (eds) <em>Indicators and Surrogates of Biodiversity and Environmental Change</em>. CSIRO Publishing.<br>
 
-DB Lindenmayer, JC Pierson, PS Barton, PL Lane & <strong>MJ Westgate</strong> (2015) Biodiversity surrogates. Chapter 3 in DB Lindenmayer, PS Barton & JC Pierson (eds) <em>Indicators and Surrogates of Biodiversity and Environmental Change</em>. CSIRO Publishing.
+DB Lindenmayer, JC Pierson, PS Barton, PL Lane & <strong>MJ Westgate</strong> (2015) Biodiversity surrogates. Chapter 3 in DB Lindenmayer, PS Barton & JC Pierson (eds) <em>Indicators and Surrogates of Biodiversity and Environmental Change</em>. CSIRO Publishing.<br>
 
 DB Lindenmayer, JC Pierson, PS Barton, PL Lane, AIT Tulloch & <strong>MJ Westgate</strong> (2015) A diversity of approaches to ecological surrogates and key knowledge gaps. Chapter 19 in DB Lindenmayer, PS Barton & JC Pierson (eds) <em>Indicators and Surrogates of Biodiversity and Environmental Change</em>. CSIRO Publishing.
 </p>
 
 ## Conference Presentations
 <p style="margin-left: .35in; text-indent: -.3in;">
-<strong>MJ Westgate</strong> (2017) Next Generation Ecologist Keynote Address: Mainstreaming text mining for rapid synthesis. <em>EcoTas: The joint conference of the Ecological Society of Australia and the New Zealand Ecological Society, Hunter Valley.</em>
+<strong>MJ Westgate</strong> (2017) Next Generation Ecologist Keynote Address: Mainstreaming text mining for rapid synthesis. <em>EcoTas: The joint conference of the Ecological Society of Australia and the New Zealand Ecological Society, Hunter Valley.</em><br>
 
-<strong>MJ Westgate</strong>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2015) Oral Presentation: Selecting optimal taxa for ecological monitoring: A meta-analytic approach. <em>Ecological Society of Australia Conference, Adelaide.</em>
+<strong>MJ Westgate</strong>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2015) Oral Presentation: Selecting optimal taxa for ecological monitoring: A meta-analytic approach. <em>Ecological Society of Australia Conference, Adelaide.</em><br>
 
-<strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2011) Oral Presentation: Adaptive Management of biological systems: a review. <em>Ecological Society of Australia Conference, Hobart.</em>
+<strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2011) Oral Presentation: Adaptive Management of biological systems: a review. <em>Ecological Society of Australia Conference, Hobart.</em><br>
 
-<strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2010) Oral Presentation: Do amphibians preferentially use streamlines as terrestrial habitat? <em>Ecological Society of Australia Conference, Canberra.</em>
+<strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2010) Oral Presentation: Do amphibians preferentially use streamlines as terrestrial habitat? <em>Ecological Society of Australia Conference, Canberra.</em><br>
 
 <strong>MJ Westgate</strong>, DA Driscoll & DB Lindenmayer (2010) Oral Presentation: Testing hypotheses relating to fire effects on an amphibian community. <em>International Congress on Conservation Biology, Edmonton.</em>
 </p>
@@ -646,27 +646,27 @@ DB Lindenmayer, JC Pierson, PS Barton, PL Lane, AIT Tulloch & <strong>MJ Westgat
     target="_blank"
     rel="noopener"
     >https://cran.r-project.org/package=revtools
-  </a>
+  </a><br>
 
 <strong>MJ Westgate</strong>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Data from: Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40(4): 539-548.   <a href="https://doi.org/10.5061/dryad.s1660"
     target="_blank"
     rel="noopener"
-    >https://doi.org/10.5061/dryad.s1660</a>
+    >https://doi.org/10.5061/dryad.s1660</a><br>
 
 AIT Tulloch, I Chades, Y Dujardin, <strong>MJ Westgate</strong>, PW Lane & DB Lindenmayer (2017) Data from: Dynamic species occurrence networks require dynamic biodiversity surrogates. <em>Ecography</em>  <a href="https://doi.org/10.5061/dryad.5c4d6"
     target="_blank"
     rel="noopener"
-    >https://doi.org/10.5061/dryad.5c4d6</a>
+    >https://doi.org/10.5061/dryad.5c4d6</a><br>
 
 <strong>MJ Westgate</strong>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner & DA Driscoll (2015) Data from: Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines. <em>PLOS ONE</em>   <a href="https://doi.org/10.5061/dryad.75s51"
     target="_blank"
     rel="noopener"
-    >https://doi.org/10.5061/dryad.75s51</a>
+    >https://doi.org/10.5061/dryad.75s51</a><br>
 
 D Stojanovic, A Terauds, <strong>MJ Westgate</strong>, MH Webb & R Heinsohn (2015) Data from: Exploiting the richest patch has a fitness pay-off for the migratory swift parrot. <em>Journal of Animal Ecology</em>   <a href="https://doi.org/10.5061/dryad.23h73"
     target="_blank"
     rel="noopener"
-    >https://doi.org/10.5061/dryad.23h73</a>
+    >https://doi.org/10.5061/dryad.23h73</a><br>
 
 PS Barton, <strong>MJ Westgate</strong>, PW Lane, C MacGregor, DB Lindenmayer (2014) Data from: Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time. <em>Journal of Applied Ecology</em>   <a href="https://doi.org/10.5061/dryad.s7d2d"
     target="_blank"
