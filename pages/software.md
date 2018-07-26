@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Martin Westgate
-description: Research Fellow<br>Fenner School of Environment & Society<br>Australian National University
+title: Software
 ---
 # Software
 I use [R](https://cran.r-project.org) for all my analysis and software development. Below I have grouped the Shiny apps and R packages that I have built (or contributed to) by application.
