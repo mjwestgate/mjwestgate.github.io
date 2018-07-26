@@ -15,6 +15,9 @@ title: CV
 </head>
 # CV
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
+  target="_blank"
+  title="PDF">click here</a>.
 
 ## Qualifications and Awards
 <p style="margin-left: .35in; text-indent: -.3in;">
@@ -24,7 +27,7 @@ title: CV
 2005: Bachelor of Environmental Management, Flinders University
 </p>
 
-** Employment History
+## Employment History
 <p style="margin-left: .35in; text-indent: -.3in;">
 2018 - Present: Research Fellow, Fenner School, ANU
 2013 - 2017: Postdoctoral Fellow, Fenner School, ANU
@@ -34,7 +37,6 @@ title: CV
 
 ## Publications
 ### Peer-reviewed journal articles
-<em><strong>2018</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <strong>MJ Westgate</strong> & PS Barton (2018) Surrogates underpin ecological understanding and practice. <em>BioScience</em>.
   <a href="https://doi.org/10.1093/biosci/biy080"
@@ -110,7 +112,6 @@ title: CV
     data-doi="10.1111/ddi.12659">
   </span>
 </p>
-<em><strong>2017</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   23. <strong>MJ Westgate</strong> & DB Lindenmayer (2017) The difficulties of systematic reviews. <em>Conservation Biology</em> 31(5): 1002-1007.
   <a href="https://doi.org/10.1111/cobi.12890"
@@ -154,7 +155,6 @@ title: CV
     data-doi="10.1111/ecog.02318">
   </span>
 </p>
-<em><strong>2016</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   21. DB Lindenmayer, C MacGregor, J Wood, <strong>MJ Westgate</strong>, K Ikin, C Foster, F Ford & R Zentelis (2016) Bombs, fire and biodiversity: vertebrate fauna occurrence in areas subject to military training. <em>Biological Conservation</em> 204(B) 276-283.
   <a href="https://dx.doi.org/10.1016/j.biocon.2016.10.030"
@@ -243,7 +243,6 @@ title: CV
     data-doi="10.1016/j.ecolind.2015.11.049">
   </span>
 </p>
-<em><strong>2015</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   17. <strong>MJ Westgate</strong>, PS Barton, JC Pierson & DB Lindenmayer (2015) Text analysis tools for identification of emerging topics and research gaps in conservation science. <em>Conservation Biology</em> 29(6): 1606-1614.
   <a href="https://doi.org/10.1111/cobi.12605"
@@ -376,7 +375,6 @@ title: CV
     data-doi="10.1111/oik.02007">
   </span>
 </p>
-<em><strong>2014</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   11. DB Lindenmayer, PW Lane, <strong>MJ Westgate</strong>, M Crane, D Michael, S Okada & PS Barton (2014) An empirical assessment of the focal species hypothesis. <em>Conservation Biology</em> 28(6): 1594-1603. 
   <a href="https://doi.org/10.1111/cobi.12330"
@@ -531,7 +529,6 @@ title: CV
     data-doi="10.1371/journal.pone.0089807">
   </span>
 </p>
-<em><strong>≤2013</strong></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   4. <strong>MJ Westgate</strong>, GE Likens, & DB Lindenmayer (2013) Adaptive management of biological systems: A review. <em>Biological Conservation</em> 158: 128-139.
   <a href="https://doi.org/10.1016/j.biocon.2012.08.016"
