@@ -454,7 +454,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  8. PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <strong>MJ Westgate</strong> (2014) Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages. <em>Ecology and Evolution.</em> 
+  8. PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <strong>MJ Westgate</strong> (2014) Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages. <em>Ecology and Evolution</em> 4(16): 3279-3289.  
   <a href="https://doi.org/10.1002/ece3.1182"
     target="_blank"
     rel="noopener"
