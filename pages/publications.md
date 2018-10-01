@@ -18,7 +18,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<em><b>2018</b></b>
+<em><b>2018</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   29. CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer (2019) How practitioners integrate decision triggers with existing metrics in conservation monitoring. <em>Journal of Environmental Management</em> 230:94-101.
   <a href="https://doi.org/10.1016/j.jenvman.2018.09.067"
@@ -50,7 +50,7 @@ This page lists all of the peer-reviewed journal articles that I have authored o
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  27. BS Scheele, S Legge, D Armb, P Copley, N Robinson, D Southwell, <b>MJ Westgate</b> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
+  27. BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <b>MJ Westgate</b> & DB Lindenmayer (2018) How to improve threatened species management: an Australian perspective. <em>Journal of Environmental Management</em> 223: 668-674.
   <a href="https://doi.org/10.1016/j.jenvman.2018.06.084"
     target="_blank"
     rel="noopener"
