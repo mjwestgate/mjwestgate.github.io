@@ -18,7 +18,22 @@ This page lists all of the peer-reviewed journal articles that I have authored o
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<em><b>2018</b></em>
+<em><b>2019</b></em>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  30. NR Haddaway & <b>MJ Westgate</b> (in press) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em>.
+  <a href="https://doi.org/10.1111/cobi.13231"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/cobi.13231
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/cobi.13231">
+  </span>
+</p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   29. CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer (2019) How practitioners integrate decision triggers with existing metrics in conservation monitoring. <em>Journal of Environmental Management</em> 230:94-101.
   <a href="https://doi.org/10.1016/j.jenvman.2018.09.067"
@@ -34,6 +49,8 @@ This page lists all of the peer-reviewed journal articles that I have authored o
     data-doi="10.1016/j.jenvman.2018.09.067">
   </span>
 </p>
+
+<em><b>2018</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <b>MJ Westgate</b> & PS Barton (2018) Surrogates underpin ecological understanding and practice. <em>BioScience</em>.
   <a href="https://doi.org/10.1093/biosci/biy080"
