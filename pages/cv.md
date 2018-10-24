@@ -50,6 +50,9 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 ## Publications
 ### Peer-reviewed journal articles
 <p style="margin-left: .35in; text-indent: -.3in;">
+  31. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>,  BC Scheele, C Sato, K Ikin, M Crane, D Michael & D Florance (in press) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em>.
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
   30. NR Haddaway & <b>MJ Westgate</b> (in press) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em>.
   <a href="https://doi.org/10.1111/cobi.13231"
     target="_blank"
