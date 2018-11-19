@@ -32,6 +32,6 @@ Université Paris-Est Marne-la-Vallée | 2018-06-20
 <p>
 <a href="/assets/presentations/2017_11_30_EcoTas_Keynote.html">Mainstreaming text mining for rapid synthesis</a><br>
 Wiley/ESA Next Generation Ecologist Keynote Address<br>
-EcoTas: 5th Joint Annual Conference of the Ecological Society of Australian and the New Zealand Ecological Society<br>
+EcoTas: 5th Joint Annual Conference of the Ecological Society of Australia and the New Zealand Ecological Society<br>
 Polkolbin, NSW | 2017-11-30
 </p>
