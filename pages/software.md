@@ -2,6 +2,17 @@
 layout: default
 title: Software
 ---
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121833450-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-121833450-1');
+  </script>
+</head>
 # Software
 I use [R](https://cran.r-project.org) for all my analysis and software development. Below I have grouped the Shiny apps and R packages that I have built (or contributed to) by application.
 
@@ -37,7 +48,10 @@ This package provides functions to import bibliographic data, screen for and rem
 </a>
 
 **PredicTER**<br>
-A Shiny app to estimate the time taken to complete an environmental systematic review or map. Estimated values are derived from both the scientific literature and a survey of systematic review practitioners; but users can alter any of the input parameters to customize the estimate to their own circumstances.
+A Shiny app to estimate the time taken to complete an environmental systematic review or map as described in <a href="https://doi.org/10.1111/cobi.13231"
+  title="ConsBiol"
+  target="_blank"
+  rel="noopener">this paper by myself and Neal Haddaway</a>. Estimated values are derived from both the scientific literature and a survey of systematic review practitioners; but users can alter any of the input parameters to customize the estimate to their own circumstances.
 <br>
 <a href="https://predicter.org"
   title="Homepage"
@@ -50,12 +64,6 @@ A Shiny app to estimate the time taken to complete an environmental systematic r
   target="_blank"
   rel="noopener">
   <i class="fa fa-github fa-2x" style="color:#727272"></i>
-</a>
-<a href="https://www.biorxiv.org/content/early/2018/04/20/303073"
-  title="biorxiv"
-  target="_blank"
-  rel="noopener">
-  <i class="ai ai-biorxiv ai-2x" style="color:#727272"></i>
 </a>
 <a href="/assets/docs/pubs/2018_Haddaway_biorxiv.pdf"
   target="_blank"
