@@ -13,12 +13,13 @@ title: Publications
     gtag('config', 'UA-121833450-1');
   </script>
 </head>
-# Publications
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+# Publications
+This page lists all the currented accepted or published peer-reviewed articles that I have led or co-authored. My CV is available <a href="/pages/presentations.html">here</a>.<br>
 
 <em><b>In press</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv): 
+  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv):
   <a href="https://doi.org/10.32942/osf.io/ga2qz"
     target="_blank"
     rel="noopener"
