@@ -15,7 +15,7 @@ title: Publications
 </head>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 # Publications
-This page lists all the currented accepted or published peer-reviewed articles that I have led or co-authored. My CV is available <a href="/pages/presentations.html">here</a>.<br>
+This page lists all the currented accepted or published peer-reviewed articles that I have led or co-authored. My CV is available <a href="/pages/cv.html">here</a>.<br>
 
 <em><b>In press</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
