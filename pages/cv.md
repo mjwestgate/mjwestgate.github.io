@@ -50,6 +50,21 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 ## Publications
 ### Peer-reviewed journal articles
 <p style="margin-left: .35in; text-indent: -.3in;">
+  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv): 
+  <a href="https://doi.org/10.32942/osf.io/ga2qz"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.32942/osf.io/ga2qz
+  </a>
+  <span style="margin-left: 2.5em">
+    <a href="/assets/docs/pubs/2018_Nakagawa_EcoEvoRxiv_preprint.pdf"
+      target="_blank"
+      title="PDF">
+      <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
+    </a>
+  </span>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
   32. DB Lindenmayer, P Lane, M Crane, D Florance, CN Foster, K Ikin, D Michael, CF Sato, BC Scheele & <b>MJ Westgate</b> (in press) Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands. <em>Global Change Biology</em>.
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
