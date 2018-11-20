@@ -50,7 +50,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 ## Publications
 ### Peer-reviewed journal articles
 <p style="margin-left: .35in; text-indent: -.3in;">
-  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv): 
+  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv):
   <a href="https://doi.org/10.32942/osf.io/ga2qz"
     target="_blank"
     rel="noopener"
@@ -198,7 +198,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  22. <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548.  <a href="https://doi.org/10.1111/ecog.02318"
+  22. <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548. <a href="https://doi.org/10.1111/ecog.02318"
     target="_blank"
     rel="noopener"
     >https://doi.org/10.1111/ecog.02318

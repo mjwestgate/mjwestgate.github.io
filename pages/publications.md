@@ -172,7 +172,7 @@ This page lists all the currented accepted or published peer-reviewed articles t
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  22. <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548.  <a href="https://doi.org/10.1111/ecog.02318"
+  22. <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer (2017) Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach. <em>Ecography</em> 40: 539-548. <a href="https://doi.org/10.1111/ecog.02318"
     target="_blank"
     rel="noopener"
     >https://doi.org/10.1111/ecog.02318
