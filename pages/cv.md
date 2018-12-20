@@ -50,6 +50,9 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 ## Publications
 ### Peer-reviewed journal articles
 <p style="margin-left: .35in; text-indent: -.3in;">
+  34. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em>.
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
   33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>. Preprint doi (EcoEvoRxiv):
   <a href="https://doi.org/10.32942/osf.io/ga2qz"
     target="_blank"
