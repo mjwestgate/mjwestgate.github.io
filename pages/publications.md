@@ -19,6 +19,9 @@ This page lists all the currented accepted or published peer-reviewed articles t
 
 <em><b>In press</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
+  35. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (in press) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecolgy</em>.
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
   34. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em>.
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
