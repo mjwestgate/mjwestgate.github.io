@@ -14,12 +14,16 @@ title: Publications
   </script>
 </head>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 # Publications
 This page lists all the currented accepted or published peer-reviewed articles that I have led or co-authored. My CV is available <a href="/pages/cv.html">here</a>.<br>
 
 <em><b>In press</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  35. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (in press) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecolgy</em>.
+  36. R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b> & DB Lindenmayer (in press) An experimental test of a compensatory nest predation model following lethal control of an overabundant native species. <em>Biological Conservation</em>.
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  35. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (in press) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecology</em>.
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   34. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em>.
