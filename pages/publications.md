@@ -56,21 +56,7 @@ This page lists all the currented accepted or published peer-reviewed articles t
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  32. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance (in press) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em> 25(3): 449-461. <a href="https://doi.org/10.1111/ddi.12874"
-    target="_blank"
-    rel="noopener"
-    >https://doi.org/10.1111/ddi.12874
-  </a>
-  <span
-    style="margin-left: 2.5em"
-    data-badge-popover="right"
-    data-badge-type="4"
-    class='altmetric-embed'
-    data-doi="10.1111/ddi.12874">
-  </span>
-</p>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  31. NR Haddaway & <b>MJ Westgate</b> (in press) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em>.
+  32. NR Haddaway & <b>MJ Westgate</b> (in press) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em>.
   <a href="https://doi.org/10.1111/cobi.13231"
     target="_blank"
     rel="noopener"
@@ -86,6 +72,20 @@ This page lists all the currented accepted or published peer-reviewed articles t
 </p>
 
 <em><b>2019</b></em>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  31. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance (2019) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em> 25(3): 449-461. <a href="https://doi.org/10.1111/ddi.12874"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/ddi.12874
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/ddi.12874">
+  </span>
+</p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   30. DB Lindenmayer, P Lane, M Crane, D Florance, CN Foster, K Ikin, D Michael, CF Sato, BC Scheele & <b>MJ Westgate</b> (2019) Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands. <em>Global Change Biology</em> 25(2): 675-685. <a href="https://doi.org/10.1111/gcb.14524"
     target="_blank"
