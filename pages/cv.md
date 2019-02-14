@@ -55,6 +55,11 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   35. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (in press) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecology</em>.
+  <a href="https://doi.org/10.1111/1365-2664.133667"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/1365-2664.13366
+  </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
   34. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em>.
@@ -82,7 +87,7 @@ Note: for PDF version <a href="/assets/docs/Westgate_CV_2018.pdf"
   </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  32. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>,  BC Scheele, C Sato, K Ikin, M Crane, D Michael & D Florance (in press) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em>. <a href="https://doi.org/10.1111/ddi.12874"
+  32. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>,  BC Scheele, C Sato, K Ikin, M Crane, D Michael & D Florance (in press) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em> 25(3): 449-461. <a href="https://doi.org/10.1111/ddi.12874"
     target="_blank"
     rel="noopener"
     >https://doi.org/10.1111/ddi.12874
