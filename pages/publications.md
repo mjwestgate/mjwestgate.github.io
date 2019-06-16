@@ -18,12 +18,44 @@ title: Publications
 # Publications
 This page lists all the currented accepted or published peer-reviewed articles that I have led or co-authored. My CV is available <a href="/pages/cv.html">here</a>.<br>
 
-<em><b>In press</b></em>
+<em><b>In press</b></em>  
 <p style="margin-left: .35in; text-indent: -.3in;">
-  36. R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b> & DB Lindenmayer (in press) An experimental test of a compensatory nest predation model following lethal control of an overabundant native species. <em>Biological Conservation</em>.
+  38. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em> e01362.
+  <a href="https://doi.org/10.1002/ecm.1362"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1002/ecm.1362
+  </a>
+</p>
+
+
+<em><b>2019</b></em>  
+<p style="margin-left: .35in; text-indent: -.3in;">
+  37. NR Haddaway, A Feierman, MJ Grainger, CT Gray, E Tanriver-Ayder, S Dhaubanjar & <b>MJ Westgate</b> (2019) EviAtlas: a tool for visualising evidence synthesis databases. <em>Environmental Evidence</em> 8:22.
+  <a href="https://doi.org/10.1186/s13750-019-0167-1"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1186/s13750-019-0167-1
+  </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  35. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (in press) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecology</em>.
+  36. DJ Belder, JC Pierson, K Ikin, W Blanchard, <b>MJ Westgate</b>, M Crane & DB Lindenmayer (2019) Is bigger always better? Influence of patch attributes on breeding activity of birds in box-gum grassy woodland restoration plantings. <em>Biological Conservation</em> 236: 134-152.
+  <a href="https://doi.org/10.1016/j.biocon.2019.05.015"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1016/j.biocon.2019.05.015
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  35. R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b>, W Blanchard & DB Lindenmayer (2019) An experimental test of a compensatory nest predation model following lethal control of an overabundant native species. <em>Biological Conservation</em> 231: 122-132.
+  <a href="https://doi.org/10.1002/ecm.1362"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1002/ecm.1362
+  </a>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  34. CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer (2019) The use and utility of surrogates in biodiversity monitoring programs. <em>Journal of Applied Ecology</em> 56(6): 1304-1310.
   <a href="https://doi.org/10.1111/1365-2664.133667"
     target="_blank"
     rel="noopener"
@@ -31,10 +63,67 @@ This page lists all the currented accepted or published peer-reviewed articles t
   </a>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  34. DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele (in press) Novel bird responses to successive large-scale landscape transformations. <em>Ecological Monographs</em>.
+  33. NR Haddaway & <b>MJ Westgate</b> (2019) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em> 33(2): 434-443.
+  <a href="https://doi.org/10.1111/cobi.13231"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/cobi.13231
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/cobi.13231">
+  </span>
 </p>
 <p style="margin-left: .35in; text-indent: -.3in;">
-  33. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (in press) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em>.
+  32. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance (2019) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em> 25(3): 449-461. <a href="https://doi.org/10.1111/ddi.12874"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/ddi.12874
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/ddi.12874">
+  </span>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  31. DB Lindenmayer, P Lane, M Crane, D Florance, CN Foster, K Ikin, D Michael, CF Sato, BC Scheele & <b>MJ Westgate</b> (2019) Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands. <em>Global Change Biology</em> 25(2): 675-685. <a href="https://doi.org/10.1111/gcb.14524"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1111/gcb.14524
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1111/gcb.14524">
+  </span>
+</p>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  30. CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer (2019) How practitioners integrate decision triggers with existing metrics in conservation monitoring. <em>Journal of Environmental Management</em> 230:  94-101.
+  <a href="https://doi.org/10.1016/j.jenvman.2018.09.067"
+    target="_blank"
+    rel="noopener"
+    >https://doi.org/10.1016/j.jenvman.2018.09.067
+  </a>
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi="10.1016/j.jenvman.2018.09.067">
+  </span>
+</p>
+
+<em><b>2018</b></em>
+<p style="margin-left: .35in; text-indent: -.3in;">
+  29. S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz (2018) Research Weaving: Visualizing the future of research synthesis. <em>Trends in Ecology & Evolution</em> 34(3): 224-238.
   <a href="https://doi.org/10.1016/j.tree.2018.11.007"
     target="_blank"
     rel="noopener"
@@ -55,68 +144,6 @@ This page lists all the currented accepted or published peer-reviewed articles t
     data-doi="10.1016/j.tree.2018.11.007">
   </span>
 </p>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  32. NR Haddaway & <b>MJ Westgate</b> (in press) Predicting the time needed for environmental systematic reviews and systematic maps. <em>Conservation Biology</em>.
-  <a href="https://doi.org/10.1111/cobi.13231"
-    target="_blank"
-    rel="noopener"
-    >https://doi.org/10.1111/cobi.13231
-  </a>
-  <span
-    style="margin-left: 2.5em"
-    data-badge-popover="right"
-    data-badge-type="4"
-    class='altmetric-embed'
-    data-doi="10.1111/cobi.13231">
-  </span>
-</p>
-
-<em><b>2019</b></em>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  31. DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance (2019) Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation? <em>Diversity & Distributions</em> 25(3): 449-461. <a href="https://doi.org/10.1111/ddi.12874"
-    target="_blank"
-    rel="noopener"
-    >https://doi.org/10.1111/ddi.12874
-  </a>
-  <span
-    style="margin-left: 2.5em"
-    data-badge-popover="right"
-    data-badge-type="4"
-    class='altmetric-embed'
-    data-doi="10.1111/ddi.12874">
-  </span>
-</p>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  30. DB Lindenmayer, P Lane, M Crane, D Florance, CN Foster, K Ikin, D Michael, CF Sato, BC Scheele & <b>MJ Westgate</b> (2019) Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands. <em>Global Change Biology</em> 25(2): 675-685. <a href="https://doi.org/10.1111/gcb.14524"
-    target="_blank"
-    rel="noopener"
-    >https://doi.org/10.1111/gcb.14524
-  </a>
-  <span
-    style="margin-left: 2.5em"
-    data-badge-popover="right"
-    data-badge-type="4"
-    class='altmetric-embed'
-    data-doi="10.1111/gcb.14524">
-  </span>
-</p>
-<p style="margin-left: .35in; text-indent: -.3in;">
-  29. CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer (2019) How practitioners integrate decision triggers with existing metrics in conservation monitoring. <em>Journal of Environmental Management</em> 230:  94-101.
-  <a href="https://doi.org/10.1016/j.jenvman.2018.09.067"
-    target="_blank"
-    rel="noopener"
-    >https://doi.org/10.1016/j.jenvman.2018.09.067
-  </a>
-  <span
-    style="margin-left: 2.5em"
-    data-badge-popover="right"
-    data-badge-type="4"
-    class='altmetric-embed'
-    data-doi="10.1016/j.jenvman.2018.09.067">
-  </span>
-</p>
-
-<em><b>2018</b></em>
 <p style="margin-left: .35in; text-indent: -.3in;">
   28. LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <b>MJ Westgate</b> & PS Barton (2018) Surrogates underpin ecological understanding and practice. <em>BioScience</em>.
   <a href="https://doi.org/10.1093/biosci/biy080"
