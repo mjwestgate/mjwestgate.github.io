@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<h1>Peer-reviewed publications</h1>
+
+{% assign sorted = site.publications | sort: 'order' | reverse %}
+{% for item in sorted %}
+  <p style="margin-left: .35in; text-indent: -.3in;">
+  {{ item.order }}. {{ item.authors }} ({{ item.year }})
+  <a href="{{ item.url }}">
+    {{ item.title }}
+  </a>
+  <em>{{ item.journal }}</em>
+  {% if item.volume.size > 0 %}
+    {{ item.volume }}:
+  {% endif %}
+  {% if item.pages.size > 0 %}
+    {{ item.pages }}
+  {% endif %}
+  {% if item.doi.size > 0 %}
+    doi:
+    <a
+      href="https://doi.org/{{ item.doi }}"
+      target="_blank"
+      rel="noopener"
+    >
+      https://doi.org/{{ item.doi }}
+    </a>
+  {% endif %}
+
+  {% if item.pdf.size > 0 %}
+    <span style="margin-left: 2.5em">
+      <a href="/assets/pubs/{{ item.pdf }}"
+        target="_blank"
+        title="PDF">
+        <i class="fa fa-file-pdf-o fa-lg" style="color:#727272"></i>
+      </a>
+    </span>
+  {% endif %}
+
+  <span
+    style="margin-left: 2.5em"
+    data-badge-popover="right"
+    data-badge-type="4"
+    class='altmetric-embed'
+    data-doi= {{ item.doi }}>
+  </span>
+  </p>
+{% endfor %}
+
+
+{% comment %}
+<div class="home">
+  {% for publications in site.publications %}
+    {%- include display-publications.html -%}
+  {% endfor %}
+</div>
+{% endcomment %}

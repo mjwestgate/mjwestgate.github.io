@@ -35,13 +35,7 @@ This package provides functions to import bibliographic data, screen for and rem
   rel="noopener">
   <i class="fa fa-github fa-2x" style="color:#727272"></i>
 </a>
-<a href="https://www.biorxiv.org/content/early/2018/02/12/262881"
-  title="biorxiv"
-  target="_blank"
-  rel="noopener">
-  <i class="ai ai-biorxiv ai-2x" style="color:#727272"></i>
-</a>
-<a href="/assets/docs/pubs/2018_Westgate_biorxiv.pdf"
+<a href="/assets/pubs/2019_Westgate_revtools_bioRxiv_v2.pdf"
   target="_blank"
   title="PDF">
   <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
@@ -65,7 +59,7 @@ A Shiny app to estimate the time taken to complete an environmental systematic r
   rel="noopener">
   <i class="fa fa-github fa-2x" style="color:#727272"></i>
 </a>
-<a href="/assets/docs/pubs/2018_Haddaway_biorxiv.pdf"
+<a href="/assets/pubs/2018_Haddaway_biorxiv.pdf"
   target="_blank"
   title="PDF">
   <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>

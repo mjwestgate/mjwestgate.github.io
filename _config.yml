@@ -1,6 +1,14 @@
-theme: jekyll-theme-minimal
 title: Martin Westgate
 description: Research Fellow | ANU
-logo: assets/img/MWestgate_image.jpg
-google_analytics: true
+logo: /assets/img/MWestgate_image.jpg
+show_downloads: false
+show_excerpts: false
+google_analytics: UA-121833450-1
+theme: jekyll-theme-minimal
 exclude: ["README.md"]
+collections_dir: collections
+collections:
+  publications:
+    output: true
+  software:
+    output: true
