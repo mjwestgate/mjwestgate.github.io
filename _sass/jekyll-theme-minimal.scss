@@ -54,8 +54,14 @@ a:hover small {
   color:#777;
 }
 
+iframe {
+  border: 0px;
+  width: 700px;
+  height: 500px;
+}
+
 .wrapper {
-  width:860px;
+  width:1060px;
   margin:0 auto;
 }
 
@@ -171,7 +177,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:700px;
   float:right;
   padding-bottom:50px;
 }

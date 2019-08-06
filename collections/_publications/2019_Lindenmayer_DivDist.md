@@ -8,7 +8,6 @@ journal: Diversity & Distributions
 volume: 25(3)
 pages: 449-461
 doi: 10.1111/ddi.12874
-pdf:
 tags: landscape_ecology
 ---
 <h3>Aim</h3>
