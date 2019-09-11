@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 32
-title: Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation?
+title: "Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation?"
 authors: DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance
 year: 2019
 journal: Diversity & Distributions

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 3
-title: Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species.
+title: "Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species."
 authors: <b>MJ Westgate</b>, DA Driscoll & DB Lindenmayer
 year: 2012
 journal: Biological Conservation

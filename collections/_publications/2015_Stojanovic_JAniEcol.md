@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 14
-title: Exploiting the richest patch has a fitness pay-off for the migratory swift parrot.
+title: "Exploiting the richest patch has a fitness pay-off for the migratory swift parrot."
 authors: D Stojanovic, A Terauds, <b>MJ Westgate</b>, MH Webb & R Heinsohn
 year: 2014
 journal: Journal of Animal Ecology

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 35
-title: An experimental test of a compensatory nest predation model following lethal control of an overabundant native species.
+title: "An experimental test of a compensatory nest predation model following lethal control of an overabundant native species."
 authors: R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b>, W Blanchard & DB Lindenmayer
 year: 2019
 journal: Biological Conservation

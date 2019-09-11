@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 28
-title: Surrogates underpin ecological understanding and practice.
+title: "Surrogates underpin ecological understanding and practice."
 authors: LS O'Loughlin, DB Lindenmayer, MD Smith, MR Willig, AK Knapp, K Cuddington, A Hastings, CN Foster, CF Sato, <b>MJ Westgate</b> & PS Barton
 year: 2018
 journal: BioScience

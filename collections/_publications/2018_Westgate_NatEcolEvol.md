@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 25
-title: Software support for environmental evidence synthesis.
+title: "Software support for environmental evidence synthesis."
 authors: <b>MJ Westgate</b>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer
 year: 2018
 journal: Nature Ecology & Evolution

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 7
-title: Global meta-analysis reveals low consistency of biodiversity congruence relationships.
+title: "Global meta-analysis reveals low consistency of biodiversity congruence relationships."
 authors: <b>MJ Westgate</b>, PS Barton, PW Lane & DB Lindenmayer
 year: 2014
 journal: Nature Communications

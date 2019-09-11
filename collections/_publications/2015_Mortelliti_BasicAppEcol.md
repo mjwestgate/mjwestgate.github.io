@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 13
-title: Ecological and spatial drivers of population synchrony in bird assemblages.
+title: "Ecological and spatial drivers of population synchrony in bird assemblages."
 authors: A Mortelliti, <b>MJ Westgate</b>, J Stein, J Wood & DB Lindenmayer
 year: 2014
 journal: Basic and Applied Ecology

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 8
-title: Visualisation of species pairwise associations - a case study of surrogacy in bird assemblages.
+title: "Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages."
 authors: PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <b>MJ Westgate</b>
 year: 2014
 journal: Ecology and Evolution

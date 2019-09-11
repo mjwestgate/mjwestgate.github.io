@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 4
-title: Adaptive management of biological systems - A review.
+title: "Adaptive management of biological systems: A review."
 authors: <b>MJ Westgate</b>, GE Likens, & DB Lindenmayer
 year: 2013
 journal: Biological Conservation

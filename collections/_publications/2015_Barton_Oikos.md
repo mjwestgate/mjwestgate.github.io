@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 12
-title: Learning from clinical medicine to improve the use of surrogates in ecology.
+title: "Learning from clinical medicine to improve the use of surrogates in ecology."
 authors: PS Barton, JC Pierson, <b>MJ Westgate</b>, PW Lane & DB Lindenmayer
 year: 2014
 journal: Oikos

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 17
-title: Text analysis tools for identification of emerging topics and research gaps in conservation science.
+title: "Text analysis tools for identification of emerging topics and research gaps in conservation science."
 authors: <b>MJ Westgate</b>, PS Barton, JC Pierson & DB Lindenmayer
 year: 2015
 journal: Conservation Biology

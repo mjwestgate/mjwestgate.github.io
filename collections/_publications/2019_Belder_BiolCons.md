@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 36
-title: Is bigger always better? Influence of patch attributes on breeding activity of birds in box-gum grassy woodland restoration plantings.
+title: "Is bigger always better? Influence of patch attributes on breeding activity of birds in box-gum grassy woodland restoration plantings."
 authors: DJ Belder, JC Pierson, K Ikin, W Blanchard, <b>MJ Westgate</b>, M Crane & DB Lindenmayer
 year: 2019
 journal: Biological Conservation

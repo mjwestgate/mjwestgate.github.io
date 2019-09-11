@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 2
-title: Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire?
+title: "Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire?"
 authors: <b>MJ Westgate</b>, DA Driscoll & DB Lindenmayer
 year: 2012
 journal: Oikos

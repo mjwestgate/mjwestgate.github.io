@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 18
-title: Two roles for ecological surrogacy - indicator surrogates and management surrogates.
+title: "Two roles for ecological surrogacy: Indicator surrogates and management surrogates."
 authors: M Hunter Jr., <b>M Westgate</b>, P Barton, A Calhoun, J Pierson, A Tulloch, M Beger, C Branquino, T Caro, J Gross, J Heino, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo & D Lindenmayer
 year: 2016
 journal: Ecological Indicators

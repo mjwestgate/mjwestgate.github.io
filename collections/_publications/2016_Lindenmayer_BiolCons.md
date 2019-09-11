@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 21
-title: Bombs, fire and biodiversity - vertebrate fauna occurrence in areas subject to military training.
+title: "Bombs, fire and biodiversity: Vertebrate fauna occurrence in areas subject to military training."
 authors: DB Lindenmayer, C MacGregor, J Wood, <b>MJ Westgate</b>, K Ikin, C Foster, F Ford & R Zentelis
 year: 2016
 journal: Biological Conservation

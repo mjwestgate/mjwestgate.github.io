@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 37
-title: EviAtlas - a tool for visualising evidence synthesis databases.
+title: "EviAtlas: a tool for visualising evidence synthesis databases."
 authors: NR Haddaway, A Feierman, MJ Grainger, CT Gray, E Tanriver-Ayder, S Dhaubanjar & <b>MJ Westgate</b>
 year: 2019
 journal: Environmental Evidence

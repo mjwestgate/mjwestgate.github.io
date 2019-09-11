@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 23
-title: The difficulties of systematic reviews.
+title: "The difficulties of systematic reviews."
 authors: <b>MJ Westgate</b> & DB Lindenmayer
 year: 2017
 journal: Conservation Biology

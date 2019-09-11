@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 10
-title: Robustness of habitat-based surrogates of animal diversity - a multi-taxa comparison over time.
+title: "Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time."
 authors: PS Barton, <b>MJ Westgate</b>, PW Lane, C MacGregor & DB Lindenmayer
 year: 2014
 journal: Journal of Applied Ecology

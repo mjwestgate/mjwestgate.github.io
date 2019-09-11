@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 27
-title: How to improve threatened species management - an Australian perspective.
+title: "How to improve threatened species management: An Australian perspective."
 authors: BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <b>MJ Westgate</b> & DB Lindenmayer
 year: 2018
 journal: Journal of Environmental Management

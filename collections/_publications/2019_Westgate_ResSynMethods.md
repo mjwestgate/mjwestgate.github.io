@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 40
-title: revtools - An R package to support article screening for evidence synthesis.
+title: "revtools: An R package to support article screening for evidence synthesis."
 authors: <b>MJ Westgate</b>
 year: In press
 journal: Research Synthesis Methods

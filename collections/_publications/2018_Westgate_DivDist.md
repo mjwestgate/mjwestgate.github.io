@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 24
-title: Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients.
+title: "Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients."
 authors: <b>MJ Westgate</b>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer
 year: 2018
 journal: Diversity & Distributions

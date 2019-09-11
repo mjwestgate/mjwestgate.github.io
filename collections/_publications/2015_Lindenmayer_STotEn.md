@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 15
-title: A new framework for selecting environmental surrogates.
+title: "A new framework for selecting environmental surrogates."
 authors: D Lindenmayer, J Pierson, P Barton, M Beger, C Branquinho, A Calhoun, T Caro, H Greig, J Gross, J Heino, M Hunter, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo, A Tulloch & <b>M Westgate</b>
 year: 2015
 journal: Science of the Total Environment

@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 22
-title: Optimal taxonomic groups for biodiversity assessment - A meta-analytic approach.
+title: "Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach."
 authors: <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson & DB Lindenmayer
 year: 2017
 journal: Ecography

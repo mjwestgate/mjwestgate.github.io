@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 38
-title: Novel bird responses to successive large-scale landscape transformations.
+title: "Novel bird responses to successive large-scale landscape transformations."
 authors: DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele
 year: 2019
 journal: Ecological Monographs

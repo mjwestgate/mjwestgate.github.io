@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 1
-title: Climate change, conservation and management - an assessment of the peer-reviewed scientific journal literature.
+title: "Climate change, conservation and management: an assessment of the peer-reviewed scientific journal literature."
 authors: A Felton, J Fischer, DB Lindenmayer, R Montague-Drake, A Lowe, D Saunders, A Felton, W Steffen, NT Munro, K Youngentob, J Gillen, P Gibbons, JE Bruzgul, I Fazey, SJ Bond, CP Elliott, BCT Macdonald, LL Porfirio, <b>MJ Westgate</b> & M Worthy
 year: 2012
 journal: Biodiversity and Conservation

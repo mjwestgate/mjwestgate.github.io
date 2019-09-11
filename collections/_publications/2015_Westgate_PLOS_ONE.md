@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 16
-title: Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines.
+title: "Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines."
 authors: <b>MJ Westgate</b>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner & DA Driscoll
 year: 2015
 journal: PLOS ONE

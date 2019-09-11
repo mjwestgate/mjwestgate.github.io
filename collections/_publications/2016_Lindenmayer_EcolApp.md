@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 20
-title: Do temporal changes in vegetation structure predict changes in bird occupancy additional to time since fire?
+title: "Do temporal changes in vegetation structure predict changes in bird occupancy additional to time since fire?"
 authors: DB Lindenmayer, SG Candy, SC Banks, <b>MJ Westgate</b>, K Ikin, JC Pierson, AIT Tulloch & PS Barton
 year: 2016
 journal: Ecological Applications

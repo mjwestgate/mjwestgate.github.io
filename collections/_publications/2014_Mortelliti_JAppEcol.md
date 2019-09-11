@@ -1,7 +1,7 @@
 ---
 layout: publication
 order: 9
-title: Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations.
+title: "Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations."
 authors: A Mortelliti, <b>MJ Westgate</b>, & DB Lindenmayer
 year: 2014
 journal: Journal of Applied Ecology
