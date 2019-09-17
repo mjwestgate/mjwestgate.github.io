@@ -3,7 +3,9 @@ layout: publication
 order: 39
 title: "Using ecological niche theory to avoid uninformative biodiversity surrogates."
 authors: PS Barton, <b>MJ Westgate</b>, K Cuddington, CN Foster, A Hastings, A Knapp, L O'Loughlin, CF Sato, M Smith, MR Willig, DB Lindenmayer
-year: In press
+year: 2020
+volume: 108
+pages: 105692
 journal: Ecological Indicators
 tags: ecological_surrogates
 ---

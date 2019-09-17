@@ -3,7 +3,7 @@ layout: publication
 order: 29
 title: "Research Weaving: Visualizing the future of research synthesis."
 authors: S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz
-year: 2018
+year: 2019
 journal: Trends in Ecology & Evolution
 volume: 34(3)
 pages: 224-238
