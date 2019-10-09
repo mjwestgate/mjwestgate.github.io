@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 8
+order: 11
+first-published: 2014-07-29
 title: "Visualisation of species pairwise associations: a case study of surrogacy in bird assemblages."
 authors: PW Lane, DB Lindenmayer, PS Barton, W Blanchard & <b>MJ Westgate</b>
 year: 2014

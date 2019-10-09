@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 5
+first-published: 2014-02-24
 title: "An empirical assessment and comparison of species-based and habitat-based surrogates: a case study of forest vertebrates and large old trees."
 authors: DB Lindenmayer, PS Barton, PW Lane, <b>MJ</b> <b>Westgate</b>, L McBurney, D Blair, P Gibbons & GE Likens
 year: 2014

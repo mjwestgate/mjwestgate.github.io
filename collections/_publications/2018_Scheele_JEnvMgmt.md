@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 27
+first-published: 2018-07-02
 title: "How to improve threatened species management: An Australian perspective."
 authors: BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <b>MJ Westgate</b> & DB Lindenmayer
 year: 2018

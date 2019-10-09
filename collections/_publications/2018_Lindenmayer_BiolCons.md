@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 26
+first-published: 2018-04-19
 title: "Tests of predictions associated with temporal changes in Australian bird populations."
 authors: DB Lindenmayer, P Lane, <b>MJ Westgate</b>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O'Loughlin, N Robinson
 year: 2018

@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 11
+order: 10
+first-published: 2014-07-21
 title: "An empirical assessment of the focal species hypothesis."
 authors: DB Lindenmayer, PW Lane, <b>MJ Westgate</b>, M Crane, D Michael, S Okada & PS Barton
 year: 2014

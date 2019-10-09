@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 9
+first-published: 2014-07-03
 title: "Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations."
 authors: A Mortelliti, <b>MJ Westgate</b>, & DB Lindenmayer
 year: 2014

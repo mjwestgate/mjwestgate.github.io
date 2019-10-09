@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 37
+order: 38
+first-published: 2019-06-04
 title: "EviAtlas: a tool for visualising evidence synthesis databases."
 authors: NR Haddaway, A Feierman, MJ Grainger, CT Gray, E Tanriver-Ayder, S Dhaubanjar & <b>MJ Westgate</b>
 year: 2019

@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 30
+order: 29
+first-published: 2018-09-29
 title: "How practitioners integrate decision triggers with existing metrics in conservation monitoring."
 authors: CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer
 year: 2019

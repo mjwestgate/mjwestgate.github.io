@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 19
+first-published: 2016-01-14
 title: "Dynamic species co-occurrence networks require dynamic biodiversity surrogates."
 authors: AIT Tulloch, I Chadés, Y Dujardin, <b>MJ Westgate</b>, PW Lane & DB Lindenmayer
 year: 2016

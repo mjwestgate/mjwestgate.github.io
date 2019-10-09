@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 13
+order: 12
+first-published: 2015-02-03
 title: "Ecological and spatial drivers of population synchrony in bird assemblages."
 authors: A Mortelliti, <b>MJ Westgate</b>, J Stein, J Wood & DB Lindenmayer
 year: 2014

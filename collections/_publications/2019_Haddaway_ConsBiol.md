@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 33
+order: 30
+first-published: 2018-10-04
 title: "Predicting the time needed for environmental systematic reviews and systematic maps."
 authors: NR Haddaway & <b>MJ Westgate</b>
 year: 2019

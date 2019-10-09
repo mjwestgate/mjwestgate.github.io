@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 17
+order: 15
+first-published: 2015-08-14
 title: "Text analysis tools for identification of emerging topics and research gaps in conservation science."
 authors: <b>MJ Westgate</b>, PS Barton, JC Pierson & DB Lindenmayer
 year: 2015

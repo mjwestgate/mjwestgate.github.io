@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 6
+first-published: 2014-04-17
 title: "The trajectory of dispersal research in conservation biology."
 authors: DA Driscoll, SC Banks, PS Barton, K Ikin, P Lentini, DB Lindenmayer, AL Smith, LE Berry, EL Burns, A Edworthy, MJ Evans, R Gibson, R Heinsohn, B Howland, G Kay, N Munro, BC Scheele, I Stirnemann, D Stojanovic, N Sweaney, NR Villasenor, & <b>MJ Westgate</b>
 year: 2014

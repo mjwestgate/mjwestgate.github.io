@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 21
+order: 22
+first-published: 2016-11-06
 title: "Bombs, fire and biodiversity: Vertebrate fauna occurrence in areas subject to military training."
 authors: DB Lindenmayer, C MacGregor, J Wood, <b>MJ Westgate</b>, K Ikin, C Foster, F Ford & R Zentelis
 year: 2016

@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 4
+first-published: 2012-11-27
 title: "Adaptive management of biological systems: A review."
 authors: <b>MJ Westgate</b>, GE Likens, & DB Lindenmayer
 year: 2013

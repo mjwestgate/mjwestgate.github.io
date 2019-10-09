@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 16
+order: 17
+first-published: 2015-11-18
 title: "Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines."
 authors: <b>MJ Westgate</b>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner & DA Driscoll
 year: 2015

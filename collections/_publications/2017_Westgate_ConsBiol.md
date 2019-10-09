@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 23
+first-published: 2017-01-02
 title: "The difficulties of systematic reviews."
 authors: <b>MJ Westgate</b> & DB Lindenmayer
 year: 2017

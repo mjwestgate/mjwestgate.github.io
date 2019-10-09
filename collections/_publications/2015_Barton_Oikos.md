@@ -1,9 +1,10 @@
 ---
 layout: publication
-order: 12
+order: 13
+first-published: 2015-02-23
 title: "Learning from clinical medicine to improve the use of surrogates in ecology."
 authors: PS Barton, JC Pierson, <b>MJ Westgate</b>, PW Lane & DB Lindenmayer
-year: 2014
+year: 2015
 journal: Oikos
 volume: 124
 pages: 391-398

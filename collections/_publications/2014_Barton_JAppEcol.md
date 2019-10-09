@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 10
+order: 8
+first-published: 2014-05-22
 title: "Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time."
 authors: PS Barton, <b>MJ Westgate</b>, PW Lane, C MacGregor & DB Lindenmayer
 year: 2014

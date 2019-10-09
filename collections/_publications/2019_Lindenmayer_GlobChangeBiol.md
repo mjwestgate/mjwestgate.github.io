@@ -1,6 +1,7 @@
 ---
 layout: publication
 order: 31
+first-published: 2018-11-15
 title: "Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands."
 authors: DB Lindenmayer, P Lane, M Crane, D Florance, CN Foster, K Ikin, D Michael, CF Sato, BC Scheele & <b>MJ Westgate</b>
 year: 2019

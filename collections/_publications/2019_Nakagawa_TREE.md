@@ -1,6 +1,7 @@
 ---
 layout: publication
-order: 29
+order: 33
+first-published: 2018-12-20
 title: "Research Weaving: Visualizing the future of research synthesis."
 authors: S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz
 year: 2019
