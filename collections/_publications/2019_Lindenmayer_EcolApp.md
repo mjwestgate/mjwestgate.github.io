@@ -4,8 +4,10 @@ order: 42
 first-published: 2019-09-13
 title: "Spatio-temporal effects of logging and fire on tall, wet temperate eucalypt forest birds"
 authors: DB Lindenmayer, W Blanchard, D Blair, <b>MJ Westgate</b> & BC Scheele
-year: In press
+year: 2019
 journal: Ecological Applications
+volume: 29(8)
+pages: e01999
 doi: 10.1002/eap.1999
 tags: landscape_ecology
 ---
