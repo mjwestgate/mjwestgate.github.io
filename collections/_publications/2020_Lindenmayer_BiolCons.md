@@ -1,6 +1,6 @@
 ---
 layout: publication
-order: 43
+order: 44
 first-published: 2020-01-01
 title: "Habitat amount versus connectivity: an empirical study of bird responses."
 authors: DB Lindenmayer, BC Scheele, <b>MJ Westgate</b>, W Blanchard, CN Foster, J Stein, M Crane, D Florance
