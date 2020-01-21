@@ -4,8 +4,10 @@ order: 40
 first-published: 2019-09-12
 title: "An empirical test of the mechanistic underpinnings of interference competition."
 authors: R Beggs, JC Pierson, AIT Tulloch, W Blanchard, <b>MJ Westgate</b> & DB Lindenmayer
-year: In press
+year: 2020
 journal: Oikos
+volume: 129(1)
+pages: 93-105
 doi: 10.1111/oik.06583
 tags: landscape_ecology
 ---
