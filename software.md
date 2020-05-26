@@ -19,44 +19,11 @@ title: Software
 <div class="clearfix">
   <img
     class="hex"
-    src="/assets/img/revtools_hex.png"
-    alt="revtools logo"
-  />
-  <h3>revtools</h3>
-  This package provides functions to import bibliographic data, screen for and remove duplicates, and investigate patterns in document similarity using a combination of topic models and correspondence analysis.
-  <br>
-  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
-    <img src="http://www.r-pkg.org/badges/version-last-release/revtools">
-  </a>
-  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
-    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools">
-  </a>
-  <a href="https://revtools.net" title="Homepage" target="_blank" rel="noopener">
-    <i class="fa fa-home fa-2x" style="color:#727272"></i>
-  </a>
-  <a href="https://github.com/mjwestgate/revtools"
-    title="GitHub"
-    target="_blank"
-    rel="noopener">
-    <i class="fa fa-github fa-2x" style="color:#727272"></i>
-  </a>
-  <a href="/assets/pubs/2019_Westgate_revtools_bioRxiv_v2.pdf"
-    target="_blank"
-    title="PDF">
-    <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
-  </a>
-</div>
-<br>
-
-
-<div class="clearfix">
-  <img
-    class="hex"
     src="/assets/img/metaverse_hex.png"
     alt="metaverse logo"
   />
-  <h3>metaverse</h3>
-  This new project aims to support systematic review workflows in R. The metaverse package merely imports a series of underlying packages; but the broader project is aimed at expanding and integrating those packages to allow seamless, end-to-end systematic review and meta-analysis. Watch this space for upcoming developments.
+  <b>metaverse</b><br>
+  This new project aims to support systematic review workflows in R. The metaverse package merely imports a series of underlying packages; but the broader project is aimed at expanding and integrating those packages to allow seamless, end-to-end systematic review and meta-analysis.
   <br>
   <a href="https://rmetaverse.github.io" title="Homepage" target="_blank" rel="noopener">
     <i class="fa fa-home fa-2x" style="color:#727272"></i>
@@ -76,7 +43,7 @@ title: Software
     src="/assets/img/PredicTER_hex.png"
     alt="predicter logo"
   />
-  <h3>PredicTER</h3>
+  <b>PredicTER</b><br>
   A Shiny app to estimate the time taken to complete an environmental systematic review or map as described in <a href="https://doi.org/10.1111/cobi.13231"
     title="ConsBiol"
     target="_blank"
@@ -105,11 +72,63 @@ title: Software
 <div class="clearfix">
   <img
     class="hex"
+    src="/assets/img/synthesisr_hex.png"
+    alt="synthesisr logo"
+  />
+  <b>synthesisr</b><br>
+  A collaboration between myself and <a href="https://elizagrames.github.io/#/aboutme" target="_blank" rel="noopener">Eliza Grames</a>, this package imports and de-duplicates bibliographic data from a range of formats.<br>
+  <a href="https://github.com/rmetaverse/synthesisr"
+    title="GitHub"
+    target="_blank"
+    rel="noopener">
+    <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  </a>
+</div>
+<br>
+<br>
+<br>
+
+<div class="clearfix">
+  <img
+    class="hex"
+    src="/assets/img/revtools_hex.png"
+    alt="revtools logo"
+  />
+  <b>revtools</b><br>
+  A package to support screening of article titles and abstracts in R. Users can screen articles one at a time, or investigate patterns in document similarity using a combination of topic models and correspondence analysis.
+  <br>
+  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
+    <img src="http://www.r-pkg.org/badges/version-last-release/revtools">
+  </a>
+  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools">
+  </a>
+  <a href="https://revtools.net" title="Homepage" target="_blank" rel="noopener">
+    <i class="fa fa-home fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="https://github.com/mjwestgate/revtools"
+    title="GitHub"
+    target="_blank"
+    rel="noopener">
+    <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="/assets/pubs/2019_Westgate_revtools_bioRxiv_v2.pdf"
+    target="_blank"
+    title="PDF">
+    <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
+  </a>
+</div>
+<br>
+<br>
+
+<div class="clearfix">
+  <img
+    class="hex"
     src="/assets/img/eviatlas_hex.png"
     alt="eviatlas logo"
   />
-  <h3>eviatlas</h3>
-  A Shiny app to plot outcomes from systematic maps. This project was developed at the first Evidence Synthesis Hackathon in Stockholm, but watch this space for the package version, expected late 2019 or early 2020.<br>
+  <b>eviatlas</b><br>
+  A Shiny app to plot outcomes from systematic maps. This project was developed at the first Evidence Synthesis Hackathon in Stockholm, but watch this space for the package version, expected late 2020.<br>
   <a href="https://github.com/ESHackathon/eviatlas"
     title="GitHub"
     target="_blank"
