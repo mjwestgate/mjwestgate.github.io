@@ -3,7 +3,7 @@ layout: publication
 order: 44
 first-published: 2019-12-19
 title: "Habitat amount versus connectivity: an empirical study of bird responses."
-authors: DB Lindenmayer, BC Scheele, <b>MJ Westgate</b>, W Blanchard, CN Foster, J Stein, M Crane, D Florance
+authors: DB Lindenmayer, BC Scheele, <b>MJ Westgate</b>, W Blanchard, CN Foster, J Stein, M Crane & D Florance
 year: 2020
 journal: Biological Conservation
 volume: 241

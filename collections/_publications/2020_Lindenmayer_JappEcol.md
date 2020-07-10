@@ -1,11 +1,12 @@
 ---
 layout: publication
-order: 46
+order: 47
 first-published: 2020-05-23
 title: "Managing interacting disturbances: lessons from a case study in Australian forests."
-authors: DB Lindenmayer, CN Foster, <b>MJ Westgate</b>, BC Scheele, W Blanchard
-year: In press
+authors: DB Lindenmayer, CN Foster, <b>MJ Westgate</b>, BC Scheele & W Blanchard
+year: 2020
 journal: Journal of Applied Ecology
+doi: 10.1111/1365-2664.13696
 tags: landscape_ecology
 ---
 <ul>

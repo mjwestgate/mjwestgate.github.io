@@ -4,7 +4,7 @@ order: 39
 first-published: 2019-07-29
 title: "revtools: An R package to support article screening for evidence synthesis."
 authors: <b>MJ Westgate</b>
-year: 2020
+year: 2019
 journal: Research Synthesis Methods
 volume: 10(4)
 pages: 606-614

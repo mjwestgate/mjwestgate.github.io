@@ -3,7 +3,7 @@ layout: publication
 order: 43
 first-published: 2019-10-22
 title: "Key perspectives on early successional forests subject to stand-replacing disturbances."
-authors: DB Lindenmayer, <b>MJ Westgate</b>, BC Scheele, CN Foster, DP Blair
+authors: DB Lindenmayer, <b>MJ Westgate</b>, BC Scheele, CN Foster & DP Blair
 year: 2019
 journal: Forest Ecology & Management
 volume: 454
