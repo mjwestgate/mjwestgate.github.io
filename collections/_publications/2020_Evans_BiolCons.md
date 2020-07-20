@@ -1,0 +1,11 @@
+---
+layout: publication
+order: 50
+first-published: 2020-07-21
+title: "Beyond the pond: terrestrial habitat use by frogs in a changing climate."
+authors: MJ Evans, BC Scheele, <b>MJ Westgate</b>, M Yebra, JS Newport, L Rayner & AD Manning
+year: In press
+journal: Biological Conservation
+tags: landscape_ecology
+---
+Amphibians are disproportionately over-represented in the current wave of global biodiversity loss. Disease and habitat loss are implicated in many amphibian species declines, but amphibians are also predicted to be sensitive to changes in climate, particularly changes in temperature and loss of moisture. Further, these changes are most likely to impact frogs while using terrestrial habitats, but most ecological research on frog populations focusses instead on data from aquatic breeding habitats. We used data from a long-term (2007-18) landscape-scale experiment in south-eastern Australia to test the effects of terrestrial habitat characteristics and restoration treatments on frog species. We found declines in species richness and in the occurrences of two locally-common species (Limnodynastes tasmaniensis and Uperoleia laevigata). These declines were associated with high maximum temperatures, low minimum temperatures and low rainfall. Coarse woody debris addition was associated with higher species richness and L. tasmaniensis occurrence, but this effect was not greater in times of hostile climate, implying a weak ‘refugia’ effect. Frogs were positively associated with wetter sites, and this association increased with higher maximum temperatures. Our findings concur with other studies that show that prolonged periods of drought pose a key threat to frog populations and that short periods of relief from drought conditions are insufficient to allow recovery of frog populations over the long term. Restoration efforts should ensure that good quality aquatic habitat, such as drought-resistant ponds and dams, are available throughout hot and dry times as a supplement to ephemeral aquatic habitat. Studies that monitor frogs in both terrestrial and aquatic habitats are needed to determine whether frogs have declined in absolute terms and would provide crucial information of how frogs use the landscape in times of unfavourable climatic conditions.
