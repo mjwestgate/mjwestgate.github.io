@@ -8,7 +8,7 @@ document.getElementById('papers').contentWindow.open();
 </script>
 
 # About me
-I am a Research Fellow in ecology at the Australian National University, with a strong focus on software development and open science. I study how scientific information can be used to understand and mitigate human impacts on the environment, research for which I was awarded the ESA/Wiley Next Generation Ecologist Award in 2017.
+I am a researcher in ecology and biodiversity conservation, with a strong focus on software development and open science. I study how scientific information can be used to understand and mitigate human impacts on the environment, research for which I was awarded the ESA/Wiley Next Generation Ecologist Award in 2017.
 
 <em>You can navigate my published research using the figure below (click any record for more information), by visiting the 'publications' page, or by scrolling down for a description of my key research foci.</em>
 <iframe
