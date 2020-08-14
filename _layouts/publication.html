@@ -20,6 +20,15 @@ First published {{ page.first-published }}
   {{ content }}
 {% endif %}
 
+<h3>Article attributes</h3>
+{% if page.theme %}
+  <b>Theme:</b> {{ page.theme }}
+{% endif %}
+<br>
+{% if page.type %}
+  <b>Type:</b> {{ page.type }}
+{% endif %}
+
 <div
   class='altmetric-embed'
   data-badge-type='donut'
@@ -29,8 +38,4 @@ First published {{ page.first-published }}
 {% if page.pdf.size > 0 %}
   <iframe src="/assets/pubs/{{ page.pdf }}" width="500px" height="650px" />
   </iframe>
-{% endif %}
-
-{% if page.tags %}
-  tags: {{ page.tags | join: " " }}
 {% endif %}

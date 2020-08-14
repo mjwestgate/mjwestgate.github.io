@@ -1,0 +1,15 @@
+---
+layout: publication
+order: 40
+first-published: 2019-09-12
+title: "An empirical test of the mechanistic underpinnings of interference competition."
+authors: R Beggs, JC Pierson, AIT Tulloch, W Blanchard, <b>MJ Westgate</b> & DB Lindenmayer
+year: 2020
+journal: Oikos
+volume: 129(1)
+pages: 93-105
+doi: 10.1111/oik.06583
+theme: applied_ecology
+type: empirical
+---
+Interspecific competition is an essential element of the evolution of species and can strongly influence the abundance and distribution of species. Where competition interacts with anthropogenic habitat modification, this natural ecosystem process can become a threatening process. Understanding the mechanisms behind competition in such cases is essential for the formulation of cost-effective management responses for biodiversity conservation. According to the resource availability hypothesis of competition, interference competition limits access to resources by species vulnerable to such aggression and wastes energy in evasive responses. Studying competition is notoriously difficult, however, empirical evidence of the resource availability theory is limited, and there are few published experimental studies showing such an effect at larger scales. We present the results of a controlled and replicated empirical study of interference competition at a landscape scale. We removed an aggressive, overabundant native bird, <i>Manorina melanocephala</i> (noisy miner), whose interference competition is a threatening process for small woodland birds in the highly modified agricultural landscapes of eastern Australia. We monitored foraging and harassment rates of small woodland birds before and after removal to indicate if levels of interference competition changed. Due to unexpected immediate recolonisation, abundance of <i>M. melanocephala</i> in treatment sites declined by only 34% relative to control sites. Twenty-four bird species displayed aggressive behaviour towards other birds and 41 bird species were victims of aggression. <i>Manorina melanocephala</i> was responsible for 66% of all aggressive interactions. After removal, we recorded a doubling in foraging rate of small woodland birds in treatment compared to control sites. This appears to confirm the resource availability hypothesis of competition. Paradoxically, however, increased foraging was not accompanied by a decline in harassment. Low detection rates of harassment of small woodland birds, combined with the modest reduction in abundance of <i>M. melanocephala</i>, make it difficult to draw firm conclusions about the relationship between rates of harassment and rates of foraging.

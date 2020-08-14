@@ -1,0 +1,15 @@
+---
+layout: publication
+order: 36
+first-published: 2019-03-01
+title: "Novel bird responses to successive large-scale landscape transformations."
+authors: DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin & BC Scheele
+year: 2019
+journal: Ecological Monographs
+volume: 89(3)
+pages: e01362
+doi: 10.1002/ecm.1362
+theme: applied_ecology
+type: empirical
+---
+Transformation of intact vegetation into new kinds and configurations of human-modified habitats is a well-established driver of biodiversity loss. Following initial conversion, many human-dominated landscapes are then subject to further large-scale changes in land use. The impacts on biodiversity of repeated changes in land use remain poorly known, particularly how changes in the matrix interact with initial patterns of vegetation clearing. We used an 18-yr study of birds in remnant patches of endangered temperate woodland in south-eastern Australia to quantify the spatial and temporal effects of successive land use transformation in the surrounding landscape. We examined bird response to (1) initial patterns of landscape modification (creating semi-cleared grazing land dominated by pastures that surrounded remnant woodland patches), (2) subsequent establishment and maturation of exotic tree plantations on the pastures surrounding woodland patches, and (3) additive and interactive effects of both types of landscape transformation. The majority of the 57 bird species modeled responded to conversion of grazing land to exotic plantations, either independently from initial patterns of landscape transformation (20 species), or interactively (18 species) or additively (15 species) with initial landscape transformation. The occurrence of only one species (the Common Bronzewing) was related to patterns of initial transformation but not subsequent transformation due to plantation establishment. Thus, despite many characteristics of the woodland patches within the plantation remaining largely unaltered throughout our 18-yr investigation, the matrix had a profound effect on the kinds of species inhabiting them, with such impacts often magnified over time as the matrix continued to change. Plantation establishment triggered new regional-level spatial processes with effects on birds detected in woodland patches up to 2 km away from the plantation. Matrix conversion selected for species with different traits (size, diet and movement patterns) compared to the initial transformation, suggesting it is acting as a different filter on the bird community. New kinds of landscape transformation (such as plantation establishment on previously cleared land) can radically affect the species that have persisted for many decades in previously modified landscapes. This highlights the challenges, but also opportunities, for conserving taxa in ever changing human-dominated environments.
