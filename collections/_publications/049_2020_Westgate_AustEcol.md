@@ -1,11 +1,13 @@
 ---
 layout: publication
 order: 49
-first-published: 2020-07-10
+first-published: 2020-08-20
 title: "Quantifying shifts in topic popularity over 44 years of Austral Ecology."
 authors: <b>MJ Westgate</b>, PS Barton, DB Lindenmayer & NR Andrew
-year: In press
+year: 2020
 journal: Austral Ecology
+volume: 45(6)
+pages: 663-671
 theme: evidence_synthesis
 type: review
 ---

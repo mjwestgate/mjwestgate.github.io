@@ -6,6 +6,8 @@ title: "Long-term mammal and nocturnal bird trends are influenced by vegetation 
 authors: DB Lindenmayer, P Lane, <b>MJ Westgate</b>, BC Scheele, M Crane, D Florance, C Crane & D Smith
 year: 2020
 journal: Austral Ecology
+volume: 45(6)
+pages: 813-824
 doi: 10.1111/aec.12928
 theme: applied_ecology
 type: empirical
