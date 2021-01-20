@@ -1,9 +1,9 @@
 ---
 layout: publication
-order: 52
+order: 53
 first-published: 2020-11-19
 title: "Creating and curating a community of practice: introducing the evidence synthesis Hackathon and a special series in evidence synthesis technology."
-authors: <b>MJ Westgate</b>, PS Barton, DB Lindenmayer & NR Andrew
+authors: NR Haddaway & <b>MJ Westgate</b>
 year: 2020
 journal: Environmental Evidence
 volume: 28
