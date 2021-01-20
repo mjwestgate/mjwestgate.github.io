@@ -6,6 +6,8 @@ title: "Managing interacting disturbances: lessons from a case study in Australi
 authors: DB Lindenmayer, CN Foster, <b>MJ Westgate</b>, BC Scheele & W Blanchard
 year: 2020
 journal: Journal of Applied Ecology
+volume: 57(9)
+pages: 1711-1716
 doi: 10.1111/1365-2664.13696
 theme: applied_ecology
 type: essay

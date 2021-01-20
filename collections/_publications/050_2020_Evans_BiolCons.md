@@ -3,9 +3,11 @@ layout: publication
 order: 50
 first-published: 2020-07-21
 title: "Beyond the pond: terrestrial habitat use by frogs in a changing climate."
-authors: MJ Evans, BC Scheele, <b>MJ Westgate</b>, M Yebra, JS Newport, L Rayner & AD Manning
-year: In press
+authors: MJ Evans, BC Scheele, <b>MJ Westgate</b>, M Yebra, JS Newport & AD Manning
+year: 2020
 journal: Biological Conservation
+volume: 249
+pages: 108712
 doi: 10.1016/j.biocon.2020.108712
 theme: applied_ecology
 type: empirical

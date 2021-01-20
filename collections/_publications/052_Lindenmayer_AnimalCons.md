@@ -6,7 +6,7 @@ title: "The response of arboreal marsupials to long-term changes in forest distu
 authors: DB Lindenmayer, W Blanchard, D Blair, L McBurney, C Taylor, BC Scheele, <b>MJ Westgate</b>, N Robinson & CN Foster
 year: 2020
 journal: Animal Conservation
-doi: https://doi.org/10.1111/acv.12634
+doi: 10.1111/acv.12634
 theme: landscape_ecology
 type: empirical
 ---
