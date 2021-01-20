@@ -1,6 +1,6 @@
 ---
 layout: publication
-order: 49
+order: 51
 first-published: 2020-08-20
 title: "Quantifying shifts in topic popularity over 44 years of Austral Ecology."
 authors: <b>MJ Westgate</b>, PS Barton, DB Lindenmayer & NR Andrew

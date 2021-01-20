@@ -6,6 +6,7 @@ title: "Beyond the pond: terrestrial habitat use by frogs in a changing climate.
 authors: MJ Evans, BC Scheele, <b>MJ Westgate</b>, M Yebra, JS Newport, L Rayner & AD Manning
 year: In press
 journal: Biological Conservation
+doi: 10.1016/j.biocon.2020.108712
 theme: applied_ecology
 type: empirical
 ---

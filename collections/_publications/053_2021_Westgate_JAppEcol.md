@@ -1,11 +1,12 @@
 ---
 layout: publication
-order: 51
-first-published: 2020-10-01
+order: 53
+first-published: 2021-01-18
 title: "Synergistic impacts of aggressive species on small birds in a fragmented landscape."
 authors: <b>MJ Westgate</b>, M Crane, D Florance & DB Lindenmayer
-year: In press
+year: 2021
 journal: Journal of Applied Ecology
+doi: 10.1111/1365-2664.13838
 theme: applied_ecology
 type: empirical
 ---

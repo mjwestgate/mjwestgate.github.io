@@ -1,6 +1,6 @@
 ---
 layout: publication
-order: 47
+order: 49
 first-published: 2020-06-07
 title: "Managing interacting disturbances: lessons from a case study in Australian forests."
 authors: DB Lindenmayer, CN Foster, <b>MJ Westgate</b>, BC Scheele & W Blanchard
