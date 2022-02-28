@@ -19,16 +19,18 @@ title: Software
 <div class="clearfix">
   <img
     class="hex"
-    src="/assets/img/metaverse_hex.png"
-    alt="metaverse logo"
+    src="/assets/img/Galah_Logo_final_lowres.png"
+    alt="galah logo"
   />
-  <b>metaverse</b><br>
-  This new project aims to support systematic review workflows in R. The metaverse package merely imports a series of underlying packages; but the broader project is aimed at expanding and integrating those packages to allow seamless, end-to-end systematic review and meta-analysis.
+  <b>galah</b><br>
+  The galah package brings new advances such as piping and non-standard
+  evaluation to the living atlas community. Search millions of records from
+  using a range of living atlases using a single, simple interface.
   <br>
-  <a href="https://rmetaverse.github.io" title="Homepage" target="_blank" rel="noopener">
+  <a href="https://atlasoflivingaustralia.github.io/galah/index.html" title="Homepage" target="_blank" rel="noopener">
     <i class="fa fa-home fa-2x" style="color:#727272"></i>
   </a>
-  <a href="https://github.com/rmetaverse/metaverse"
+  <a href="https://github.com/AtlasOfLivingAustralia/galah"
     title="GitHub"
     target="_blank"
     rel="noopener">
@@ -49,7 +51,7 @@ title: Software
     target="_blank"
     rel="noopener">this paper by myself and Neal Haddaway</a>. Estimated values are derived from both the scientific literature and a survey of systematic review practitioners; but users can alter any of the input parameters to customize the estimate to their own circumstances.
   <br>
-  <a href="https://predicter.org"
+  <a href="https://predicter.github.io"
     title="Homepage"
     target="_blank"
     rel="noopener">
