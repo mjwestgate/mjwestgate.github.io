@@ -36,7 +36,63 @@ title: Software
     rel="noopener">
     <i class="fa fa-github fa-2x" style="color:#727272"></i>
   </a>
+  <a href="https://cran.r-project.org/package=galah" title="CRAN::revtools">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/galah?color=#457D58">
+  </a>
 </div>
+<br>
+<br>
+
+<div class="clearfix">
+  <img
+    class="hex"
+    src="/assets/img/synthesisr_hex.png"
+    alt="synthesisr logo"
+  />
+  <b>synthesisr</b><br>
+  A collaboration between myself and <a href="https://elizagrames.github.io/#/aboutme" target="_blank" rel="noopener">Eliza Grames</a>, this package imports and de-duplicates bibliographic data from a range of formats.<br>
+  <a href="https://github.com/rmetaverse/synthesisr"
+    title="GitHub"
+    target="_blank"
+    rel="noopener">
+    <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="https://cran.r-project.org/package=synthesisr" title="CRAN::synthesisr">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/synthesisr?color=#457D58">
+  </a>
+</div>
+<br>
+<br>
+<br>
+
+<div class="clearfix">
+  <img
+    class="hex"
+    src="/assets/img/revtools_hex.png"
+    alt="revtools logo"
+  />
+  <b>revtools</b><br>
+  A package to support screening of article titles and abstracts in R. Users can screen articles one at a time, or investigate patterns in document similarity using a combination of topic models and correspondence analysis.
+  <br>
+  <a href="https://revtools.net" title="Homepage" target="_blank" rel="noopener">
+    <i class="fa fa-home fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="https://github.com/mjwestgate/revtools"
+    title="GitHub"
+    target="_blank"
+    rel="noopener">
+    <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="/assets/pubs/2019_Westgate_revtools_bioRxiv_v2.pdf"
+    target="_blank"
+    title="PDF">
+    <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
+  </a>
+  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools?color=#457D58">
+  </a>
+</div>
+<br>
 <br>
 
 <div class="clearfix">
@@ -69,58 +125,6 @@ title: Software
     <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
   </a>
 </div>
-<br>
-
-<div class="clearfix">
-  <img
-    class="hex"
-    src="/assets/img/synthesisr_hex.png"
-    alt="synthesisr logo"
-  />
-  <b>synthesisr</b><br>
-  A collaboration between myself and <a href="https://elizagrames.github.io/#/aboutme" target="_blank" rel="noopener">Eliza Grames</a>, this package imports and de-duplicates bibliographic data from a range of formats.<br>
-  <a href="https://github.com/rmetaverse/synthesisr"
-    title="GitHub"
-    target="_blank"
-    rel="noopener">
-    <i class="fa fa-github fa-2x" style="color:#727272"></i>
-  </a>
-</div>
-<br>
-<br>
-<br>
-
-<div class="clearfix">
-  <img
-    class="hex"
-    src="/assets/img/revtools_hex.png"
-    alt="revtools logo"
-  />
-  <b>revtools</b><br>
-  A package to support screening of article titles and abstracts in R. Users can screen articles one at a time, or investigate patterns in document similarity using a combination of topic models and correspondence analysis.
-  <br>
-  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
-    <img src="http://www.r-pkg.org/badges/version-last-release/revtools">
-  </a>
-  <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
-    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools">
-  </a>
-  <a href="https://revtools.net" title="Homepage" target="_blank" rel="noopener">
-    <i class="fa fa-home fa-2x" style="color:#727272"></i>
-  </a>
-  <a href="https://github.com/mjwestgate/revtools"
-    title="GitHub"
-    target="_blank"
-    rel="noopener">
-    <i class="fa fa-github fa-2x" style="color:#727272"></i>
-  </a>
-  <a href="/assets/pubs/2019_Westgate_revtools_bioRxiv_v2.pdf"
-    target="_blank"
-    title="PDF">
-    <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
-  </a>
-</div>
-<br>
 <br>
 
 <div class="clearfix">
