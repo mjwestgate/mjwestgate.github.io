@@ -37,31 +37,9 @@ title: Software
     <i class="fa fa-github fa-2x" style="color:#727272"></i>
   </a>
   <a href="https://cran.r-project.org/package=galah" title="CRAN::revtools">
-    <img src="https://cranlogs.r-pkg.org/badges/grand-total/galah?color=#457D58">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/galah">
   </a>
 </div>
-<br>
-<br>
-
-<div class="clearfix">
-  <img
-    class="hex"
-    src="/assets/img/synthesisr_hex.png"
-    alt="synthesisr logo"
-  />
-  <b>synthesisr</b><br>
-  A collaboration between myself and <a href="https://elizagrames.github.io/#/aboutme" target="_blank" rel="noopener">Eliza Grames</a>, this package imports and de-duplicates bibliographic data from a range of formats.<br>
-  <a href="https://github.com/rmetaverse/synthesisr"
-    title="GitHub"
-    target="_blank"
-    rel="noopener">
-    <i class="fa fa-github fa-2x" style="color:#727272"></i>
-  </a>
-  <a href="https://cran.r-project.org/package=synthesisr" title="CRAN::synthesisr">
-    <img src="https://cranlogs.r-pkg.org/badges/grand-total/synthesisr?color=#457D58">
-  </a>
-</div>
-<br>
 <br>
 <br>
 
@@ -89,9 +67,28 @@ title: Software
     <i class="fa fa-file-pdf-o fa-2x" style="color:#727272"></i>
   </a>
   <a href="https://cran.r-project.org/package=revtools" title="CRAN::revtools">
-    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools?color=#457D58">
+    <img src="https://cranlogs.r-pkg.org/badges/grand-total/revtools">
   </a>
 </div>
+<br>
+<br>
+
+<div class="clearfix">
+  <img
+    class="hex"
+    src="/assets/img/synthesisr_hex.png"
+    alt="synthesisr logo"
+  />
+  <b>synthesisr</b><br>
+  A collaboration between myself and <a href="https://elizagrames.github.io/#/aboutme" target="_blank" rel="noopener">Eliza Grames</a>, this package imports and de-duplicates bibliographic data from a range of formats.<br>
+  <a href="https://github.com/rmetaverse/synthesisr"
+    title="GitHub"
+    target="_blank"
+    rel="noopener">
+    <i class="fa fa-github fa-2x" style="color:#727272"></i>
+  </a>
+</div>
+<br>
 <br>
 <br>
 
