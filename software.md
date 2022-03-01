@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software
+title: Data analysis & visualisation
 ---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -13,7 +13,7 @@ title: Software
     gtag('config', 'UA-121833450-1');
   </script>
 </head>
-# Software
+# Data analysis & visualisation
 <i>I use [R](https://cran.r-project.org) for all my analysis and software development. The main packages and apps that I have contributed to are listed below, while you can see a more complete list on my <a href="https://github.com/mjwestgate">GitHub page</a>.</i>
 
 <div class="clearfix">

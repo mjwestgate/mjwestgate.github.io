@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentations
+title: Science communication
 ---
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -55,6 +55,8 @@ title: Presentations
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 
+<br>
+<br>
 
 ## Workshops and tutorials
 
@@ -76,9 +78,10 @@ title: Presentations
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 
+<br>
+<br>
 
 ## Research presentations
-
 
 <iframe 
   width="280" 
@@ -98,6 +101,8 @@ title: Presentations
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
   
+<br>
+<br>
 
 ## Slides
 
