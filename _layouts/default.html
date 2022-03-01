@@ -29,16 +29,6 @@
         {% endif %}
 
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p>Team Leader<br>
-          Science & Decision Support<br>
-          <a href="https://www.ala.org.au/"    
-            title="GitHub"
-            target="_blank"
-            rel="noopener">Atlas of Living Australia
-          </a>
-          <br>
-          CSIRO Canberra
-        </p>
         <br>
         <div id="contact-list" style="text-align:left">
           <a href="mailto:martin.westgate@anu.edu.au" title="Email">
@@ -67,37 +57,20 @@
         </div>
         <br>
         <p>
-          <a href="https://martinwestgate.com">
-            <i class="fa fa-user fa-lg"></i>&nbsp About Me
-          </a>
-        </p>
-        <p>
           <a href="/software.html">
-            <i class="fa fa-laptop fa-lg"></i>&nbsp Software
+            <i class="fa fa-laptop fa-lg"></i>&nbsp Data analysis & visualisation
           </a>
         </p>
         <p>
           <a href="/publications.html">
-            <i class="fa fa-file fa-lg"></i>&nbsp Scientific publications
+            <i class="fa fa-frog fa-lg"></i>&nbsp Biodiversity science
           </a>
         </p>
         <p>
           <a href="/presentations.html">
-            <i class="fa fa-video-camera fa-lg"></i>&nbsp Presentations
+            <i class="fa fa-video-camera fa-lg"></i>&nbsp Science Communication
           </a>
         </p>
-        <p>
-          <small>Hosted on GitHub Pages &mdash; Theme by
-            <a href="https://github.com/orderedlist">orderedlist</a>
-          </small>
-        </p>
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
       {{ content }}
