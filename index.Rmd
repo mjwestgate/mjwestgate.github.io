@@ -1,0 +1,23 @@
+---
+title: "Martin Westgate, PhD"
+image: Westgate-Martin.jpeg
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/martin-westgate-410708232/"
+  - label: Twitter
+    url: "https://twitter.com/westgatecology"
+  - label: GitHub
+    url: "https://github.com/mjwestgate"
+  - label: Google Scholar
+    url: "https://scholar.google.com.au/citations?user=gsyXAPMAAAAJ"
+  - label: Email
+    url: "mailto:martinjwestgate@gmail.com"
+output:
+  postcards::jolla
+  
+---
+
+I am a data scientist and R programmer from Canberra, Australia. Team leader in Science & Decision Support at the Atlas of Living Australia, previously a Research Fellow at the Australian National University.
+<br>
+<br>
+Biodiversity Science | Statistical Analysis | Data Visualisation
