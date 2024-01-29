@@ -1,0 +1,42 @@
+/* css styles */
+
+.centertext {
+  color: #4a4a4a;
+  text-align: center;
+}
+
+.profile {
+  margin-top: 100px;
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+a {
+  color: #387548;
+}
+
+.button-container {
+  display: flex;
+  
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: #387548;
+  border-color: #4a4a4a;
+  color: #ffffff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.btn-outline-primary:hover {
+  border-color: #387548;
+  background-color: #71bd85;
+}
