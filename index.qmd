@@ -15,11 +15,11 @@
 
 <div class="button-container">
   <div class="container">
-    <a href="https://www.github.com/mjwestgate" class="btn btn-outline-primary" role="button"  data-toggle="tooltip" title="My GitHub Profile">GitHub</a>
-    <a href="http://scholar.google.com.au/citations?user=gsyXAPMAAAAJ" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="Google Scholar Profile">Google Scholar</a>
-    <a href="mailto:martinjwestagte@gmail.com" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="Send me an email">Email</a>
-    <a href="https://labs.ala.org.au/" class="btn btn-outline-primary" role="button"  data-toggle="tooltip" title="Experiments in code from the ALA">ALA Labs</a>
-    <a href="/presentations.html" class="btn btn-outline-primary" role="button" data-toggle="tooltip" title="My presentations">Presentations</a>
+    <a href="https://www.github.com/mjwestgate" class="btn btn-outline-primary rainbow" role="button"  data-toggle="tooltip" title="My GitHub Profile">GitHub</a>
+    <a href="http://scholar.google.com.au/citations?user=gsyXAPMAAAAJ" class="btn btn-outline-primary rainbow" role="button" data-toggle="tooltip" title="Google Scholar Profile">Google Scholar</a>
+    <a href="mailto:martinjwestagte@gmail.com" class="btn btn-outline-primary rainbow" role="button" data-toggle="tooltip" title="Send me an email">Email</a>
+    <a href="https://labs.ala.org.au/" class="btn btn-outline-primary rainbow" role="button"  data-toggle="tooltip" title="Experiments in code from the ALA">ALA Labs</a>
+    <a href="/presentations.html" class="btn btn-outline-primary rainbow" role="button" data-toggle="tooltip" title="My presentations">Presentations</a>
   </div>
 </div>
 ```

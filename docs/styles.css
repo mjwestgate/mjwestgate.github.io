@@ -28,16 +28,24 @@ a {
   margin: 0 auto;
 }
 
-.btn {
+.rainbow {
   background-color: #ffffff;
   border-color: #4a4a4a;
   color: #4a4a4a;
+  cursor: pointer;
   margin-left: 5px;
   margin-right: 5px;
 }
 
 .btn-outline-primary:hover {
-  border-color: #4a4a4a;
-  background-color: #4a4a4a;
+  border-color: #ffffff;
   color: #ffffff;
+  background-image: linear-gradient(to right, #d182cb, #FF6355, #FBA949, #DEC504, #8BD448, #43a7e0, #d182cb);
+  animation: slidebg 8s linear infinite;
+}
+
+@keyframes slidebg {
+  to {
+    background-position:20vw;
+  }
 }
