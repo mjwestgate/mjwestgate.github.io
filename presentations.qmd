@@ -9,6 +9,7 @@
 
 ## Presentations {.centertext}
 
+[link](presentations/2022_09_08_SSA/SSA_galah_slides.html)
 
 :::
 

@@ -16,7 +16,7 @@
 }
 
 a {
-  color: #387548;
+  color: #4a4a4a;
 }
 
 .button-container {
@@ -29,14 +29,15 @@ a {
 }
 
 .btn {
-  background-color: #387548;
+  background-color: #ffffff;
   border-color: #4a4a4a;
-  color: #ffffff;
-  margin-left: 10px;
-  margin-right: 10px;
+  color: #4a4a4a;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 .btn-outline-primary:hover {
-  border-color: #387548;
-  background-color: #71bd85;
+  border-color: #4a4a4a;
+  background-color: #4a4a4a;
+  color: #ffffff;
 }
