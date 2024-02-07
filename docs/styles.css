@@ -28,6 +28,15 @@ a {
   margin: 0 auto;
 }
 
+.slidethumbnail {
+  margin-top: 20px;  
+  margin-bottom: 20px;
+  margin-right: 30px;
+  align: left;
+  width: 300px;
+  border: 1px solid #575757;
+}
+
 .rainbow {
   background-color: #ffffff;
   border-color: #4a4a4a;
