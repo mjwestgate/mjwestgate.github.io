@@ -7,9 +7,28 @@
 ::: {.g-col-8}
 
 
-## Presentations {.centertext}
+## Presentations
 
-[link](presentations/2022_09_08_SSA/SSA_galah_slides.html)
+```{=html}
+<a href="presentations/2024-02-08_VicBioCon/VicBioCon_2024.html#/title-slide">
+  <img src="images/slide_covers/2024-02-08_VicBioCon.png" class="slidethumbnail"></a><em>VicBioCon</em> 2024-02-08
+```
+
+```{=html}
+<a href="presentations/2022_09_08_SSA/SSA_galah_slides.html">
+  <img src="images/slide_covers/2022-09-08_SSA.png" class="slidethumbnail"></a><em>Statistical Society of Australia</em> 2022-09-08
+```
+
+```{=html}
+<a href="presentations/2022_07_13_SORTEE/sortee_slides.html">
+  <img src="images/slide_covers/2022-07-13_SORTEE.png" class="slidethumbnail"></a><em>SORTEE</em> 2022-07-13
+```
+
+```{=html}
+<a href="presentations/2021_11_12_Monash/2021_11_12_Monash.html">
+  <img src="images/slide_covers/2021-11-12_Monash.png" class="slidethumbnail"></a><em>Monash University</em> 2021_11_12
+```
+
 
 :::
 
