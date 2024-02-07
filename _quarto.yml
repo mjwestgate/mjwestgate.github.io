@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "martinwestgate"
+
+format:
+  html:
+    page-layout: custom
+    css: styles.css
