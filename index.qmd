@@ -5,7 +5,7 @@
 :::
 
 ::: {.g-col-8}
-<img class="profile" src="Westgate-Martin.jpeg">
+<img class="profile" src="images/Westgate-Martin.jpeg">
 
 ## Martin Westgate {.centertext}
 
