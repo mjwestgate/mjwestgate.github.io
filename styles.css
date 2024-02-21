@@ -21,7 +21,6 @@ a {
 
 .button-container {
   display: flex;
-  
 }
 
 .container {
@@ -44,6 +43,11 @@ a {
   cursor: pointer;
   margin-left: 5px;
   margin-right: 5px;
+}
+
+.btn-outline-primary {
+  margin-bottom: 15px;
+  width: 130px;  
 }
 
 .btn-outline-primary:hover {
