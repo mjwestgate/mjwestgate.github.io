@@ -10,7 +10,7 @@
 ## Martin Westgate {.centertext}
 
 ```{=html}
-<p class="centertext">I am a data scientist and R programmer from Canberra, Australia. I lead the Science & Decision Support Team at the <a href="https://www.ala.org.au">Atlas of Living Australia</a>. Previously, I was a Research Fellow in biodiversity science at the <a href="https://fennerschool.anu.edu.au">Fenner School of Environment & Society</a>, ANU.</p>
+<p class="centertext">I am an ecologist & data scientist from Canberra, Australia. I lead the Science & Decision Support Team at the <a href="https://www.ala.org.au">Atlas of Living Australia</a>. Previously, I was a Research Fellow in biodiversity science at the <a href="https://fennerschool.anu.edu.au">Fenner School of Environment & Society</a>, ANU.</p>
 <br>
 
 <div class="button-container">

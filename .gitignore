@@ -7,3 +7,5 @@ Gemfile.lock
 .Rhistory
 .Rapp.history
 /.quarto/
+
+**/*.quarto_ipynb

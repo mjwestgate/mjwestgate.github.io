@@ -10,6 +10,11 @@
 ## Presentations
 
 ```{=html}
+<a href="presentations/2025-10-13_LivingData.html#/title-slide">
+  <img src="images/slide_covers/2025-10-13_LivingData.png" class="slidethumbnail"></a><em>Living Data</em> 2024-02-08
+```
+<br>
+```{=html}
 <a href="presentations/2024-02-08_VicBioCon/VicBioCon_2024.html#/title-slide">
   <img src="images/slide_covers/2024-02-08_VicBioCon.png" class="slidethumbnail"></a><em>VicBioCon</em> 2024-02-08
 ```
