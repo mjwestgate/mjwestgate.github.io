@@ -8,10 +8,14 @@
 
 
 ## Presentations
-
+```{=html}
+<a href="presentations/2025-11-13_ALA-board.html#/title-slide">
+  <img src="images/slide_covers/2025-11-13_ALA-board.png" class="slidethumbnail"></a><em>ALA Advisory Board</em> 2025-11-13
+```
+<br>
 ```{=html}
 <a href="presentations/2025-10-13_LivingData.html#/title-slide">
-  <img src="images/slide_covers/2025-10-13_LivingData.png" class="slidethumbnail"></a><em>Living Data</em> 2024-02-08
+  <img src="images/slide_covers/2025-10-13_LivingData.png" class="slidethumbnail"></a><em>Living Data</em> 2025-10-13
 ```
 <br>
 ```{=html}
