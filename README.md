@@ -1,0 +1,1 @@
+This is the repo used to build mjwestgate.github.io, aka https://www.martinwestgate.com
