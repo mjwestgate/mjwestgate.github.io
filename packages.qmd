@@ -1,8 +1,8 @@
 ---
-title: "Presentations"
+title: "R Packages"
 listing: 
   type: default
-  contents: presentations
+  contents: packages
   sort: "date desc"
   categories: false
 ---

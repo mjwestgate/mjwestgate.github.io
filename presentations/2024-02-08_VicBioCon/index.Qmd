@@ -1,0 +1,10 @@
+---
+author: "Martin Westgate"
+title: "Improving data sharing and re-use at the Atlas of Living Australia"
+subtitle: "VicBioCon, La Trobe University"
+date: 2024-02-08
+---
+
+### Abstract
+
+slides

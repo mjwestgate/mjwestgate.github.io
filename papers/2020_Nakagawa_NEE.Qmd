@@ -1,0 +1,19 @@
+---
+author: S Nakagawa <em>et al.</em>
+title: "A new ecosystem for evidence synthesis"
+date: 2020-03-23
+volume: 4
+pages: 498-501
+doi: 10.1038/s41559-020-1153-2
+categories: 
+  - author-contributing
+  - topic-metascience
+  - method-conceptual
+  - workshop-paper
+---
+S Nakagawa, AG Dunn, M Lagisz, A Bannach-Brown, EM Grames, A Sánchez-Tójar, RE O'Dea, DWA Noble, <b>MJ Westgate</b>, PA Arnold, S Barrow, A Bethel, E Cooper, Y Zhi Foo, SR Geange, E Hennessy, W Mapanga, K Mengersen, C Munera, MJ Page, V Welch, Evidence Synthesis Hackathon 2019 Participants & NR Haddaway
+
+**Nature Ecology & Evolution**
+
+### Summary
+Synthesizing evidence is an essential part of scientific progress, but it is often done in a slow and uncoordinated manner, sometimes producing misleading conclusions. Here, we propose the idea of an 'open synthesis community' to resolve this pressing issue.

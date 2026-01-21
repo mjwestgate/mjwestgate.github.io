@@ -1,31 +1,23 @@
+---
+title: "Martin Westgate"
+about:
+  template: jolla
+  image: images/Westgate-Martin.jpeg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://www.github.com/mjwestgate
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/martin-westgate
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/rowdy_nerd
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=gsyXAPMAAAA&user=gsyXAPMAAAAJ
+---
 
-::: {.grid}
-::: {.g-col-2}
+I am an ecologist & data scientist from Canberra, Australia. I lead the Science & Decision Support Team at the [Atlas of Living Australia](https://www.ala.org.au). Previously, I was a Research Fellow in biodiversity science at the [Fenner School of Environment & Society](https://fennerschool.anu.edu.au), ANU.
 
-:::
-
-::: {.g-col-8}
-<img class="profile" src="images/Westgate-Martin.jpeg">
-
-## Martin Westgate {.centertext}
-
-```{=html}
-<p class="centertext">I am an ecologist & data scientist from Canberra, Australia. I lead the Science & Decision Support Team at the <a href="https://www.ala.org.au">Atlas of Living Australia</a>. Previously, I was a Research Fellow in biodiversity science at the <a href="https://fennerschool.anu.edu.au">Fenner School of Environment & Society</a>, ANU.</p>
-<br>
-
-<div class="button-container">
-  <div class="container">
-    <a href="https://www.github.com/mjwestgate" class="btn btn-outline-primary rainbow" role="button"  data-toggle="tooltip" title="My GitHub Profile">GitHub</a>
-    <a href="http://scholar.google.com.au/citations?user=gsyXAPMAAAAJ" class="btn btn-outline-primary rainbow" role="button" data-toggle="tooltip" title="Google Scholar Profile">Scholar</a>
-    <a href="https://labs.ala.org.au/" class="btn btn-outline-primary rainbow" role="button"  data-toggle="tooltip" title="Experiments in code from the ALA">ALA Labs</a>
-    <a href="/presentations.html" class="btn btn-outline-primary rainbow" role="button" data-toggle="tooltip" title="My presentations">Presentations</a>
-  </div>
-</div>
-```
-:::
-
-::: {.g-col-2}
-
-:::
-
-:::
+I am a former winner of the [ESA Next Generation Ecologist Award](https://www.ecolsoc.org.au/wiley-next-generation-ecologist-award-past-winners/), and was part of the team that won the Australian Museum's [Eureka Prize for Applied Environmental Research](https://australian.museum/get-involved/eureka-prizes/eureka-prizes-archive/2022-eureka-prize-winners/). In 2025, I was awarded a [Churchill Fellowship](https://www.churchilltrust.com.au/fellow/martin-westgate-act-2025/) to address [challenges in biodiversity informatics](https://www.churchilltrust.com.au/project/to-investigate-global-scale-solutions-in-biodiversity-informatics/).

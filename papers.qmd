@@ -1,0 +1,9 @@
+---
+title: "Papers"
+listing: 
+  type: table
+  contents: papers
+  sort: "date desc"
+  categories: true
+  fields: [author, date, title]
+---

@@ -1,0 +1,17 @@
+---
+author: "Dax Kellie, Shandiya Balasubramaniam & Martin Westgate"
+title: "corella"
+subtitle: "Prepare, Manipulate and Check Data to Comply with Darwin Core Standard"
+date: 2025-03-12
+image: logo.png
+doi: https://doi.org/10.32614/CRAN.package.corella
+---
+
+![](logo.png){width=200}
+
+![](https://www.r-pkg.org/badges/version/corella)
+![](https://cranlogs.r-pkg.org/badges/grand-total/corella)
+
+
+### Description
+Helps users standardise data to the Darwin Core Standard, a global data standard to store, document, and share biodiversity data like species occurrence records. The package provides tools to manipulate data to conform with, and check validity against, the Darwin Core Standard. Using 'corella' allows users to verify that their data can be used to build 'Darwin Core Archives' using the 'galaxias' package.
