@@ -1,3 +1,1 @@
-## Research website
-
-This is the GitHub repo for [https://mjwestgate.github.io](https://mjwestgate.github.io). It is under active development.
+This is the repo used to build mjwestgate.github.io, aka https://www.martinwestgate.com

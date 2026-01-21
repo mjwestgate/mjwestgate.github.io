@@ -1,0 +1,17 @@
+---
+author: "Martin Westgate & Eliza Grames"
+title: "synthesisr"
+subtitle: "Import, Assemble, and Deduplicate Bibliographic Datasets"
+date: 2019-12-17
+image: logo.png
+doi: https://doi.org/10.32614/CRAN.package.synthesisr
+---
+
+![](logo.png){width=200}
+
+![](https://www.r-pkg.org/badges/version/synthesisr)
+![](https://cranlogs.r-pkg.org/badges/grand-total/synthesisr)
+
+
+### Description
+A critical first step in systematic literature reviews and mining of academic texts is to identify relevant texts from a range of sources, particularly databases such as 'Web of Science' or 'Scopus'. These databases often export in different formats or with different metadata tags. 'synthesisr' expands on the tools outlined by Westgate (2019) <doi:10.1002/jrsm.1374> to import bibliographic data from a range of formats (such as 'bibtex', 'ris', or 'ciw') in a standard way, and allows merging and deduplication of the resulting dataset.

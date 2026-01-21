@@ -1,0 +1,17 @@
+---
+author: Martin Westgate
+title: "revtools"
+subtitle: "Tools to Support Evidence Synthesis"
+date: 2019-12-17
+image: logo.png
+doi: https://doi.org/10.32614/CRAN.package.revtools
+---
+
+![](logo.png){width=200}
+
+![](https://www.r-pkg.org/badges/version/revtools)
+![](https://cranlogs.r-pkg.org/badges/grand-total/revtools)
+
+
+### Description
+Researchers commonly need to summarize scientific information, a process known as 'evidence synthesis'. The first stage of a synthesis process (such as a systematic review or meta-analysis) is to download a list of references from academic search engines such as 'Web of Knowledge' or 'Scopus'. The traditional approach to systematic review is then to sort these data manually, first by locating and removing duplicated entries, and then screening to remove irrelevant content by viewing titles and abstracts (in that order). 'revtools' provides interfaces for each of these tasks. An alternative approach, however, is to draw on tools from machine learning to visualise patterns in the corpus. In this case, you can use 'revtools' to render ordinations of text drawn from article titles, keywords and abstracts, and interactively select or exclude individual references, words or topics.

@@ -1,11 +1,24 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "martinwestgate"
+  title: "Martin Westgate"
+  navbar:
+    right:
+      - text: Outputs
+        menu:
+        - text: Papers
+          href: papers.qmd
+        - text: Packages
+          href: packages.qmd
+        - text: Presentations
+          href: presentations.qmd
 
 format:
   html:
-    page-layout: custom
+    theme: litera
     css: styles.css
+    toc: true
+
+
+

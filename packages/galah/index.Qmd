@@ -1,0 +1,17 @@
+---
+author: "Martin Westgate, Dax Kellie, Matilda Stevenson & Peggy Newman"
+title: "galah"
+subtitle: "Biodiversity Data from the GBIF Node Network"
+date: 2025-06-13
+image: logo.png
+doi: https://doi.org/10.32614/CRAN.package.galah
+---
+
+![](logo.png){width=200}
+
+![](https://www.r-pkg.org/badges/version/galah)
+![](https://cranlogs.r-pkg.org/badges/grand-total/galah)
+
+
+### Description
+The Global Biodiversity Information Facility  ([GBIF](https://www.gbif.org)) sources data from an international network of data providers, known as 'nodes'. Several of these nodes - the [living atlases](https://living-atlases.gbif.org) - maintain their own web services using software originally developed by the Atlas of Living Australia ([ALA](https://www.ala.org.au)). 'galah' enables the R community to directly access data and resources hosted by GBIF and its partner nodes.

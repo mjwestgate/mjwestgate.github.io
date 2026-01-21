@@ -1,0 +1,38 @@
+---
+author: KL Hingee, <b>MJ Westgate</b> & DB Lindenmayer
+title: "Long-term monitoring in endangered woodlands shows effects of multi-scale drivers on bird occupancy"
+date: 2022-03-31
+doi: 10.1111/jbi.14353
+categories: 
+  - author-contributing
+  - topic-landscape-ecology
+  - method-empirical
+---
+
+**Journal of Biogeography**
+
+### Abstract
+
+#### Aims
+
+The effect of spatial scale on the location and abundance of species has long been a major topic of interest in ecology. Accounting for key drivers at multiple scales is critical for rigorous description of patterns of species distribution and biodiversity change. We quantified the effects of potential drivers of bird occupancy across a geographically dispersed, but heavily disturbed and fragmented ecosystem.
+
+Location
+
+Threatened Box-Gum Grassy Woodlands in south-eastern Australia, which stretch across 9° of latitude (~900 km).
+
+Taxon
+
+Birds (Class Aves).
+
+Methods
+
+We grouped data from four monitoring studies of birds that spanned 10–22 years in Box-Gum Grassy Woodlands. We then employed joint species distribution modelling to investigate multi-species responses to environmental drivers measured at patch, landscape and regional scales, and selected combinations of all three.
+
+Results
+
+We show that in Box-Gum Grassy Woodlands: vegetation structure influences bird occupancy beyond the presence of the despotic Noisy Miner (Manorina melanocephala); woodland cover is more important than vegetation productivity and topographic position; bird occupancy is sensitive to a combination of average climate, seasonality, and summer and winter extremes; and there is limited redundancy between drivers of bird occupancy at different scales. Species differ most in their response to presence of the Noisy Miner, high summer temperatures and nearby woodland cover.
+
+Main Conclusions
+
+Quantifying the influence of environmental drivers that act at different spatial scales is valuable for understanding patterns of bird species occurrence. Fine-scale studies can benefit from considering the climate and biogeographical context in which the research occurs. Conversely, large-scale studies should recognise that downscaling species occupancy projections from continental to patch scales requires careful consideration of the role of patch-scale vegetation.

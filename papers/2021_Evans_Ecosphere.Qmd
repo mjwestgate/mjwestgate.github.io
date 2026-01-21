@@ -1,0 +1,20 @@
+---
+author: MJ Evans, PS Barton, <b>MJ Westgate</b>, M Soga, G Fujita & T Miyashita
+title: "Ecological processes associated with different animal taxa in urban environments"
+date: 2021-08-24
+volume: 12
+issue: 8
+pages: e03712
+doi: 10.1002/ecs2.3712
+categories: 
+  - author-contributing
+  - topic-landscape-ecology
+  - topic-metascience
+  - method-empirical
+  - method-review
+---
+
+**Ecosphere**
+
+### Abstract
+Urbanization is increasing globally with wide-ranging consequences for biodiversity and the ecological processes it performs. Yet knowledge of the range of ecological processes supported by biodiversity in urban environments, and the different taxa that perform these processes is poorly understood. We used a text-analysis approach to identify the research trends and gaps in knowledge in the literature on ecological processes provided by animals in urban environments. We found a divide in urban ecological processes research that grouped studies into those with an explicit link to ecological processes and those that focused on biodiversity and made an implicit link to ecological processes. We also found that the dominant taxa in urban ecological processes research were insects, which has more than twice as many studies as birds or mammals, potentially due to their recognized and explicit link to key processes and services (e.g., pollination, pollution biomonitoring) and disservices (e.g., pests, disease transmission). We found a further split between terrestrial and aquatic studies, with urban aquatic studies also declining in relative prevalence over the last 20 yr. To consolidate and advance research on ecological processes in urban environments, we suggest it will be important to bridge the divide between studies on explicit services and others on more general biodiversity. This might be achieved by placing greater focus on the processes provided by non-insect taxa, and by integrating aquatic and terrestrial perspectives.
