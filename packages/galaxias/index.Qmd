@@ -5,13 +5,14 @@ subtitle: "Describe, Package, and Share Biodiversity Data"
 date: 2025-10-22
 image: logo.png
 doi: https://doi.org/10.32614/CRAN.package.galaxias
+default-image-extension: ""
 ---
 
-![](logo.png){width=200}
+<a href="https://galaxias.ala.org.au/R/">
+    <img src="logo.png" class="hex">
+</a>
 
 ![](https://www.r-pkg.org/badges/version/galaxias)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/galaxias)
 
-
-### Description
 The Darwin Core data standard is widely used to share biodiversity information, most notably by the Global Biodiversity Information Facility and its partner nodes; but converting data to this standard can be tricky. 'galaxias' is functionally similar to 'devtools', but with a focus on building Darwin Core Archives rather than R packages, enabling data to be shared and re-used with relative ease. For details see Wieczorek and colleagues (2012) <doi:10.1371/journal.pone.0029715>.

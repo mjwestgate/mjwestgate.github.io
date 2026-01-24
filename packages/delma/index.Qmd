@@ -5,13 +5,14 @@ subtitle: "Convert 'R Markdown' and 'Quarto' Documents to Ecological Metadata La
 date: 2025-05-15
 image: logo.png
 doi: https://doi.org/10.32614/CRAN.package.delma
+default-image-extension: ""
 ---
 
-![](logo.png){width=200}
+<a href="https://delma.ala.org.au/R/">
+    <img src="logo.png" class="hex">
+</a>
 
-![](https://www.r-pkg.org/badges/version/delma)
-![](https://cranlogs.r-pkg.org/badges/grand-total/delma)
+[![CRAN status](https://www.r-pkg.org/badges/version/delma)](https://CRAN.R-project.org/package=delma)
+[![CRAN status](https://cranlogs.r-pkg.org/badges/grand-total/delma)](https://CRAN.R-project.org/package=delma)
 
-
-### Description
 Ecological Metadata Language or 'EML' is a long-established format for describing ecological datasets to facilitate sharing and re-use. Because 'EML' is effectively a modified 'xml' schema, however, it is challenging to write and manipulate for non-expert users. 'delma' supports users to write metadata statements in 'R Markdown' or 'Quarto markdown' format, and parse them to 'EML' and (optionally) back again.

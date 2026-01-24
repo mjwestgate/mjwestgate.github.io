@@ -5,9 +5,12 @@ subtitle: "Import, Assemble, and Deduplicate Bibliographic Datasets"
 date: 2019-12-17
 image: logo.png
 doi: https://doi.org/10.32614/CRAN.package.synthesisr
+default-image-extension: ""
 ---
 
-![](logo.png){width=200}
+<a href="https://martinwestgate.com/synthesisr">
+    <img src="logo.png" class="hex">
+</a>
 
 ![](https://www.r-pkg.org/badges/version/synthesisr)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/synthesisr)

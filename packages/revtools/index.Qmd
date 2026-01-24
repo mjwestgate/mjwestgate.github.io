@@ -5,9 +5,12 @@ subtitle: "Tools to Support Evidence Synthesis"
 date: 2019-12-17
 image: logo.png
 doi: https://doi.org/10.32614/CRAN.package.revtools
+default-image-extension: ""
 ---
 
-![](logo.png){width=200}
+<a href="https://cran.r-project.org/package=revtools">
+    <img src="logo.png" class="hex">
+</a>
 
 ![](https://www.r-pkg.org/badges/version/revtools)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/revtools)
