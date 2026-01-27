@@ -11,6 +11,7 @@ default-image-extension: ""
 <a href="https://galah.ala.org.au/R/">
     <img src="logo.png" class="hex">
 </a>
+
 ![](https://www.r-pkg.org/badges/version/galah)
 ![](https://cranlogs.r-pkg.org/badges/grand-total/galah)
 

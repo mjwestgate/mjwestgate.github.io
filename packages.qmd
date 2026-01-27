@@ -1,8 +1,8 @@
 ---
 title: "R Packages"
 listing: 
-  type: default
   contents: packages
+  template: packages.ejs
   sort: "date desc"
   categories: false
 ---
