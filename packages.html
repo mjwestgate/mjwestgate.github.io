@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-author','listing-title','listing-subtitle','listing-date','listing-image','listing-doi','listing-default-image-extension','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-author","listing-title","listing-subtitle","listing-date","listing-image","listing-doi","listing-default-image-extension","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -208,203 +208,140 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1761055200000" data-listing-file-modified-sort="1769221567023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
-<div class="thumbnail"><a href="./packages/galaxias/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/galaxias/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/galaxias/index.html" class="no-external">galaxias</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/galaxias/index.html" class="no-external">Describe, Package, and Share Biodiversity Data</a>
-</div>
-<div class="delink listing-description"><a href="./packages/galaxias/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/galaxias/index.html" class="no-external">
-<div class="listing-date">
-Oct 22, 2025
-</div>
-<div class="listing-author">
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="list">
+<div data-index="0" data-listing-date-sort="1761055200000" data-listing-file-modified-sort="1769221567023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/galaxias/index.html"> <img src="./packages/galaxias/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+galaxias
+</h5>
+<span class="text-muted listing-subtitle">Describe, Package, and Share Biodiversity Data</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate, Shandiya Balasubramaniam, Dax Kellie
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1749736800000" data-listing-file-modified-sort="1769221570598" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<div class="thumbnail"><a href="./packages/galah/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/galah/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/galah/index.html" class="no-external">galah</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/galah/index.html" class="no-external">Biodiversity Data from the GBIF Node Network</a>
-</div>
-<div class="delink listing-description"><a href="./packages/galah/index.html" class="no-external">
-    
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/galah/index.html" class="no-external">
-<div class="listing-date">
-Jun 13, 2025
-</div>
-<div class="listing-author">
+<div data-index="1" data-listing-date-sort="1749736800000" data-listing-file-modified-sort="1769475995147" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/galah/index.html"> <img src="./packages/galah/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+galah
+</h5>
+<span class="text-muted listing-subtitle">Biodiversity Data from the GBIF Node Network</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate, Dax Kellie, Matilda Stevenson &amp; Peggy Newman
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1747231200000" data-listing-file-modified-sort="1769221526543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<div class="thumbnail"><a href="./packages/delma/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/delma/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/delma/index.html" class="no-external">delma</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/delma/index.html" class="no-external">Convert ‘R Markdown’ and ‘Quarto’ Documents to Ecological Metadata Language</a>
-</div>
-<div class="delink listing-description"><a href="./packages/delma/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/delma/index.html" class="no-external">
-<div class="listing-date">
-May 15, 2025
-</div>
-<div class="listing-author">
+<div data-index="2" data-listing-date-sort="1747231200000" data-listing-file-modified-sort="1769221526543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/delma/index.html"> <img src="./packages/delma/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+delma
+</h5>
+<span class="text-muted listing-subtitle">Convert ‘R Markdown’ and ‘Quarto’ Documents to Ecological Metadata Language</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate, Shandiya Balasubramaniam &amp; Dax Kellie
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1741701600000" data-listing-file-modified-sort="1769221574243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<div class="thumbnail"><a href="./packages/corella/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/corella/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/corella/index.html" class="no-external">corella</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/corella/index.html" class="no-external">Prepare, Manipulate and Check Data to Comply with Darwin Core Standard</a>
-</div>
-<div class="delink listing-description"><a href="./packages/corella/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/corella/index.html" class="no-external">
-<div class="listing-date">
-Mar 12, 2025
-</div>
-<div class="listing-author">
+<div data-index="3" data-listing-date-sort="1741701600000" data-listing-file-modified-sort="1769221574243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/corella/index.html"> <img src="./packages/corella/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+corella
+</h5>
+<span class="text-muted listing-subtitle">Prepare, Manipulate and Check Data to Comply with Darwin Core Standard</span>
+<p class="quarto-title-authors listing-author">
 Dax Kellie, Shandiya Balasubramaniam &amp; Martin Westgate
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1693231200000" data-listing-file-modified-sort="1769221588206" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
-<div class="thumbnail"><a href="./packages/potions/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/potions/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/potions/index.html" class="no-external">potions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/potions/index.html" class="no-external">Easy Options Management</a>
-</div>
-<div class="delink listing-description"><a href="./packages/potions/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/potions/index.html" class="no-external">
-<div class="listing-date">
-Aug 29, 2023
-</div>
-<div class="listing-author">
+<div data-index="4" data-listing-date-sort="1693231200000" data-listing-file-modified-sort="1769221588206" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/potions/index.html"> <img src="./packages/potions/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+potions
+</h5>
+<span class="text-muted listing-subtitle">Easy Options Management</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1576504800000" data-listing-file-modified-sort="1769221655843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
-<div class="thumbnail"><a href="./packages/synthesisr/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/synthesisr/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/synthesisr/index.html" class="no-external">synthesisr</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/synthesisr/index.html" class="no-external">Import, Assemble, and Deduplicate Bibliographic Datasets</a>
-</div>
-<div class="delink listing-description"><a href="./packages/synthesisr/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/synthesisr/index.html" class="no-external">
-<div class="listing-date">
-Dec 17, 2019
-</div>
-<div class="listing-author">
+<div data-index="5" data-listing-date-sort="1576504800000" data-listing-file-modified-sort="1769221655843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/synthesisr/index.html"> <img src="./packages/synthesisr/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+synthesisr
+</h5>
+<span class="text-muted listing-subtitle">Import, Assemble, and Deduplicate Bibliographic Datasets</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate &amp; Eliza Grames
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1576504800000" data-listing-file-modified-sort="1769221635699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
-<div class="thumbnail"><a href="./packages/revtools/index.html" class="no-external">
-
-<img loading="lazy" src="./packages/revtools/logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./packages/revtools/index.html" class="no-external">revtools</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./packages/revtools/index.html" class="no-external">Tools to Support Evidence Synthesis</a>
-</div>
-<div class="delink listing-description"><a href="./packages/revtools/index.html" class="no-external">
-  
-</a></div>
-</div>
-<div class="metadata">
-<a href="./packages/revtools/index.html" class="no-external">
-<div class="listing-date">
-Dec 17, 2019
-</div>
-<div class="listing-author">
+<div data-index="6" data-listing-date-sort="1576504800000" data-listing-file-modified-sort="1769221635699" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<br>
+<table>
+<tbody><tr>
+<td>
+<a href="./packages/revtools/index.html"> <img src="./packages/revtools/logo.png" alt="  " class="smallhex"> </a>
+</td>
+<td>
+<h5 class="listing-title anchored">
+revtools
+</h5>
+<span class="text-muted listing-subtitle">Tools to Support Evidence Synthesis</span>
+<p class="quarto-title-authors listing-author">
 Martin Westgate
-</div>
-</a>
-</div>
+</p>
+</td>
+</tr>
+</tbody></table>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
