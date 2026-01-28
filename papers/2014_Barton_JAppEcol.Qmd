@@ -1,6 +1,7 @@
 ---
 author: PS Barton, <b>MJ Westgate</b>, PW Lane, C MacGregor & DB Lindenmayer
 title: "Robustness of habitat-based surrogates of animal diversity: a multi-taxa comparison over time"
+subtitle: Journal of Applied Ecology
 date: 2014-05-22
 volume: 51(5)
 pages: 1434-1443
@@ -11,8 +12,6 @@ categories:
   - topic-surrogates-and-indicators
   - method-empirical
 ---
-
-**Journal of Applied Ecology**
 
 ### Abstract
 <ol>

@@ -1,6 +1,7 @@
 ---
 author: <b>MJ Westgate</b>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall & DB Lindenmayer
 title: "Software support for environmental evidence synthesis"
+subtitle: Nature Ecology & Evolution
 date: 2018-03-23
 volume: 2
 pages: 588-590
@@ -10,8 +11,6 @@ categories:
   - topic-metascience
   - method-conceptual
 ---
-
-**Nature Ecology & Evolution**
 
 ### Summary
 Evidence-based environmental management is being hindered by difficulties in locating, interpreting and synthesizing relevant information among vast scientific outputs. But software developments that allow enhanced collation and sharing of data will help.

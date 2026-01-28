@@ -1,6 +1,7 @@
 ---
 author: <b>MJ Westgate</b>, M Crane, D Florance & DB Lindenmayer
 title: "Synergistic impacts of aggressive species on small birds in a fragmented landscape"
+subtitle: Journal of Applied Ecology
 date: 2021-01-18
 doi: 10.1111/1365-2664.13838
 volume: 12
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Journal of Applied Ecology**
 
 ### Abstract
 <ol>

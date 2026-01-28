@@ -1,0 +1,10 @@
+<div class="list">
+<% for (const item of items) { %>
+<div <%= metadataAttrs(item) %>>
+  <p>
+    <%= item.author %> (<%- item.date %>) 
+    <a href="<%- item.path %>"><%- item.title %></a> <em><%- item.subtitle %></em>.
+  </p>
+</div>
+<% } %>
+</div>

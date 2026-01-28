@@ -1,6 +1,7 @@
 ---
 author: CF Sato, <b>MJ Westgate</b>, <em>et al.</em>
 title: "The use and utility of surrogates in biodiversity monitoring programs"
+subtitle: Journal of Applied Ecology
 date: 2019-02-16
 volume: 56
 issue: 6
@@ -14,5 +15,3 @@ categories:
 ---
 
 CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer
-
-**Journal of Applied Ecology**

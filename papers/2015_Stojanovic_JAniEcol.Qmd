@@ -1,6 +1,7 @@
 ---
 author: D Stojanovic, A Terauds, <b>MJ Westgate</b>, MH Webb & R Heinsohn
 title: "Exploiting the richest patch has a fitness pay-off for the migratory swift parrot"
+subtitle: Journal of Animal Ecology
 date: 2015-05-14
 volume: 84
 issue: 5
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Journal of Animal Ecology**
 
 ### Abstract
 <ol>

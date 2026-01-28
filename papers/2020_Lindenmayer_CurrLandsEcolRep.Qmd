@@ -1,6 +1,7 @@
 ---
 author: DB Lindenmayer & <b>MJ Westgate</b>
 title: "Are Flagship, Umbrella and Keystone Species Useful Surrogates to Understand the Consequences of Landscape Change?"
+subtitle: Current Landscape Ecology Reports
 date: 2020-05-09
 volume: 5
 pages: 76-84
@@ -11,8 +12,6 @@ categories:
   - topic-surrogates-and-indicators
   - method-review
 ---
-
-**Current Landscape Ecology Reports**
 
 ### Abstract
 

@@ -1,6 +1,7 @@
 ---
 author: DB Lindenmayer, CN Foster, <b>MJ Westgate</b>, BC Scheele & W Blanchard
 title: "Managing interacting disturbances: lessons from a case study in Australian forests"
+subtitle: Journal of Applied Ecology
 date: 2020-06-07
 volume: 57
 issue: 9
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Journal of Applied Ecology**
 
 ### Abstract
 <ol>

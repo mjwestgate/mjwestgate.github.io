@@ -1,6 +1,7 @@
 ---
 author: <b>MJ Westgate</b>, C MacGregor, BC Scheele, DA Driscoll & DB Lindenmayer
 title: "Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients"
+subtitle: Diversity & Distributions
 date: 2017-10-04
 volume: 24
 issue: 1
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Diversity & Distributions**
 
 ### Abstract
 

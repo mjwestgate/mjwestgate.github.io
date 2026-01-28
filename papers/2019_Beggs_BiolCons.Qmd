@@ -1,6 +1,7 @@
 ---
 author: R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b>, W Blanchard & DB Lindenmayer
 title: "An experimental test of a compensatory nest predation model following lethal control of an overabundant native species"
+subtitle: Biological Conservation
 date: 2019-01-22
 volume: 231
 pages: 122-132
@@ -10,8 +11,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Biological Conservation**
 
 ### Abstract
 Culling of overabundant and invasive species to manage their ecological impacts on target species is widely practised but outcomes are unpredictable and monitoring of effectiveness often poor. Culling must improve ecosystem function, so clear, measurable goals, such as improved breeding potential of target species, are necessary. Many overabundant and invasive species are also nest predators and nest predation is the principal cause of breeding failure of many birds of conservation concern. It is important for managers to know the likely effects on nest predation when culling one species among a suite of nest predatory species.

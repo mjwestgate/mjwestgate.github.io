@@ -1,6 +1,7 @@
 ---
 author: A Mortelliti, <b>MJ Westgate</b>, J Stein, J Wood & DB Lindenmayer
 title: "Ecological and spatial drivers of population synchrony in bird assemblages"
+subtitle: Basic and Applied Ecology
 date: 2015-02-03
 volume: 16
 issue: 3
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Basic and Applied Ecology**
 
 ### Abstract
 Spatial population synchrony is defined as the coincidental changes of population density or other demographic parameters over time. Synchrony between local populations is believed to be widespread in nature because it has been found across a range of ecological guilds and across large spatial scales. However, a detailed understanding is still lacking of the extent of synchronous patterns in population parameters across animal communities, and of the relative importance of the several potential causes of population synchrony.

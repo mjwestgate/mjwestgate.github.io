@@ -1,6 +1,7 @@
 ---
 author: DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance
 title: "Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation?"
+subtitle: Diversity & Distributions
 date: 2018-12-11
 volume: 25
 issue: 3
@@ -12,8 +13,6 @@ categories:
 ---
 
 DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael & D Florance
-
-**Diversity & Distributions**
 
 ### Abstract
 <h4>Aim</h4>

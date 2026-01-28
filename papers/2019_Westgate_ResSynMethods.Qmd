@@ -1,6 +1,7 @@
 ---
 author: <b>MJ Westgate</b>
 title: "revtools: An R package to support article screening for evidence synthesis"
+subtitle: Research Synthesis Methods
 date: 2019-07-29
 volume: 10(4)
 pages: 606-614
@@ -10,8 +11,6 @@ categories:
   - topic-metascience
   - method-code
 ---
-
-**Research Synthesis Methods**
 
 ### Abstract
 The field of evidence synthesis is growing rapidly, with a corresponding increase in the number of software tools and workflows to support the construction of systematic reviews, systematic maps, and meta-analyses. Despite much progress, however, a number of problems remain including slow integration of new statistical or methodological approaches into user-friendly software, low prevalence of open-source software, and poor integration among distinct software tools. These issues hinder the utility and transparency of new methods to the research community. Here I present revtools, an R package to support article screening during evidence synthesis projects. It provides tools for the import and de-duplication of bibliographic data, screening of articles by title or abstract, and visualization of article content using topic models. The software is entirely open-source and combines command-line scripting for experienced programmers with custom-built user interfaces for casual users, with further methods to support article screening to be added over time. revtools provides free access to novel methods in an open-source environment, and represents a valuable step in expanding the capacity of R to support evidence synthesis projects.

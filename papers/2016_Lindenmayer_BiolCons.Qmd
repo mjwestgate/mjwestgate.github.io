@@ -1,6 +1,7 @@
 ---
 author: DB Lindenmayer, C MacGregor, J Wood, <b>MJ Westgate</b>, K Ikin, C Foster, F Ford & R Zentelis
 title: "Bombs, fire and biodiversity: Vertebrate fauna occurrence in areas subject to military training."
+subtitle: Biological Conservation
 date: 2016-11-06
 volume: 204
 issue: B
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Biological Conservation**
 
 ### Abstract
 Military training areas (MTAs) cover 6% of the earth's land surface, but the impact on biodiversity of weapons use in MTAs remains largely unknown. We quantified the effects of military training on vertebrates in a 5-year study at Beecroft Weapons Range in south-eastern Australia by contrasting the occurrence of birds, mammals and reptiles between 24 sites within an area subject to repeated weapons use and a matched set of non-impacted sites.

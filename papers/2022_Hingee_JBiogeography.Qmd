@@ -1,6 +1,7 @@
 ---
 author: KL Hingee, <b>MJ Westgate</b> & DB Lindenmayer
 title: "Long-term monitoring in endangered woodlands shows effects of multi-scale drivers on bird occupancy"
+subtitle: Journal of Biogeography
 date: 2022-03-31
 doi: 10.1111/jbi.14353
 categories: 
@@ -8,8 +9,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Journal of Biogeography**
 
 ### Abstract
 

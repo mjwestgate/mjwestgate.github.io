@@ -1,6 +1,7 @@
 ---
-title: "Two roles for ecological surrogacy: Indicator surrogates and management surrogates"
 author: M Hunter Jr. <em>et al.</em>
+title: "Two roles for ecological surrogacy: Indicator surrogates and management surrogates"
+subtitle: Ecological Indicators
 date: 2015-12-23
 volume: 63
 pages: 121-125
@@ -13,8 +14,6 @@ categories:
 ---
 
 M Hunter Jr., <b>M Westgate</b>, P Barton, A Calhoun, J Pierson, A Tulloch, M Beger, C Branquino, T Caro, J Gross, J Heino, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo & D Lindenmayer
-
-**Ecological Indicators**
 
 ### Abstract
 Ecological surrogacy - here defined as using a process or element (e.g., species, ecosystem, or abiotic factor) to represent another aspect of an ecological system - is a widely used concept, but many applications of the surrogate concept have been controversial. We argue that some of this controversy reflects differences among users with different goals, a distinction that can be crystalized by recognizing two basic types of surrogate. First, many ecologists and natural resource managers measure "indicator surrogates" to provide information about ecological systems. Second, and often overlooked, are "management surrogates" (e.g., umbrella species) that are primarily used to facilitate achieving management goals, especially broad goals such as "maintain biodiversity" or "increase ecosystem resilience." We propose that distinguishing these two overarching roles for surrogacy may facilitate better communication about project goals. This is critical when evaluating the usefulness of different surrogates, especially where a potential surrogate might be useful in one role but not another. Our classification for ecological surrogacy applies to species, ecosystems, ecological processes, abiotic factors, and genetics, and thus can provide coherence across a broad range of uses.

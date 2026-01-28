@@ -1,6 +1,7 @@
 ---
 author: S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O'Dea, DWA Noble & M Lagisz
 title: "Research Weaving: Visualizing the future of research synthesis"
+subtitle: Trends in Ecology & Evolution
 date: 2018-12-20
 volume: 34
 issue: 3
@@ -11,8 +12,6 @@ categories:
   - topic-metascience
   - method-conceptual
 ---
-
-**Trends in Ecology & Evolution**
 
 ### Abstract
 We propose a new framework for research synthesis of both evidence and influence, named research weaving. It summarizes and visualizes information content, history, and networks among a collection of documents on any given topic. Research weaving achieves this feat by combining the power of two methods: systematic mapping and bibliometrics. Systematic mapping provides a snapshot of the current state of knowledge, identifying areas needing more research attention and those ready for full synthesis. Bibliometrics enables researchers to see how pieces of evidence are connected, revealing the structure and development of a field. We explain how researchers can use some or all of these tools to gain a deeper, more nuanced understanding of the scientific literature.

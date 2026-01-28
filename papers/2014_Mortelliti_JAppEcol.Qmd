@@ -1,6 +1,7 @@
 ---
 author: A Mortelliti, <b>MJ Westgate</b> & DB Lindenmayer
 title: "Experimental evaluation shows limited influence of pine plantations on the connectivity of highly fragmented bird populations"
+subtitle: Journal of Applied Ecology
 date: 2014-07-03
 volume: 51
 issue: 5
@@ -11,8 +12,6 @@ categories:
   - topic-landscape-ecology
   - method-empirical
 ---
-
-**Journal of Applied Ecology**
 
 ### Abstract
 <ol>

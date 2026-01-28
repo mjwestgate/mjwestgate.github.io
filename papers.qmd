@@ -3,7 +3,7 @@ title: "Papers"
 listing: 
   type: table
   contents: papers
+  template: papers.ejs
   sort: "date desc"
   categories: true
-  fields: [author, date, title]
 ---
