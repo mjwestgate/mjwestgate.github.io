@@ -1,1 +1,10 @@
 /* css styles */
+
+.hex {
+    width: 200px
+}
+
+.smallhex {
+    width: 100px;
+    margin-right: 25px;
+}
