@@ -5,6 +5,8 @@ website:
   title: "Martin Westgate"
   navbar:
     right:
+      - text: Blog
+        href: posts.qmd
       - text: Outputs
         menu:
         - text: Papers
