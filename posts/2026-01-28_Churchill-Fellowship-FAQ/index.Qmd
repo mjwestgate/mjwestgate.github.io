@@ -8,105 +8,102 @@ categories:
   - Churchill-Fellowship
 ---
 
-Hello there! Welcome. I'm Martin and this is my first post. 
+Hello there! Welcome. I'm Martin and this is my first post.
 
 I'll be using this blog for a few things, but at first, it'll be a place where I record information related to my Churchill Fellowship. I've structured this first post as an FAQ.
 
-
 ### Who are you?
 
-I run the Science and Decision Support Team at the [Atlas of Living Australia](https://www.ala.org.au), which is hosted by the national science agency ([CSIRO](https://www.csiro.au)). The ALA is the Australian node of the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). My team and I are mostly known for our work in open source software, which you can explore at [ALA labs](https://labs.ala.org.au). 
+I run the Science and Decision Support Team at the [Atlas of Living Australia](https://www.ala.org.au), which is hosted by the national science agency ([CSIRO](https://www.csiro.au)). The ALA is the Australian node of the Global Biodiversity Information Facility ([GBIF](https://www.gbif.org)). My team and I are mostly known for our work in open source software, which you can explore at [ALA labs](https://labs.ala.org.au).
 
 Prior to joining the ALA, I was a researcher in landscape ecology and conservation biology, as part of Professor David Lindenmayer's lab at the Australian National University.
 
-![The ALA Science & Decision Support Team, photographed in 2025. Left to right: Martin Westgate, Shandiya Balasubramaniam, Juliet Seers & Dax Kellie. Amanda Buyan not pictured.](science_team_melbs_2025.jpeg){width=80%}
-
-
+![The ALA Science & Decision Support Team, photographed in 2025. Left to right: Martin Westgate, Shandiya Balasubramaniam, Juliet Seers & Dax Kellie. Amanda Buyan not pictured.](science_team_melbs_2025.jpeg){width="80%"}
 
 ### What is a Churchill Fellowship?
 
 The [Churchill Trust](https://www.churchilltrust.com.au) is a not-for-profit charitable trust that allocates approximately 100 fellowships each year. It is paid for from the returns of the [largest door-knocking campaign in Australian history](https://www.churchilltrust.com.au/about/), which was held to raise funds in memory of Winston Churchill.
 
-In terms of what a Churchill Fellow _does_, their [website](https://www.churchilltrust.com.au/become-a-fellow/) states:
+In terms of what a Churchill Fellow *does*, their [website](https://www.churchilltrust.com.au/become-a-fellow/) states:
 
-  >A Churchill Fellowship offers Australian citizens and permanent residents a life-changing opportunity to travel overseas.
-  >
-  > You don’t need an academic qualification to apply, in fact you don’t need to have completed school. You can do a Churchill Fellowship on any topic, provided there is a benefit to Australia and your community by you sharing your knowledge or skills.
+> A Churchill Fellowship offers Australian citizens and permanent residents a life-changing opportunity to travel overseas.
+>
+> You don’t need an academic qualification to apply, in fact you don’t need to have completed school. You can do a Churchill Fellowship on any topic, provided there is a benefit to Australia and your community by you sharing your knowledge or skills.
 
-A Churchill Fellow travels for a short period of time (up to 8 weeks) to learn from International experts in their chosen field, with the goal of returning that information to Australia for the national benefit. 
+A Churchill Fellow travels for a short period of time (up to 8 weeks) to learn from International experts in their chosen field, with the goal of returning that information to Australia for the national benefit.
 
+<!-- Dax: This might be personal preference but I find big quotes can take my attention away from the story because the narrative style changes (and big quotes can be boring). I think you can stick the quote in a footnote and just describe it in the style you do just afterwards. It's more fun to read and will shorten the section. -->
 
 ### What problem are you trying to solve?
 
 The ALA aggregates millions of 'occurrences', which are observations of plants or animals taken at a particular place and time. These occurrences are provided by hundreds of different institutions, representing thousands of individual observers. Our job is to store and share these observations with the public.
 
-Every year, we run a survey to ask our users how satisfied they are with the ALA. The biggest problem raised by those users is that our data 'quality' is inadequate for their needs. While most records from most providers are accurate, there is always a certain proportion of biodiversity observations that are wrong in some way. Unfortunately, as the number of observations increases, even a small error rate translates to many, many incorrect records.
+Every year, we run a survey to ask our users how satisfied they are with the ALA. And every year, the biggest problem users raise is that our data 'quality' is inadequate for their needs<!-- Dax: If you are gonna add quotes to 'quality', you need to give some kind of definition of what you mean. You do this in a later section quite nicely, but there also needs to be something here so the reader understands why the word is in quotes. I tried something, you can change it as you want -->, meaning users find enough records with errors that they find it difficult to trust the data (we'll come back to this idea of 'trust' later on). While most records from most providers are accurate, there is always a certain proportion of biodiversity observations that are wrong in some way. Unfortunately, as the number of observations increases, even a small error rate translates to many, many incorrect records.
 
-My project is ["To investigate global-scale solutions in biodiversity informatics"](https://www.churchilltrust.com.au/project/to-investigate-global-scale-solutions-in-biodiversity-informatics/), which basically means to find ways to flag potentially erroneous occurrence records.
-
+My project is ["To investigate global-scale solutions in biodiversity informatics"](https://www.churchilltrust.com.au/project/to-investigate-global-scale-solutions-in-biodiversity-informatics/), which basically means to find ways to flag potentially erroneous occurrence records. <!-- I feel like this needs some kind of confidence statement from you like: "I think that data infrastructures are quite bad at this, but getting better at it will make a big difference for detecting problematic occurrences."-->
 
 ### Aren't there already tools to detect problematic occurrences?
 
 Yes. Currently, the data quality system at ALA and GBIF involves flagging records with known problems, and allowing the user to make up their own mind as to which problems are in conflict with their needs. This approach has several advantages:
 
-  - It is **reproducible**: rulesets are easy to define, and behave the same way each time.
-  - It **empowers** users: individuals can make their own choices about what 'quality' means to them.
-  - It **scales** well: codebases are easy to build, test and maintain.
+-   It is **reproducible**: rulesets are easy to define, and behave the same way each time.
+-   It **empowers** users: individuals can make their own choices about what 'quality' means to them.
+-   It **scales** well: codebases are easy to build, test and maintain.
 
-This method also has drawbacks, however. It requires users to understand quite deeply what those checks are and how they work before making a decision. That requires a lot of documentation, which is cumbersome both for maintainers and users. The main problem, though, is that this approach is entirely deterministic; there is no estimate of likelihood or uncertainty.
-
+This method also has drawbacks, however. It requires users to understand quite deeply what those checks are and how they work before making a decision. That requires a lot of documentation, which is cumbersome both for maintainers and users. The main problem, though, is that this approach is entirely deterministic; <!-- Dax: just adding a little more context here about what this means more simply. Not sure if this is perfect, but I think there needs to be a little clarity about why the approach is deterministic, and how records might 'suit' a likelihood or uncertainty estimate instead. This helps the logic flow a little more clearly into the next section --> data points are inevitably boiled down to whether they are 'quality' or not. However, determining whether a data point is of good quality is rarely black and white. Each record has strengths and weaknesses depending on its context of collection (e.g., the expertise of the collector, the robustness of the method, the clarity of an image, existing biological and ecological knowledge of a given organism). A data point's quality might therefore suit an estimate of likelihood or uncertainty better, but estimates like these are currently absent in within ecology...
 
 ### Why have you chosen to explore statistical modelling?
 
-When we talk about data 'quality', we are implicitly making a statement about how trustworthy we think a piece of data is. Such decisions are not binary, but subtle and gradated. Statistical modelling treats this as a probabalistic problem, which is a natural fit for our intuitive perception of what quality _means_.  Statistical approaches to data quality have practical benefits as well:
+When we talk about data 'quality', we are implicitly making a statement about how trustworthy we think a piece of data is. Such decisions are not binary, but subtle and gradated. Statistical modelling treats this as a probabalistic problem, which is a natural fit for our intuitive perception of what quality *means*. Statistical approaches to data quality have practical benefits as well:
 
- - The underlying principles of building models on large datasets are well understood, and once parameterised, can be repeated with limited oversight.
- - Models can be added to existing data-processsing workflows without large additions, unlike user-driven approaches which require substantial re-design and re-engineering of existing platforms.
- - Recent improvements in Artificial Intelligence (AI) and Machine Learning (ML) have brought new methods that can be applied to traditional problems, but are not yet being used for this problem (to my knowledge).
- 
-Just because statistical models have these properties, though, does not mean that any such project is inherently worthwhile, or that we should  start work without any consideration of the strengths and weaknesses of our approach. Hence this fellowship.
+-   The underlying principles of building models on large datasets are well understood, and once parameterised, can be repeated with limited oversight.
+-   Models can be added to existing data-processsing workflows without large additions, unlike user-driven approaches which require substantial re-design and re-engineering of existing platforms.
+-   Recent improvements in Artificial Intelligence (AI) and Machine Learning (ML) have brought new methods that can be applied to traditional problems, but are not yet being used for this problem (to my knowledge).
 
+Just because statistical models have these properties, though, does not mean that any such project is inherently worthwhile, or that we should start work without any consideration of the strengths and weaknesses of our approach. Hence this fellowship.
+
+<!-- Dax: I feel like what is perhaps missing from this section (and also the one above) is a statement about what being better at knowing how trustworthy our data are is worthwhile. I imagine it means we can be better at assessing when we really *know* something vs when we kinda know something, which can be difficult when sifting through lots and lots of data points. Maybe you have other ideas of why this is valuable? Here is where I think you should tell me you idealised vision of why this matters -->
 
 ### What will you do during your Fellowship?
 
 My primary interest is in discussing these ideas with as diverse a group of potential collaborators as possible. Rather than recreate existing research or tooling, it would be ideal to learn and collaborate on what an optimal solution might look like. Further, once a potential solution or set of solutions is identified, it would be inefficient to pursue those alone rather than with the support of that community. I will meet with interested parties at my host institutions, as well as in universities, museums and government in those host cities. I will be visiting the following institutions:
 
-- [GBIF Norway](https://www.gbif.no), Oslo, Norway
-- [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se), Stockholm, Sweden
-- [Global Biodiversity Information Facility](https://www.gbif.org), Copenhagen, Denmark
-- [Plantentuin Meise](https://www.plantentuinmeise.be), Flanders, Belgium
-- [National Biodiversity Network](https://nbnatlas.org), London, UK
+-   [GBIF Norway](https://www.gbif.no), Oslo, Norway
+-   [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se), Stockholm, Sweden
+-   [Global Biodiversity Information Facility](https://www.gbif.org), Copenhagen, Denmark
+-   [Plantentuin Meise](https://www.plantentuinmeise.be), Flanders, Belgium
+-   [National Biodiversity Network](https://nbnatlas.org), London, UK
 
-![Sunset over Stockholm, 2018](stockholm_sunset_2018.jpeg){width=80%}
+![Sunset over Stockholm, 2018](stockholm_sunset_2018.jpeg){width="80%"}
 
-
-### What are your questions?
+### What questions are you trying to answer?
 
 I will be visiting groups with very different backgrounds, skillsets and insights, so I'm reluctant to be too restrictive. The nature of the discussion will almost certainly vary from place to place, and as I learn more about the topic. In broad terms, though, the following questions are interesting to me:
 
- - **How much of a problem is data quality?** 
-    - Is it affecting you, your users or stakeholders, and to what extent? Are current methods nearly or completely adequate? Perhaps existing methods are 'good enough', in that they don't greatly affect decisions made from the underlying data, or are there areas of systemic bias?
- - **What is the status of recent work on this topic?**
-   - What activities, bodies of work, or intellectual or computational tools already exist that might help us? How much effort has already been spent on this problem, and would further activities be beneficial or redundant?
- - **What should a statistical method do to provide value?**
-   - i.e. should it identify all kinds of errors, or just those that are currently difficult to spot? Should it focus on rare or common or threatened taxa? Should it account for misidentified observations? What methods have you found promising in the past?
- - **How might we integrate insights from different disciplines and approaches?**
-   - A range of different classes of models have potential relevance, from species distribution models, to phylogenetic models, to machine learning models. What are their respective strengths and weaknesses? Can we integrate different types of learnings in a single model?
- - **What is the opportunity cost of alternate solutions?**
-   - How should this information be made accessible to users? Would it be more beneficial to work with data providers to clean data rather than productionize new models? Or are there cumulative benefits from doing both?
- - **Who else should I speak to?**
-   - What skills and interests are there in your region or networks that could be brought to bear on solving these problems?
+-   **How much of a problem is data quality?**
+    -   Is it affecting you, your users or stakeholders, and to what extent? Are current methods nearly or completely adequate? Perhaps existing methods are 'good enough', in that they don't greatly affect decisions made from the underlying data, or are there areas of systemic bias?
+-   **What is the status of recent work on this topic?**
+    -   What activities, bodies of work, or intellectual or computational tools already exist that might help us? How much effort has already been spent on this problem, and would further activities be beneficial or redundant?
+-   **What should a statistical method do to provide value?**
+    -   i.e. should it identify all kinds of errors, or just those that are currently difficult to spot? Should it focus on rare or common or threatened taxa? Should it account for misidentified observations? What methods have you found promising in the past?
+-   **How might we integrate insights from different disciplines and approaches?**
+    -   A range of different classes of models have potential relevance, from species distribution models, to phylogenetic models, to machine learning models. What are their respective strengths and weaknesses? Can we integrate different types of learnings in a single model?
+-   **What is the opportunity cost of alternate solutions?**
+    -   How should this information be made accessible to users? Would it be more beneficial to work with data providers to clean data rather than productionize new models? Or are there cumulative benefits from doing both?
+-   **Who else should I speak to?**
+    -   What skills and interests are there in your region or networks that could be brought to bear on solving these problems?
 
-### What outcomes are you hoping for?
+### What other outcomes are you hoping for?
+
+<!-- Dax: I added 'other' outcomes to the title because these outcomes below all feel like social/collaboration opportunities, rather than outcomes directly related to solving the 'detecting problematic occurrences' issue you mentioned above. Again, I think there needs to be some place where you sell your dream benefits of what better problem detection will do for the world of ecology -->
 
 First, I'd like to expand and contribute to the network of researchers and professionals already working to improve access to biodiversity information around the world. This network - consisting of both formal and informal collaborations - is already doing great things, and I'm keen to play my part.
 
-Second, I'm hoping we can workshop the opportunities and challenges of this approach, and work to indentify common problems and solutions.
+Second, I'm hoping we can workshop the opportunities and challenges of this approach, and work to identify common problems and solutions.
 
 Third, I would like to capture the results of these consultations to ensure benefits are maximised. I'm interested in capturing the results in a scientific paper of some kind, in addition to the report I will produce for the Churchill Trust.
 
-Finally, I'd like to identify people who are interested to continue the journey after the fellowship is complete. Building and optimizing tools of this kind is careful work, and benefits will take time to realise. 
-
+Finally, I'd like to identify people who are interested to continue the journey after the fellowship is complete. Building and optimizing tools of this kind is careful work, and benefits will take time to realise.
 
 ### You're not visiting my institution / city / country - can I still contribute?
 
