@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Papers – Martin Westgate</title>
+<title>Papers – MW</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bdb51831f1e52aa75bd12c65dd591e3c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bdddb08377737889badc0b34869fa005.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,10 +80,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-author','listing-title','listing-subtitle','listing-date','listing-volume','listing-issue','listing-pages','listing-doi','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-year','listing-volumn',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-freeze','listing-author','listing-title','listing-subtitle','listing-date','listing-volume','listing-issue','listing-pages','listing-doi','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-year','listing-volumn',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       page: 25,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-author","listing-title","listing-subtitle","listing-date","listing-volume","listing-issue","listing-pages","listing-doi","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-year","listing-volumn"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-freeze","listing-author","listing-title","listing-subtitle","listing-date","listing-volume","listing-issue","listing-pages","listing-doi","listing-categories","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-year","listing-volumn"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -114,7 +115,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -141,7 +142,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Martin Westgate</span>
+    <span class="navbar-title">MW</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -151,28 +152,17 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
-<span class="menu-text">Blog</span></a>
+    <a class="nav-link active" href="./papers.html" aria-current="page"> 
+<span class="menu-text">Papers</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outputs" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outputs</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-outputs">    
-        <li>
-    <a class="dropdown-item" href="./papers.html">
- <span class="dropdown-text">Papers</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./packages.html"> 
+<span class="menu-text">Packages</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./packages.html">
- <span class="dropdown-text">Packages</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://martinwestgate.com/dataquality"> 
+<span class="menu-text">Data Quality</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./presentations.html">
- <span class="dropdown-text">Presentations</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -225,12 +215,12 @@ M Lagisz, <b>MJ Westgate</b>, D Kellie &amp; S Nakagawa (Aug 30, 2024) <a href="
 M Littlefair, BC Scheele, <b>MJ Westgate</b> &amp; DB Lindenmayer (May 13, 2024) <a href="./papers/2024_Littlefair_PLOS_ONE.html">The ecological and biodiversity conservation values of farm dams: A systematic review</a> <em>PLOS ONE</em>.
 </p>
 </div>
-<div data-index="2" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1648648800000" data-listing-file-modified-sort="1769576969205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="263">
+<div data-index="2" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1648645200000" data-listing-file-modified-sort="1769576969205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="263">
 <p>
 KL Hingee, <b>MJ Westgate</b> &amp; DB Lindenmayer (Mar 31, 2022) <a href="./papers/2022_Hingee_JBiogeography.html">Long-term monitoring in endangered woodlands shows effects of multi-scale drivers on bird occupancy</a> <em>Journal of Biogeography</em>.
 </p>
 </div>
-<div data-index="3" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1647352800000" data-listing-file-modified-sort="1769576954119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<div data-index="3" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1647349200000" data-listing-file-modified-sort="1769576954119" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <p>
 <b>MJ Westgate</b>, C Crane, D Smith, C O’Malley, A Siegrist, D Florance, E Lang, M Crane, K Hingee, BC Scheele &amp; DB Lindenmayer (Mar 16, 2022) <a href="./papers/2022_Westgate_EcolEvol.html">Improved management of farm dams increases vegetation cover, water quality, and macroinvertebrate biodiversity</a> <em>Ecology and Evolution</em>.
 </p>
@@ -240,12 +230,12 @@ KL Hingee, <b>MJ Westgate</b> &amp; DB Lindenmayer (Mar 31, 2022) <a href="./pap
 MJ Evans, PS Barton, <b>MJ Westgate</b>, M Soga, G Fujita &amp; T Miyashita (Aug 24, 2021) <a href="./papers/2021_Evans_Ecosphere.html">Ecological processes associated with different animal taxa in urban environments</a> <em>Ecosphere</em>.
 </p>
 </div>
-<div data-index="5" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1610892000000" data-listing-file-modified-sort="1769577073605" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+<div data-index="5" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1610888400000" data-listing-file-modified-sort="1769577073605" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
 <p>
 <b>MJ Westgate</b>, M Crane, D Florance &amp; DB Lindenmayer (Jan 18, 2021) <a href="./papers/2021_Westgate_JAppEcol.html">Synergistic impacts of aggressive species on small birds in a fragmented landscape</a> <em>Journal of Applied Ecology</em>.
 </p>
 </div>
-<div data-index="6" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1605708000000" data-listing-file-modified-sort="1769577301553" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+<div data-index="6" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1605704400000" data-listing-file-modified-sort="1769577301553" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
 <p>
 NR Haddaway &amp; <b>MJ Westgate</b> (Nov 19, 2020) <a href="./papers/2020_Haddaway_EnvEvidence.html">Creating and curating a community of practice: introducing the evidence synthesis Hackathon and a special series in evidence synthesis technology</a> <em>Environmental Evidence</em>.
 </p>
@@ -280,22 +270,22 @@ DB Lindenmayer, P Lane, <b>MJ Westgate</b>, BC Scheele, M Crane, D Florance, C C
 DB Lindenmayer &amp; <b>MJ Westgate</b> (May 9, 2020) <a href="./papers/2020_Lindenmayer_CurrLandsEcolRep.html">Are Flagship, Umbrella and Keystone Species Useful Surrogates to Understand the Consequences of Landscape Change?</a> <em>Current Landscape Ecology Reports</em>.
 </p>
 </div>
-<div data-index="13" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWwlMkN3b3Jrc2hvcC1wYXBlcg==" data-listing-date-sort="1584885600000" data-listing-file-modified-sort="1769577963354" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<div data-index="13" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWwlMkN3b3Jrc2hvcC1wYXBlcg==" data-listing-date-sort="1584882000000" data-listing-file-modified-sort="1769577963354" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
 <p>
 S Nakagawa <em>et al.</em> (Mar 23, 2020) <a href="./papers/2020_Nakagawa_NEE.html">A new ecosystem for evidence synthesis</a> <em>Nature Ecology &amp; Evolution</em>.
 </p>
 </div>
-<div data-index="14" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWJpb2RpdmVyc2l0eS1pbmZvcm1hdGljcyUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1578405600000" data-listing-file-modified-sort="1769577290746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="339">
+<div data-index="14" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWJpb2RpdmVyc2l0eS1pbmZvcm1hdGljcyUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1578402000000" data-listing-file-modified-sort="1769577290746" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="339">
 <p>
 A Jeliazkov et al.&nbsp;(Jan 8, 2020) <a href="./papers/2020_Jeliazkov_SciData.html">A global database for metacommunity ecology, integrating species, traits, environment and space</a> <em>Scientific Data</em>.
 </p>
 </div>
-<div data-index="15" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1576677600000" data-listing-file-modified-sort="1769577241320" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
+<div data-index="15" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1576674000000" data-listing-file-modified-sort="1769577241320" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="292">
 <p>
 DB Lindenmayer, BC Scheele, <b>MJ Westgate</b>, W Blanchard, CN Foster, J Stein, M Crane &amp; D Florance (Dec 19, 2019) <a href="./papers/2020_Lindenmayer_BiolCons.html">Habitat amount versus connectivity: an empirical study of bird responses</a> <em>Biological Conservation</em>.
 </p>
 </div>
-<div data-index="16" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1571666400000" data-listing-file-modified-sort="1769577397355" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+<div data-index="16" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1571662800000" data-listing-file-modified-sort="1769577397355" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
 <p>
 DB Lindenmayer, <b>MJ Westgate</b>, BC Scheele, CN Foster &amp; DP Blair (Oct 22, 2019) <a href="./papers/2019_Lindenmayer_ForEcolMgmt.html">Key perspectives on early successional forests subject to stand-replacing disturbances</a> <em>Forest Ecology &amp; Management</em>.
 </p>
@@ -330,32 +320,32 @@ NR Haddaway, A Feierman, MJ Grainger, CT Gray, E Tanriver-Ayder, S Dhaubanjar &a
 DJ Belder, JC Pierson, K Ikin, W Blanchard, <b>MJ Westgate</b>, M Crane &amp; DB Lindenmayer (May 29, 2019) <a href="./papers/2019_Belder_BiolCons.html">Is bigger always better? Influence of patch attributes on breeding activity of birds in box-gum grassy woodland restoration plantings</a> <em>Biological Conservation</em>.
 </p>
 </div>
-<div data-index="23" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1551362400000" data-listing-file-modified-sort="1769577406840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="347">
+<div data-index="23" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1551358800000" data-listing-file-modified-sort="1769577406840" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="347">
 <p>
 DB Lindenmayer, W Blanchard, <b>MJ Westgate</b>, CN Foster, SC Banks, PS Barton, K Ikin &amp; BC Scheele (Mar 1, 2019) <a href="./papers/2019_Lindenmayer_EcolMono.html">Novel bird responses to successive large-scale landscape transformations</a> <em>Ecological Monographs</em>.
 </p>
 </div>
-<div data-index="24" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbCUyQ3dvcmtzaG9wLXBhcGVy" data-listing-date-sort="1550239200000" data-listing-file-modified-sort="1769577363317" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
+<div data-index="24" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbCUyQ3dvcmtzaG9wLXBhcGVy" data-listing-date-sort="1550235600000" data-listing-file-modified-sort="1769577363317" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
 <p>
 CF Sato, <b>MJ Westgate</b>, <em>et al.</em> (Feb 16, 2019) <a href="./papers/2019_Sato_JAppEcol.html">The use and utility of surrogates in biodiversity monitoring programs</a> <em>Journal of Applied Ecology</em>.
 </p>
 </div>
-<div data-index="25" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1548079200000" data-listing-file-modified-sort="1769577547566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
+<div data-index="25" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1548075600000" data-listing-file-modified-sort="1769577547566" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
 <p>
 R Beggs, JC Pierson, AIT Tulloch, <b>MJ Westgate</b>, W Blanchard &amp; DB Lindenmayer (Jan 22, 2019) <a href="./papers/2019_Beggs_BiolCons.html">An experimental test of a compensatory nest predation model following lethal control of an overabundant native species</a> <em>Biological Conservation</em>.
 </p>
 </div>
-<div data-index="26" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1545228000000" data-listing-file-modified-sort="1769577374133" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
+<div data-index="26" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLW1ldGFzY2llbmNlJTJDbWV0aG9kLWNvbmNlcHR1YWw=" data-listing-date-sort="1545224400000" data-listing-file-modified-sort="1769577374133" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
 <p>
 S Nakagawa, G Samarasinghe, NR Haddaway, <b>MJ Westgate</b>, RE O’Dea, DWA Noble &amp; M Lagisz (Dec 20, 2018) <a href="./papers/2019_Nakagawa_TREE.html">Research Weaving: Visualizing the future of research synthesis</a> <em>Trends in Ecology &amp; Evolution</em>.
 </p>
 </div>
-<div data-index="27" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1544450400000" data-listing-file-modified-sort="1769577493847" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
+<div data-index="27" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1544446800000" data-listing-file-modified-sort="1769577493847" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
 <p>
 DB Lindenmayer, P Lane, CN Foster, <b>MJ Westgate</b>, BC Scheele, CF Sato, K Ikin, M Crane, D Michael &amp; D Florance (Dec 11, 2018) <a href="./papers/2019_Lindenmayer_DivDist.html">Do migratory and resident birds differ in their responses to interacting effects of climate, weather and vegetation?</a> <em>Diversity &amp; Distributions</em>.
 </p>
 </div>
-<div data-index="28" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1542204000000" data-listing-file-modified-sort="1769577384344" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div data-index="28" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1542200400000" data-listing-file-modified-sort="1769577384344" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
 <p>
 DB Lindenmayer <em>et al.</em> (Nov 15, 2018) <a href="./papers/2019_Lindenmayer_GlobChangeBiol.html">Weather effects on birds of different size are mediated by long-term climate and vegetation type in endangered temperate woodlands</a> <em>Global Change Biology</em>.
 </p>
@@ -385,22 +375,22 @@ BS Scheele, S Legge, D Armstrong, P Copley, N Robinson, D Southwell, <b>MJ Westg
 DB Lindenmayer, P Lane, <b>MJ Westgate</b>, BC Scheele, C Foster, C Sato, M Crane, D Michael, D Florance, K Ikin, PS Barton, LS O’Loughlin, N Robinson (Apr 19, 2018) <a href="./papers/2018_Lindenmayer_BiolCons.html">Tests of predictions associated with temporal changes in Australian bird populations</a> <em>Biological Conservation</em>.
 </p>
 </div>
-<div data-index="34" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1tZXRhc2NpZW5jZSUyQ21ldGhvZC1jb25jZXB0dWFs" data-listing-date-sort="1521727200000" data-listing-file-modified-sort="1769577556480" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<div data-index="34" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1tZXRhc2NpZW5jZSUyQ21ldGhvZC1jb25jZXB0dWFs" data-listing-date-sort="1521723600000" data-listing-file-modified-sort="1769577556480" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
 <p>
 <b>MJ Westgate</b>, NR Haddaway, SH Cheng, EJ McIntosh, C Marshall &amp; DB Lindenmayer (Mar 23, 2018) <a href="./papers/2018_Westgate_NatEcolEvol.html">Software support for environmental evidence synthesis</a> <em>Nature Ecology &amp; Evolution</em>.
 </p>
 </div>
-<div data-index="35" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1507039200000" data-listing-file-modified-sort="1769577565451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
+<div data-index="35" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1507035600000" data-listing-file-modified-sort="1769577565451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
 <p>
 <b>MJ Westgate</b>, C MacGregor, BC Scheele, DA Driscoll &amp; DB Lindenmayer (Oct 4, 2017) <a href="./papers/2018_Westgate_DivDist.html">Effects of time since fire on frog occurrence are altered by isolation, vegetation, and fire frequency gradients</a> <em>Diversity &amp; Distributions</em>.
 </p>
 </div>
-<div data-index="36" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1tZXRhc2NpZW5jZSUyQ21ldGhvZC1jb25jZXB0dWFs" data-listing-date-sort="1483279200000" data-listing-file-modified-sort="1769577620501" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div data-index="36" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1tZXRhc2NpZW5jZSUyQ21ldGhvZC1jb25jZXB0dWFs" data-listing-date-sort="1483275600000" data-listing-file-modified-sort="1769577620501" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
 <p>
 <b>MJ Westgate</b> &amp; DB Lindenmayer (Jan 2, 2017) <a href="./papers/2017_Westgate_ConsBiol.html">The difficulties of systematic reviews</a> <em>Conservation Biology</em>.
 </p>
 </div>
-<div data-index="37" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1478354400000" data-listing-file-modified-sort="1769577651045" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
+<div data-index="37" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1478350800000" data-listing-file-modified-sort="1769577651045" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
 <p>
 DB Lindenmayer, C MacGregor, J Wood, <b>MJ Westgate</b>, K Ikin, C Foster, F Ford &amp; R Zentelis (Nov 6, 2016) <a href="./papers/2016_Lindenmayer_BiolCons.html">Bombs, fire and biodiversity: Vertebrate fauna occurrence in areas subject to military training.</a> <em>Biological Conservation</em>.
 </p>
@@ -410,22 +400,22 @@ DB Lindenmayer, C MacGregor, J Wood, <b>MJ Westgate</b>, K Ikin, C Foster, F For
 DB Lindenmayer, SG Candy, SC Banks, <b>MJ Westgate</b>, K Ikin, JC Pierson, AIT Tulloch &amp; PS Barton (May 3, 2016) <a href="./papers/2016_Lindenmayer_EcolApp.html">Do temporal changes in vegetation structure predict changes in bird occupancy additional to time since fire?</a> <em>Ecological Applications</em>.
 </p>
 </div>
-<div data-index="39" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1zdXJyb2dhdGVzLWFuZC1pbmRpY2F0b3JzJTJDbWV0aG9kLWVtcGlyaWNhbCUyQ21ldGhvZC1yZXZpZXc=" data-listing-date-sort="1457532000000" data-listing-file-modified-sort="1769577601987" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
+<div data-index="39" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1zdXJyb2dhdGVzLWFuZC1pbmRpY2F0b3JzJTJDbWV0aG9kLWVtcGlyaWNhbCUyQ21ldGhvZC1yZXZpZXc=" data-listing-date-sort="1457528400000" data-listing-file-modified-sort="1769577601987" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
 <p>
 <b>MJ Westgate</b>, AIT Tulloch, PS Barton, JC Pierson &amp; DB Lindenmayer (Mar 10, 2016) <a href="./papers/2017_Westgate_Ecography.html">Optimal taxonomic groups for biodiversity assessment: A meta-analytic approach</a> <em>Ecography</em>.
 </p>
 </div>
-<div data-index="40" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtZW1waXJpY2Fs" data-listing-date-sort="1452693600000" data-listing-file-modified-sort="1769577630123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="299">
+<div data-index="40" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtZW1waXJpY2Fs" data-listing-date-sort="1452690000000" data-listing-file-modified-sort="1769577630123" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="299">
 <p>
 AIT Tulloch, I Chadés, Y Dujardin, <b>MJ Westgate</b>, PW Lane &amp; DB Lindenmayer (Jan 14, 2016) <a href="./papers/2016_Tulloch_Ecography.html">Dynamic species co-occurrence networks require dynamic biodiversity surrogates</a> <em>Ecography</em>.
 </p>
 </div>
-<div data-index="41" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbCUyQ3dvcmtzaG9wLXBhcGVy" data-listing-date-sort="1450792800000" data-listing-file-modified-sort="1769577681211" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
+<div data-index="41" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbCUyQ3dvcmtzaG9wLXBhcGVy" data-listing-date-sort="1450789200000" data-listing-file-modified-sort="1769577681211" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
 <p>
 M Hunter Jr.&nbsp;<em>et al.</em> (Dec 23, 2015) <a href="./papers/2016_Hunter_EcolInd.html">Two roles for ecological surrogacy: Indicator surrogates and management surrogates</a> <em>Ecological Indicators</em>.
 </p>
 </div>
-<div data-index="42" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1447768800000" data-listing-file-modified-sort="1769577691530" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
+<div data-index="42" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1447765200000" data-listing-file-modified-sort="1769577691530" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
 <p>
 <b>MJ Westgate</b>, BC Scheele, K Ikin, AM Hoefer, RM Beaty, M Evans, W Osborne, L Rayner &amp; DA Driscoll (Nov 18, 2015) <a href="./papers/2015_Westgate_PLOS_ONE.html">Citizen science program shows urban areas have lower occurrence of frog species, but not accelerated declines</a> <em>PLOS ONE</em>.
 </p>
@@ -445,12 +435,12 @@ D Lindenmayer <em>et al.</em> (Aug 19, 2015) <a href="./papers/2015_Lindenmayer_
 D Stojanovic, A Terauds, <b>MJ Westgate</b>, MH Webb &amp; R Heinsohn (May 14, 2015) <a href="./papers/2015_Stojanovic_JAniEcol.html">Exploiting the richest patch has a fitness pay-off for the migratory swift parrot</a> <em>Journal of Animal Ecology</em>.
 </p>
 </div>
-<div data-index="46" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbA==" data-listing-date-sort="1424613600000" data-listing-file-modified-sort="1769577755508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+<div data-index="46" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLXN1cnJvZ2F0ZXMtYW5kLWluZGljYXRvcnMlMkNtZXRob2QtY29uY2VwdHVhbA==" data-listing-date-sort="1424610000000" data-listing-file-modified-sort="1769577755508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
 <p>
 PS Barton, JC Pierson, <b>MJ Westgate</b>, PW Lane &amp; DB Lindenmayer (Feb 23, 2015) <a href="./papers/2015_Barton_Oikos.html">Learning from clinical medicine to improve the use of surrogates in ecology</a> <em>Oikos</em>.
 </p>
 </div>
-<div data-index="47" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1422885600000" data-listing-file-modified-sort="1769577730584" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
+<div data-index="47" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDbWV0aG9kLWVtcGlyaWNhbA==" data-listing-date-sort="1422882000000" data-listing-file-modified-sort="1769577730584" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
 <p>
 A Mortelliti, <b>MJ Westgate</b>, J Stein, J Wood &amp; DB Lindenmayer (Feb 3, 2015) <a href="./papers/2015_Mortelliti_BasicAppEcol.html">Ecological and spatial drivers of population synchrony in bird assemblages</a> <em>Basic and Applied Ecology</em>.
 </p>
@@ -485,12 +475,12 @@ PS Barton, <b>MJ Westgate</b>, PW Lane, C MacGregor &amp; DB Lindenmayer (May 22
 D Driscoll <em>et al.</em> (Apr 17, 2014) <a href="./papers/2014_Driscoll_PLOS_ONE.html">The trajectory of dispersal research in conservation biology</a> <em>PLOS ONE</em>.
 </p>
 </div>
-<div data-index="54" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDdG9waWMtc3Vycm9nYXRlcy1hbmQtaW5kaWNhdG9ycyUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1393164000000" data-listing-file-modified-sort="1769577781912" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="291">
+<div data-index="54" data-categories="YXV0aG9yLWNvbnRyaWJ1dGluZyUyQ3RvcGljLWxhbmRzY2FwZS1lY29sb2d5JTJDdG9waWMtc3Vycm9nYXRlcy1hbmQtaW5kaWNhdG9ycyUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1393160400000" data-listing-file-modified-sort="1769577781912" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="291">
 <p>
 DB Lindenmayer, PS Barton, PW Lane, <b>MJ Westgate</b>, L McBurney, D Blair, P Gibbons &amp; GE Likens (Feb 24, 2014) <a href="./papers/2014_Lindenmayer_PLOS_ONE.html">An empirical assessment and comparison of species-based and habitat-based surrogates: a case study of forest vertebrates and large old trees</a> <em>PLOS ONE</em>.
 </p>
 </div>
-<div data-index="55" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1yZXZpZXc=" data-listing-date-sort="1385474400000" data-listing-file-modified-sort="1769577831183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="320">
+<div data-index="55" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1yZXZpZXc=" data-listing-date-sort="1385470800000" data-listing-file-modified-sort="1769577831183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="320">
 <p>
 <b>MJ Westgate</b>, GE Likens, &amp; DB Lindenmayer (Nov 27, 2013) <a href="./papers/2013_Westgate_BiolCons.html">Adaptive management of biological systems: A review</a> <em>Biological Conservation</em>.
 </p>
@@ -500,7 +490,7 @@ DB Lindenmayer, PS Barton, PW Lane, <b>MJ Westgate</b>, L McBurney, D Blair, P G
 <b>MJ Westgate</b>, DA Driscoll &amp; DB Lindenmayer (Jun 29, 2012) <a href="./papers/2012_Westgate_BiolCons.html">Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species</a> <em>Biological Conservation</em>.
 </p>
 </div>
-<div data-index="57" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1327240800000" data-listing-file-modified-sort="1769577838691" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
+<div data-index="57" data-categories="YXV0aG9yLWNvcnJlc3BvbmRpbmclMkN0b3BpYy1sYW5kc2NhcGUtZWNvbG9neSUyQ21ldGhvZC1lbXBpcmljYWw=" data-listing-date-sort="1327237200000" data-listing-file-modified-sort="1769577838691" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
 <p>
 <b>MJ Westgate</b>, DA Driscoll &amp; DB Lindenmayer (Jan 23, 2012) <a href="./papers/2012_Westgate_Oikos.html">Can the intermediate disturbance hypothesis and information on species traits predict anuran responses to fire?</a> <em>Oikos</em>.
 </p>
@@ -567,13 +557,14 @@ A Felton <em>et al.</em> (Jun 12, 2009) <a href="./papers/2009_Felton_BiodivCons
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
