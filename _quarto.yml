@@ -1,23 +1,22 @@
 project:
   type: website
-
 website:
-  title: "Martin Westgate"
+  title: "MW"
   navbar:
     right:
-      - text: Blog
-        href: posts.qmd
-      - text: Outputs
-        menu:
-        - text: Papers
-          href: papers.qmd
-        - text: Packages
-          href: packages.qmd
-        - text: Presentations
-          href: presentations.qmd
+      - text: Papers
+        href: papers.qmd
+      - text: Packages
+        href: packages.qmd
+      - text: Data Quality
+        href: https://martinwestgate.com/dataquality
 
 format:
   html:
-    theme: litera
+    theme: [litera, custom.scss]
     css: styles.css
+    monofont: Fira Code
+    highlight-style: arrow
+    code-overflow: scroll
+    linkcolor: "#2e6626"
     toc: true
