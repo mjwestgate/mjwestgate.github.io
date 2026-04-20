@@ -10,6 +10,9 @@ website:
         href: packages.qmd
       - text: Data Quality
         href: https://martinwestgate.com/dataquality
+      - icon: github
+        href: https://github.com/mjwestgate
+    search: true
 
 format:
   html:
