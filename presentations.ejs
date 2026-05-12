@@ -5,15 +5,17 @@
   <table>
     <tr>
       <td>
-        <a href="<%- item.path %>">
-          <img src="<%- item.image %>" alt="<%- item.description %>" class="smallhex"/>
+        <a href="<%- item.description %>" target="_blank">
+          <img src="<%- item.image %>" alt="<%- item.description %>" class="thumbnail-image"/>
         </a>
       </td>
       <td>
         <h5 class="listing-title"><%- item.title %></h5>
-        <span class="text-muted listing-subtitle"><%= item.subtitle %></span>
+        <span class="text-muted listing-subtitle">
+          <%= item.subtitle %>
+        </span>
         <p class="quarto-title-authors listing-author">
-          <%- item.author %>
+          <%- item.date %>
         </p>
       </td>
     </tr>

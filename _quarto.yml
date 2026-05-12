@@ -8,6 +8,8 @@ website:
         href: papers.qmd
       - text: Packages
         href: packages.qmd
+      - text: Presentations
+        href: presentations.qmd
       - text: Data Quality
         href: https://martinwestgate.com/dataquality
       - icon: github

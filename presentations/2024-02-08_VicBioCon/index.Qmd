@@ -2,5 +2,7 @@
 author: "Martin Westgate"
 title: "Improving data sharing and re-use at the Atlas of Living Australia"
 subtitle: "VicBioCon, La Trobe University"
+image: title_page.png
+description: https://mjwestgate-tern-webinar-2024.share.connect.posit.cloud
 date: 2024-02-08
 ---

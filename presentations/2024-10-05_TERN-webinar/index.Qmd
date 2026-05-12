@@ -1,0 +1,8 @@
+---
+author: "Martin Westgate"
+title: "Improving data sharing & re-use at the Atlas of Living Australia"
+subtitle: "TERN Webinar"
+image: title_page.png
+description: https://mjwestgate-tern-webinar-2024.share.connect.posit.cloud
+date: 2024-10-05
+---

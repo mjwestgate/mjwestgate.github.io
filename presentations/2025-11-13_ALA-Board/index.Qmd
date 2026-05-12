@@ -1,0 +1,8 @@
+---
+author: "Martin Westgate"
+title: "Supporting Open Science at the Atlas of Living Australia"
+subtitle: "Presentation to the ALA Advisory Board"
+image: title_page.png
+description: https://mjwestgate-ala-board-2025.share.connect.posit.cloud
+date: 2025-11-13
+---

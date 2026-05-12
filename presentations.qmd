@@ -1,8 +1,8 @@
 ---
 title: "Presentations"
 listing: 
-  type: default
   contents: presentations
+  template: presentations.ejs
   sort: "date desc"
   categories: false
 ---

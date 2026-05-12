@@ -1,0 +1,8 @@
+---
+author: "Peggy Newman, Martin Westgate, Amanda Buyan, Dax Kellie & Shandiya Balasubramaniam"
+title: "galaxias"
+subtitle: "Presentation to the Living Data Conference"
+image: title_page.png
+description: https://mjwestgate-living-data-2025.share.connect.posit.cloud
+date: 2025-10-14
+---

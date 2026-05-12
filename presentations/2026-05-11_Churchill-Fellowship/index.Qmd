@@ -1,0 +1,8 @@
+---
+author: "Martin Westgate"
+title: "Rethinking Data Quality"
+subtitle: "Churchill Fellowship Presentation"
+image: title_page.png
+description: https://mjwestgate-churchill-fellowship-2026.share.connect.posit.cloud
+date: 2026-05-11
+---
