@@ -2,6 +2,14 @@ project:
   type: website
 website:
   title: "MW"
+  open-graph: true
+  plausible-analytics: |
+    <!-- Privacy-friendly analytics by Plausible -->
+    <script async src="https://plausible.io/js/pa-QZEpD3zoHxPkIZnzqvonE.js"></script>
+    <script>
+      window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+      plausible.init()
+    </script>
   navbar:
     right:
       - text: Papers
@@ -15,7 +23,6 @@ website:
       - icon: github
         href: https://github.com/mjwestgate
     search: true
-
 format:
   html:
     theme: [litera, custom.scss]
