@@ -1,6 +1,6 @@
 <div class="list">
 <% for (const item of items) { %>
-<div <%= metadataAttrs(item) %>>
+<div class="quarto-post" <%= metadataAttrs(item) %>>
   <br>
   <table>
     <tr>
@@ -10,7 +10,9 @@
         </a>
       </td>
       <td>
-        <h5 class="listing-title"><%- item.title %></h5>
+        <h3 class="no-anchor listing-title">
+          <a href="<%- item.path %>"><%- item.title %></a>
+        </h3>
         <span class="text-muted listing-subtitle"><%= item.subtitle %></span>
         <p class="quarto-title-authors listing-author">
           <%- item.author %>

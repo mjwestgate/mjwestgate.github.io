@@ -1,21 +1,21 @@
 <div class="list">
 <% for (const item of items) { %>
-<div <%= metadataAttrs(item) %>>
+<div class="quarto-post" <%= metadataAttrs(item) %>>
   <br>
   <table>
     <tr>
       <td>
-        <a href="<%- item.description %>" target="_blank">
+        <a href="<%- item.path %>">
           <img src="<%- item.image %>" alt="<%- item.description %>" class="thumbnail-image"/>
         </a>
       </td>
       <td>
-        <h5 class="listing-title"><%- item.title %></h5>
-        <span class="text-muted listing-subtitle">
-          <%= item.subtitle %>
-        </span>
+        <h3 class="no-anchor listing-title">
+          <a href="<%- item.path %>"><%- item.title %></a>
+        </h3>
+        <span class="text-muted listing-subtitle"><%= item.subtitle %></span>
         <p class="quarto-title-authors listing-author">
-          <%- item.date %>
+          <%- item.author %>
         </p>
       </td>
     </tr>
