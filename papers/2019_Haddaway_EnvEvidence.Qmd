@@ -10,7 +10,7 @@ categories:
   - author-contributing
   - topic-metascience
   - method-code
-  - workshop-paper
+  - method-workshop
 ---
 
 ### Abstract

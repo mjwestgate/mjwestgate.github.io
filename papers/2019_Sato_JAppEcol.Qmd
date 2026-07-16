@@ -11,7 +11,7 @@ categories:
   - author-contributing
   - topic-surrogates-and-indicators
   - method-conceptual
-  - workshop-paper
+  - method-workshop
 ---
 
 CF Sato, <b>MJ Westgate</b>, PS Barton, CN Foster, L O'Loughlin, J Pierson, J Balmer, J Chapman, G Catt, T Detto, A Hawcroft, R Kavanagh, D Marshall, M McKay, K Moseby, M Perry, D Robinson, M Schroder, K Tuft, DB Lindenmayer

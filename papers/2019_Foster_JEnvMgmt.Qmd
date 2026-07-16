@@ -9,7 +9,7 @@ categories:
   - author-contributing
   - topic-landscape-ecology
   - method-conceptual
-  - workshop-paper
+  - method-workshop
 ---
 CN Foster, LS O'Loughlin, CF Sato, <b>MJ Westgate</b>, PS Barton, JC Pierson, JM Balmer, G Catt, J Chapman, T Detto, A Hawcroft, G Jones, RP Kavanagh, M McKay, D Marshall, KE Moseby, M Perry, D Robinson, JA Seddon, K Tuft & DB Lindenmayer
 

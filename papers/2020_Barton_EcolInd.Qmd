@@ -10,7 +10,7 @@ categories:
   - author-contributing
   - topic-surrogates-and-indicators
   - method-conceptual
-  - workshop-paper
+  - method-workshop
 ---
 
 ### Abstract

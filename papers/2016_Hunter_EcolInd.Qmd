@@ -10,7 +10,7 @@ categories:
   - author-contributing
   - topic-surrogates-and-indicators
   - method-conceptual
-  - workshop-paper
+  - method-workshop
 ---
 
 M Hunter Jr., <b>M Westgate</b>, P Barton, A Calhoun, J Pierson, A Tulloch, M Beger, C Branquino, T Caro, J Gross, J Heino, P Lane, C Longo, K Martin, WH McDowell, C Mellin, H Salo & D Lindenmayer

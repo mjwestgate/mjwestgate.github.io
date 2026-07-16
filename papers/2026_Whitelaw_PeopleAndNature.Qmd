@@ -1,0 +1,22 @@
+---
+author: M Whitelaw, A Mackenzie, <b>MJ Westgate</b> & K Morrow
+title: "Designing for biodiversity data in place: Species, encounters, and interfaces"
+subtitle: People and Nature
+date: 2026-07-03
+doi: 10.1002/pan3.70384
+categories: 
+  - author-contributing
+  - topic-biodiversity-informatics
+  - method-empirical
+  - method-code
+---
+
+### Abstract
+<ol>
+  <li>Species occurrence data, which records the presence of an organism at a point in space and time, is central to environmental science and its opening up to new forms of participation such as citizen science. Such data are increasingly aggregated and mobilised, reaching diverse audiences. This paper addresses the critical role of interface design in this context. How might interfaces be accountable to the complex and rich relationality of biodiversity occurrence data? How might we design for biodiversity data in place, in support of nature recovery?</li>
+  <li>Working with the Atlas of Living Australia (ALA) as a public platform, this collaborative research combines design, digital humanities, critical data studies and STS methods to develop, analyse and theorise an experimental interface to the ALA: ALA Lens.</li>
+  <li>Existing biodiversity data interfaces select and order relationships to meet practical constraints, but a focus on frequently occurring species reinforces taxonomic bias and obscures characteristic relationships between species and place.</li>
+  <li>We present an interface that focuses on the relationships between species, people, and place in biodiversity data, eliciting the spatial distinctiveness of living places and bringing local species into view. We document both an adaptable quantitative method for surfacing locally distinctive species in aggregated biodiversity occurrence data and a way of reconfiguring occurrence data as people-place encounters.</li>
+  <li>This interface demonstrates that biodiversity data reflects people-nature encounters in place. We frame these encounters as overlays where occurrence data are produced at the local intersections of human interests, projects and preferences with non-human habitats and lifeways.</li>
+  <li>Interfaces to biodiversity data determine which of its many features and relationships are brought to the surface, and which are concealed. We show how interfaces can be reordered around people-nature-place relationships, and argue that in bringing both human and ecological values to light, interfaces can play a role in shaping practices and attention that support nature recovery.</li>
+</ol>
