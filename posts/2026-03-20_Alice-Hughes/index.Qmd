@@ -12,7 +12,7 @@ categories:
   - role-Researcher
 ---
 
-_This is a modified transcript of a discussion on 19th March 2026 with Alice Hughes, Professor of Conservation Science at the University of Melbourne and co-chair of [GEOBON](https://geobon.org). The transcript has been edited for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
+_This is a modified transcript of a discussion on 19^th^ March 2026 with Alice Hughes, Professor of Conservation Science at the University of Melbourne and co-chair of [GEOBON](https://geobon.org). The transcript has been edited for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
 
 #### At the Atlas of Living Australia (ALA), we see a lot of commentary that data quality should be improved. What's your view of that problem?
 

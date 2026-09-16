@@ -10,7 +10,7 @@ categories:
   - role-Infrastructure
 ---
 
-_This is a modified transcript of a discussion on 13th May 2026 with Dag Endresen & Fatima Parker-Allie, node managers for GBIF Norway and GBIF South Africa (respectively). The transcript has been edited for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
+_This is a modified transcript of a discussion on 13^th^ May 2026 with Dag Endresen & Fatima Parker-Allie, node managers for GBIF Norway and GBIF South Africa (respectively). The transcript has been edited for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
 
 **Martin** Perhaps we could start by talking about the organisations you lead. We had the GBIF Norway node meeting earlier, Dag, and there were more people than I expected; how big are your respective nodes?
 

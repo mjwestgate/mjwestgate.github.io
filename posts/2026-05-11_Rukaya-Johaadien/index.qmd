@@ -10,7 +10,7 @@ categories:
   - role-Technical
 ---
 
-_This is a modified transcript of a discussion on 11th May 2026 with Rukaya Johaadien, Data Manager at GBIF Norway, and two-time winner of the GBIF Ebbe Nielsen Challenge (in 2024 & 2025). The transcript has been editted for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
+_This is a modified transcript of a discussion on 11^th^ May 2026 with Rukaya Johaadien, Data Manager at GBIF Norway, and two-time winner of the GBIF Ebbe Nielsen Challenge (in 2024 & 2025). The transcript has been editted for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed._
 
 #### Could you tell me about the project you won the 2025 Ebbe Nielsen prize for? 
 
