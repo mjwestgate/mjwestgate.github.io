@@ -3,7 +3,7 @@ author: <b>MJ Westgate</b>, DA Driscoll & DB Lindenmayer
 title: "Limited influence of stream networks on the terrestrial movements of three wetland-dependent frog species"
 subtitle: Biological Conservation
 date: 2012-06-29
-volumn: 153
+volume: 153
 pages: 169-176
 doi: 10.1016/j.biocon.2012.04.030
 categories:

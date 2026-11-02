@@ -1,7 +1,7 @@
 ---
 author: "Martin Westgate"
 title: "Serge Belongie"
-subtitle: "Pioneer Centre for Artificial Intelligence | Copenhagen | 10-06-2026"
+subtitle: "Pioneer Centre for Artificial Intelligence | Copenhagen"
 date: 2026-09-16
 bibliography: references.bib
 csl: nature.csl

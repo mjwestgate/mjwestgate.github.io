@@ -1,7 +1,7 @@
 ---
 author: "Martin Westgate"
 title: "Dag Endresen & Fatima Parker-Allie"
-subtitle: "Natural History Museum | Oslo | 13-05-2026"
+subtitle: "Natural History Museum | Oslo"
 date: 2026-05-28
 image: "Dag_Fatima_May2026.jpeg"
 categories:

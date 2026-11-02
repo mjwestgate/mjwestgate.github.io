@@ -1,7 +1,7 @@
 ---
 author: "Martin Westgate"
 title: "Alice Hughes"
-subtitle: "Australian National University | Canberra | 19-03-2026"
+subtitle: "Australian National University | Canberra"
 date: 2026-03-24
 bibliography: references.bib
 csl: nature.csl

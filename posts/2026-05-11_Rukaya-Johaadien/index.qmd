@@ -1,7 +1,7 @@
 ---
 author: "Martin Westgate"
 title: "Rukaya Johaadien"
-subtitle: "Natural History Museum | Oslo | 11-05-2026"
+subtitle: "Natural History Museum | Oslo"
 image: "Rukaya_Johaadien.png"
 date: 2026-05-11
 categories:
