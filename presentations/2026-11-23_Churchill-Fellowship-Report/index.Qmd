@@ -1,0 +1,8 @@
+---
+author: "Martin Westgate"
+title: "Churchill Fellowship Report"
+subtitle: "Internal presentation to ALA"
+image: title_page.png
+description: https://mjwestgate-churchill-fellowship-report.share.connect.posit.cloud
+date: 2026-11-23
+---
