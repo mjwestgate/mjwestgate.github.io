@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Martin Westgate, Dax Kellie, Matilda Stevenson &amp; Peggy Newman">
-<meta name="dcterms.date" content="2025-06-13">
+<meta name="author" content="Martin Westgate &amp; Eliza Grames">
+<meta name="dcterms.date" content="2019-12-17">
 
-<title>galah – Martin Westgate</title>
+<title>synthesisr – Martin Westgate</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -84,10 +84,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="galah – Martin Westgate">
-<meta property="og:description" content="Biodiversity Data from the GBIF Node Network">
-<meta property="og:image" content="logo.png">
+<meta property="og:title" content="synthesisr – Martin Westgate">
+<meta property="og:description" content="Import, Assemble, and Deduplicate Bibliographic Datasets">
+<meta property="og:image" content="https://martinwestgate.com/packages/synthesisr/logo.png">
 <meta property="og:site_name" content="Martin Westgate">
+<meta property="og:image:height" content="1200">
+<meta property="og:image:width" content="1037">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -140,16 +142,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">galah</h1>
-<p class="subtitle lead">Biodiversity Data from the GBIF Node Network</p>
+<h1 class="title">synthesisr</h1>
+<p class="subtitle lead">Import, Assemble, and Deduplicate Bibliographic Datasets</p>
 </div>
 
 
@@ -159,14 +167,14 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Martin Westgate, Dax Kellie, Matilda Stevenson &amp; Peggy Newman </p>
+             <p>Martin Westgate &amp; Eliza Grames </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 13, 2025</p>
+      <p class="date">December 17, 2019</p>
     </div>
   </div>
   
@@ -175,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-title-meta-heading">Doi</div>
     <div class="quarto-title-meta-contents">
       <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.32614/CRAN.package.galah">https://doi.org/10.32614/CRAN.package.galah</a>
+        <a href="https://doi.org/https://doi.org/10.32614/CRAN.package.synthesisr">https://doi.org/10.32614/CRAN.package.synthesisr</a>
       </p>
     </div>
   </div>
@@ -186,11 +194,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://galah.ala.org.au/R/"> <img src="logo.png" class="hex"> </a></p>
-<p><img src="https://www.r-pkg.org/badges/version/galah" class="img-fluid"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/galah" class="img-fluid"></p>
-<p>The Global Biodiversity Information Facility (<a href="https://www.gbif.org">GBIF</a>) sources data from an international network of data providers, known as ‘nodes’. Several of these nodes - the <a href="https://living-atlases.gbif.org">living atlases</a> - maintain their own web services using software originally developed by the Atlas of Living Australia (<a href="https://www.ala.org.au">ALA</a>). ‘galah’ enables the R community to directly access data and resources hosted by GBIF and its partner nodes.</p>
+<p><a href="https://martinwestgate.com/synthesisr"> <img src="logo.png" class="hex"> </a></p>
+<p><img src="https://www.r-pkg.org/badges/version/synthesisr" class="img-fluid"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/synthesisr" class="img-fluid"></p>
+<section id="description" class="level3">
+<h3 class="anchored" data-anchor-id="description">Description</h3>
+<p>A critical first step in systematic literature reviews and mining of academic texts is to identify relevant texts from a range of sources, particularly databases such as ‘Web of Science’ or ‘Scopus’. These databases often export in different formats or with different metadata tags. ‘synthesisr’ expands on the tools outlined by Westgate (2019) <a href="doi:10.1002/jrsm.1374" class="uri">doi:10.1002/jrsm.1374</a> to import bibliographic data from a range of formats (such as ‘bibtex’, ‘ris’, or ‘ciw’) in a standard way, and allows merging and deduplication of the resulting dataset.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -266,7 +277,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/martinwestgate\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

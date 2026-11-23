@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Martin Westgate">
-<meta name="dcterms.date" content="2026-05-11">
+<meta name="dcterms.date" content="2023-08-29">
 
-<title>Rukaya Johaadien – Martin Westgate</title>
+<title>potions – Martin Westgate</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -84,10 +84,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="Rukaya Johaadien – Martin Westgate">
-<meta property="og:description" content="Natural History Museum | Oslo">
-<meta property="og:image" content="Rukaya_Johaadien.png">
+<meta property="og:title" content="potions – Martin Westgate">
+<meta property="og:description" content="Easy Options Management">
+<meta property="og:image" content="https://martinwestgate.com/packages/potions/logo.png">
 <meta property="og:site_name" content="Martin Westgate">
+<meta property="og:image:height" content="1153">
+<meta property="og:image:width" content="1000">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -148,14 +150,9 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Rukaya Johaadien</h1>
-<p class="subtitle lead">Natural History Museum | Oslo</p>
-  <div class="quarto-categories">
-    <div class="quarto-category">type-Interview</div>
-    <div class="quarto-category">location-Norway</div>
-    <div class="quarto-category">role-Technical</div>
-  </div>
-  </div>
+<h1 class="title">potions</h1>
+<p class="subtitle lead">Easy Options Management</p>
+</div>
 
 
 
@@ -171,11 +168,19 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 11, 2026</p>
+      <p class="date">August 29, 2023</p>
     </div>
   </div>
   
     
+    <div>
+    <div class="quarto-title-meta-heading">Doi</div>
+    <div class="quarto-title-meta-contents">
+      <p class="doi">
+        <a href="https://doi.org/https://doi.org/10.32614/CRAN.package.potions">https://doi.org/10.32614/CRAN.package.potions</a>
+      </p>
+    </div>
+  </div>
   </div>
   
 
@@ -183,93 +188,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>This is a modified transcript of a discussion on 11<sup>th</sup> May 2026 with Rukaya Johaadien, Data Manager at GBIF Norway, and two-time winner of the GBIF Ebbe Nielsen Challenge (in 2024 &amp; 2025). The transcript has been editted for brevity and clarity - mainly on the part of the interviewer - and I have also added links and references to the content we discussed.</em></p>
-<section id="could-you-tell-me-about-the-project-you-won-the-2025-ebbe-nielsen-prize-for" class="level4">
-<h4 class="anchored" data-anchor-id="could-you-tell-me-about-the-project-you-won-the-2025-ebbe-nielsen-prize-for">Could you tell me about the project you won the 2025 Ebbe Nielsen prize for?</h4>
-<p><a href="https://github.com/gbif-norway/bdq-multirecord-agent">BDQEmail</a>? I wanted it to have as low barrier as possible. I was part of a panel which was reviewing a set of biodiversity data quality tests called <a href="https://github.com/tdwg/bdq">BDQ</a>, which is intended to become a <a href="https://www.tdwg.org/community/bdq/">TDWG standard</a>. I was reviewing it and I felt like it would be quite hard for people to implement it.</p>
-<p>So <a href="https://www.mcz.harvard.edu/people/paul-j-morris">Paul Morris</a>, who’s part of Lee [Belbin] and Arthur [Chapman]’s team on this, wrote some code, which implemented these tests. But to use it, you had to spin up your own Java server, know how to execute it, know how to interface with it. I wanted it people to be able to use it easily, you know?</p>
-<p>I thought, okay, the very, very simplest thing would be for people to be able to send an email with their data file and for it to return some information about it. So I made a wrapper over Paul’s code, which acted as an API, and I set up a BDQ email at gmail.com which is where people can send their text file or CSV or spreadsheet or whatever it is they have. I have a very simple Google App script, which polls the inbox account. It checks to see, firstly, if there’s an attachment, and then if it’s in a format that I accept, and finally whether the headers in there are at least a little bit Darwin Core-like. And then if it passes those checks, it sends that file to the API, which I set up…do you want the technical details as well?</p>
-</section>
-<section id="sure" class="level4">
-<h4 class="anchored" data-anchor-id="sure">Sure!</h4>
-<p>Well that’s running in the cloud, it just spins up when it’s needed. So most of the time it’s dormant. People were maybe using it like once every two weeks or so. Now people are using it almost daily.</p>
-<p>So it spins up the wrapper and the API, Paul’s code in Java, and I had to have the wrapper in order to do batch processing for larger batches because it does geographical lookups, which ends up taking ages and ages. So there’s a little bit of complexity in there. This is another reason why email was such a good format for this, actually, because you don’t expect an email back immediately. GBIF has the same thing and they email you when your download is ready.</p>
-<p>Once all the processing is finished, it constructs an email with the results. And that email is not the raw results of those tests because it’s horrendous to try and figure out what’s going on there. It’s an AI interpretation of what it thinks are the critical parts that need fixing, that draws on a lot of contextual information that I gave it. I think this one is using Gemini for cost reasons. For me, open AI’s models are the best at the moment, so that’s what I tend to be using for most of my own stuff. I’m regularly experimenting though. Anyway, it has an AI interpretation written in proper sentences, explaining what they need to do in quite friendly language. It’s encouraging.</p>
-<p>Finally, it links to a dashboard and the dashboard has visualisations for the test results. And I think that is super useful because you can’t interpret those test results without visualisation. So that’s all that that that thing is and that’s how it worked. People say, people are giving good feedback about it and say it’s useful when it gets used, so that’s good.</p>
-<figure class="figure">
-<img src="Lids_House_Oslo_May2026.jpeg" class="img-fluid figure-img img-rounded" style="width:100%">
-<figcaption>
-Botanical Museum, Lids House, Oslo Botanical Garden, May 2026
-</figcaption>
-</figure>
-</section>
-<section id="thats-fantastic." class="level4">
-<h4 class="anchored" data-anchor-id="thats-fantastic.">That’s fantastic.</h4>
-<p>The good thing about it is that I can run things ad hoc against that API. I haven’t done it yet, but I plan to take our important data sets, which are published by the Natural History Museum and Herbarium here, and I will run those tests through BDQemail. And that generates a similar report and emails it to all of our data providers. I plan to do it like maybe twice a year. And I think that’s going to help a lot with data quality, because people, once they start publishing their data, they feel a little bit of ownership over it and they start getting proud of it and wanting wanting to improve it.</p>
-</section>
-<section id="so-it-sounds-like-you-and-the-team-here-at-gbif-norway-focus-primarily-on-awareness-training-outreach-and-youve-been-building-additional-tools-to-support-the-existing-gbif-workflows.-is-that-fair-assessment" class="level4">
-<h4 class="anchored" data-anchor-id="so-it-sounds-like-you-and-the-team-here-at-gbif-norway-focus-primarily-on-awareness-training-outreach-and-youve-been-building-additional-tools-to-support-the-existing-gbif-workflows.-is-that-fair-assessment">So it sounds like you and the team here at GBIF Norway focus primarily on awareness, training, outreach, and you’ve been building additional tools to support the existing GBIF workflows. Is that fair assessment?</h4>
-<p>Yeah, I would say so. Pretty much all of my job is about getting data published, and also a large portion on data quality and that kind of thing.</p>
-</section>
-<section id="and-is-that-mostly-talking-with-the-collections-or-government-or-researchers" class="level4">
-<h4 class="anchored" data-anchor-id="and-is-that-mostly-talking-with-the-collections-or-government-or-researchers">And is that mostly talking with the collections or government or researchers?</h4>
-<p>It’s mostly researchers, I guess, but there’s also a lot of private companies who are mandated to publish their data.</p>
-</section>
-<section id="yeah-okay.-is-that-a-recent-thing" class="level4">
-<h4 class="anchored" data-anchor-id="yeah-okay.-is-that-a-recent-thing">Yeah, okay. Is that a recent thing?</h4>
-<p>Over the past three years or so, we’ve been getting substantially more people who, more private companies who are publishing their data. So they will interact with me and will assess something up to interface with their database or if they have files that they need regularly publishing. Whatever it is, I’ll help them with it. I would say that there was supposed to be doing it before, but we have been kind of like pushing them to actually really truly do it. But I’m sure in Australia you probably have like laws saying that if you do an environmental assessment, you have to publish the data?</p>
-</section>
-<section id="look-our-whole-biodiversity-legal-framework-got-revised-last-year-and-were-still-working-out-the-details.-to-date-data-has-been-given-to-the-assessing-agency-but-its-not-necessarily-been-made-public-after-that." class="level4">
-<h4 class="anchored" data-anchor-id="look-our-whole-biodiversity-legal-framework-got-revised-last-year-and-were-still-working-out-the-details.-to-date-data-has-been-given-to-the-assessing-agency-but-its-not-necessarily-been-made-public-after-that.">Look, our whole biodiversity legal framework got revised last year and we’re still working out the details. To date, data has been given to the assessing agency, but it’s not necessarily been made public after that.</h4>
-<p>I feel like, honestly, this is the trickiest thing to figure out. And I wish I could tell you exactly how we’ve done it. One thing that has helped is that we have a grant; small quantities of money, which we give them upon the publication of data. But that’s more for research organisations, not for the private sector. I don’t know, we had lots of workshops and we invited them and just made them aware.</p>
-<p>I think one of the things that helps a lot, to be honest, is that Norway is a very law-abiding country. Australia is as well, but Norwegians are incredibly… I mean, once I lost my wallet. I was just like walking along and I dropped my purse. In any other country that I’ve lived in would have been gone within seconds. It was still there, like 4 or 5 hours later! Someone had even put it up high so that it was visible. So I think I think it might be a cultural thing, which has kind of helped in our case.</p>
-</section>
-<section id="so-it-feels-like-youre-acting-like-partly-in-an-outreach-role-but-also-just-doing-a-lot-of-helping-people-process-their-data-or-processing-data-on-their-behalf.-is-that-fair" class="level4">
-<h4 class="anchored" data-anchor-id="so-it-feels-like-youre-acting-like-partly-in-an-outreach-role-but-also-just-doing-a-lot-of-helping-people-process-their-data-or-processing-data-on-their-behalf.-is-that-fair">So it feels like you’re acting like partly in an outreach role, but also just doing a lot of helping people process their data or processing data on their behalf. Is that fair?</h4>
-<p>Yeah.</p>
-</section>
-<section id="thats-a-big-job." class="level4">
-<h4 class="anchored" data-anchor-id="thats-a-big-job.">That’s a big job.</h4>
-<p>Yeah. I mean, it’s a lot easier now, with AI to help. So obviously I check everything. But I can process things so much more quickly than before and have the chat boards and then I have tools like this BDQ data quality standard thing.</p>
-</section>
-<section id="do-you-find-the-current-tools-for-flagging-errors-are-adequate-or-do-you-feel-theyre-lacking-in-some-way" class="level4">
-<h4 class="anchored" data-anchor-id="do-you-find-the-current-tools-for-flagging-errors-are-adequate-or-do-you-feel-theyre-lacking-in-some-way">Do you find the current tools for flagging errors are adequate, or do you feel they’re lacking in some way?</h4>
-<p>It’s an interesting question. I don’t know, really. I think it’s a bit silly that the <a href="https://ipt.gbif.org/manual/en/ipt/latest/">IPT</a> doesn’t have more built-in checks because we end up using that a lot. I feel like that should have more kind of basic checks and it shouldn’t be like buried away when you press the publish button. We can do such cool stuff with UI now. It’s sort of frustrates me a little bit that you don’t get like live data views showing you errors and it could be really cool.</p>
-<p>In fact, I want to build that. I’ve decided. Build something into the IPT; or perhaps it should go into <a href="https://chatipt.svc.gbif.no">chatIPT</a>, since that’s my baby.</p>
-<p>I do feel like…the data quality tools that we’ve got are slightly antiquated. In terms of user friendliness, they could be a lot better. And I guess, the actual things that they’re checking <em>could</em> also be improved. But the BDQ standard seems really exhaustive, so I can’t think of how to improve that.</p>
-</section>
-<section id="thats-fair.-its-interesting-that-as-developers-our-instinct-is-often-to-go-and-write-some-new-tool-or-some-new-code-and-im-trying-to-resist-that-in-myself.-because-i-do-think-there-is-a-communication-aspect-to-it.-like-there-are-like-a-lot-of-the-things-we-have-do-provide-some-useful-information-but-people-arent-finding-it." class="level4">
-<h4 class="anchored" data-anchor-id="thats-fair.-its-interesting-that-as-developers-our-instinct-is-often-to-go-and-write-some-new-tool-or-some-new-code-and-im-trying-to-resist-that-in-myself.-because-i-do-think-there-is-a-communication-aspect-to-it.-like-there-are-like-a-lot-of-the-things-we-have-do-provide-some-useful-information-but-people-arent-finding-it.">That’s fair. It’s interesting that as developers, our instinct is often to go and write some new tool or some new code, and I’m trying to resist that in myself. Because I do think there is a communication aspect to it. Like, there are like a lot of the things we have do provide some useful information, but people aren’t finding it.</h4>
-</section>
-<section id="but-beyond-that-a-lot-the-errors-people-report-to-us-are-only-visible-once-the-data-have-been-aggregated-like-classic-outliers-and-stuff.-and-so-i-think-there-is-potentially-a-role-for-gbif-and-the-nodes-to-work-in-that-space-because-theres-information-you-get-from-having-all-the-data-in-place-that-you-dont-get-from-individual-datasets." class="level4">
-<h4 class="anchored" data-anchor-id="but-beyond-that-a-lot-the-errors-people-report-to-us-are-only-visible-once-the-data-have-been-aggregated-like-classic-outliers-and-stuff.-and-so-i-think-there-is-potentially-a-role-for-gbif-and-the-nodes-to-work-in-that-space-because-theres-information-you-get-from-having-all-the-data-in-place-that-you-dont-get-from-individual-datasets.">But beyond that, a lot the errors people report to us are only visible once the data have been aggregated, like classic outliers and stuff. And so I think there is potentially a role for GBIF and the nodes to work in that space, because there’s information you get from having all the data in place that you don’t get from individual datasets.</h4>
-<p>I’m just trying to remember if there are any BDQ tests for species distribution checking. And I don’t think that it does that kind of thing. I don’t remember anything like that. That’s kind of data interpretation as well. I mean, it’s really difficult to say what is an outlier and what’s not; you have people who dedicate their lives to trying to work this stuff out.</p>
-<p>I don’t know how…I guess it could do things like say “Something is suspect here”. Again, I think that you should have an AI filter or something that can be smart about flagging certain things and tell what could plausibly, really, truly be a problem? I hadn’t really thought about that.</p>
-<figure class="figure">
-<img src="Palm_House_Oslo_May2026.jpeg" class="img-fluid figure-img img-rounded" style="width:100%">
-<figcaption>
-Palm House, Oslo Botanical Garden, May 2026
-</figcaption>
-</figure>
-</section>
-<section id="youre-right-i-think-historically-at-ala-weve-made-the-generalisation-that-were-an-aggregator-and-interpretation-is-someone-elses-remit.-and-maintaining-the-infrastructure-takes-a-lot-of-time-too-so-its-difficult-to-prioritize-data-quality-sometimes." class="level4">
-<h4 class="anchored" data-anchor-id="youre-right-i-think-historically-at-ala-weve-made-the-generalisation-that-were-an-aggregator-and-interpretation-is-someone-elses-remit.-and-maintaining-the-infrastructure-takes-a-lot-of-time-too-so-its-difficult-to-prioritize-data-quality-sometimes.">You’re right, I think historically at ALA, we’ve made the generalisation that we’re an aggregator and interpretation is someone else’s remit. And maintaining the infrastructure takes a lot of time too, so it’s difficult to prioritize data quality sometimes.</h4>
-<p>I’ve always been totally impressed by Atlas of Living Australia.</p>
-</section>
-<section id="thanks-i-didnt-build-any-of-it-but-our-operational-teams-do-a-great-job." class="level4">
-<h4 class="anchored" data-anchor-id="thanks-i-didnt-build-any-of-it-but-our-operational-teams-do-a-great-job.">Thanks! I didn’t build any of it, but our operational teams do a great job.</h4>
-<p>It’s a combination of like building it and actually like keeping it going. I used to work for the <a href="https://www.sanbi.org">South African National Biodiversity Institute</a>, and I remember I looked at the ALA code base at one point like thinking “Oh, maybe we can implement something like that”. And I was just like, wow, this is complex.</p>
-</section>
-<section id="its-funny-because-some-of-our-code-is-old-and-needs-cleaning-up-for-sure-but-i-think-a-great-deal-of-that-complexity-is-innate-in-the-sorts-of-data-we-have-and-the-problems-were-trying-to-solve." class="level4">
-<h4 class="anchored" data-anchor-id="its-funny-because-some-of-our-code-is-old-and-needs-cleaning-up-for-sure-but-i-think-a-great-deal-of-that-complexity-is-innate-in-the-sorts-of-data-we-have-and-the-problems-were-trying-to-solve.">It’s funny, because some of our code is old and needs cleaning up, for sure, but I think a great deal of that complexity is innate in the sorts of data we have and the problems we’re trying to solve.</h4>
-<p>I realised this as I got deeper and deeper into it. There’s a reason why all these bits are like this. And it’s kind of shocking that deeper you go, the more you find. Which is why I was asking you these questions about like how much AI are you guys using for that now?</p>
-</section>
-<section id="look-my-team-doesnt-use-it-much-yet.-but-our-systems-team-have-picked-it-up-for-helping-them-write-code." class="level4">
-<h4 class="anchored" data-anchor-id="look-my-team-doesnt-use-it-much-yet.-but-our-systems-team-have-picked-it-up-for-helping-them-write-code.">Look, my team doesn’t use it much yet. But our systems team have picked it up for helping them write code.</h4>
-<p>Gosh, I use it constantly for setting up CI/CD and anything that’s to do with SysOps stuff. I never enjoyed doing it. I got kind of got over the hump of the learning curve, but the process of getting familiar with <a href="https://kubernetes.io">Kubernetes</a> and <a href="https://www.jenkins.io">Jenkins</a> and I just didn’t enjoy that. So now I can just ask <a href="https://openai.com/codex/">Codex</a> to do whatever it is and deploy and roll out and set up a sensible system for me and I’m totally fine with that.</p>
+<p><a href="https://potions.ala.org.au/R/"> <img src="logo.png" class="hex"> </a></p>
+<p><img src="https://www.r-pkg.org/badges/version/potions" class="img-fluid"> <img src="https://cranlogs.r-pkg.org/badges/grand-total/potions" class="img-fluid"></p>
+<p>Store and retrieve data from <code>options()</code> using syntax derived from the ‘here’ package. ‘potions’ makes it straightforward to update and retrieve options, either in the workspace or during package development, without overwriting global options.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -345,7 +268,7 @@ Palm House, Oslo Botanical Garden, May 2026
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/martinwestgate\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
