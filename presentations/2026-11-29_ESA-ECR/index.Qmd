@@ -1,0 +1,8 @@
+---
+author: "Martin Westgate"
+title: "On surprise"
+subtitle: "ESA Early Career Researcher Workshop, Brisbane"
+image: title_page.png
+description: https://mjwestgate-on-surprise.share.connect.posit.cloud
+date: 2026-11-29
+---
